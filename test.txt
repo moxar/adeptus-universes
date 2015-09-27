@@ -1,0 +1,11 @@
+name: test
+
+WS	0
+BS	0
+STR	0
+TOU	0
+AGI	0
+INT	0
+PER	0
+WIL	0
+FEL	0
