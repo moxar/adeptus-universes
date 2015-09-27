@@ -117,7 +117,7 @@
             "Aptitudes": ["strength", "general"]
         },
         {
-            "Name": "awarness",
+            "Name": "awareness",
             "Aptitudes": ["perception", "fieldcraft"]
         },
         {
@@ -226,7 +226,6 @@
 			"Name":"catfall",
 			"Aptitudes":["agility", "fieldcraft"],
 			"Requirements":[],
-			"Tier": 1,
 			"Tier": 1
 		},
 		{
