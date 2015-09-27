@@ -1,0 +1,26 @@
+#Romain
+name:	Amon Ad-Raza
+totem:	griffon
+career: Chevalier, Champion de justice
+
+WS	36
+BS	27
+STR	37
+TOU	32
+AGI	37
+INT	29
+PER	28
+WIL	27
+FEL	29
+
+2015/09/27	Creation	[1000]
+	- offence
+	- strength
+	- toughness
+	* STR +5
+	* WS +5
+	* TOU +5
+	* takedown
+	* medicae
+	* athletics
+	* Fate 2 [100]

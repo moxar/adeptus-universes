@@ -1,0 +1,29 @@
+#Bastien
+name:	Feora
+Totem:	griffon
+career: Mage, Sage
+
+WS	29
+BS	28
+STR	33
+TOU	31
+AGI	30
+INT	32
+PER	31
+WIL	39
+FEL	29
+
+2015/09/27	Creation	[1000]
+	* Fate 2	[100]
+	- toughness
+	- social
+	- fieldcraft
+	- Sanction
+	* WIL +5
+	* INT +5
+	* medicae
+	* magic sense
+	* common lore
+	+ Onde de ferveur			[100]
+	+ Attaque primaire de feu	[100]
+	+ Immolation				[100]

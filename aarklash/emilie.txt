@@ -1,0 +1,26 @@
+#Bastien
+name:	Briene
+Totem:	lion
+career: Homme d'arme, Paysan
+
+WS	37
+BS	28
+STR	36
+TOU	35
+AGI	28
+INT	27
+PER	31
+WIL	34
+FEL	28
+
+2015/09/27	Creation	[1000]
+	- defence
+	- offence
+	- fieldcraft
+	* Fate 2	[100]
+	* WS +5
+	* STR +5
+	* TOU +5
+	* physical resistance: infections
+	* navigate
+	* survival

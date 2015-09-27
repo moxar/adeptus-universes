@@ -1,0 +1,26 @@
+#Vivien
+name:	Senkar
+totem:	dragon
+career: Assassin, Tireur
+
+WS	28
+BS	39
+STR	31
+TOU	30
+AGI	33
+INT	31
+PER	31
+WIL	31
+FEL	33
+
+2015/09/27	Creation	[1000]
+	- fieldcraft
+	- intelligence
+	* Fate 4 [200]
+	* AGI +5
+	* PER +5
+	* BS +5
+	* medicae
+	* awareness
+	* survival
+	* dodge
