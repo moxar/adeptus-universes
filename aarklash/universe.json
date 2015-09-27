@@ -225,101 +225,121 @@
 		{
 			"Name":"catfall",
 			"Aptitudes":["agility", "fieldcraft"],
-			"Requirements":[]
+			"Requirements":[],
+			"Tier": 1,
+			"Tier": 1
 		},
 		{
 			"Name":"nowhere to hide",
 			"Aptitudes":["perception", "offence"],
-			"Requirements":[]
+			"Requirements":[],
+			"Tier": 1
 		},
 		{
 			"Name":"deceptive",
 			"Aptitudes":["social", "fellowship"],
-			"Requirements":[]
+			"Requirements":[],
+			"Tier": 1
 		},
 		{
 			"Name":"specialist",
 			"Aptitudes":["knowledge", "general"],
-			"Requirements":[]
+			"Requirements":[],
+			"Tier": 1
 		},
 		{
 			"Name":"quick draw",
 			"Aptitudes":["agility", "finesse"],
-			"Requirements":[]
+			"Requirements":[],
+			"Tier": 1
 		},
 		{
 			"Name":"double team",
 			"Aptitudes":["general", "offence"],
-			"Requirements":[]
+			"Requirements":[],
+			"Tier": 1
 		},
 		{
 			"Name":"disarm",
 			"Aptitudes":["weapon skill", "defence"],
-			"Requirements":[]
+			"Requirements":[],
+			"Tier": 1
 		},
 		{
 			"Name":"keen Intuition",
 			"Aptitudes":["perception", "social"],
-			"Requirements":[]
+			"Requirements":[],
+			"Tier": 1
 		},
 		{
 			"Name":"physical resistance",
 			"Aptitudes":["toughness", "defence"],
-			"Requirements":[]
+			"Requirements":[],
+			"Tier": 1
 		},
 		{
 			"Name":"psychic resistance",
 			"Aptitudes":["willpower", "defence"],
-			"Requirements":[]
+			"Requirements":[],
+			"Tier": 1
 		},
 		{
 			"Name":"leap up",
 			"Aptitudes":["agility", "general"],
-			"Requirements":[]
+			"Requirements":[],
+			"Tier": 1
 		},
 		{
 			"Name":"clues from the crowds",
 			"Aptitudes":["general", "social"],
-			"Requirements":[]
+			"Requirements":[],
+			"Tier": 1
 		},
 		{
 			"Name":"takedown",
 			"Aptitudes":["weapon skill", "offence"],
-			"Requirements":[]
+			"Requirements":[],
+			"Tier": 1
 		},
 		{
 			"Name":"bardic knowledge",
 			"Aptitudes":["intelligence", "knowledge"],
-			"Requirements":[]
+			"Requirements":[],
+			"Tier": 1
 		},
 		{
 			"Name":"jaded",
 			"Aptitudes":["willpower", "defence"],
-			"Requirements":[]
+			"Requirements":[],
+			"Tier": 1
 		},
 		{
 			"Name":"load bearer",
 			"Aptitudes":["strength", "fieldcraft"],
-			"Requirements":[]
+			"Requirements":[],
+			"Tier": 1
 		},
 		{
 			"Name":"tough",
 			"Aptitudes":["toughness", "defence"],
-			"Requirements":[]
+			"Requirements":[],
+			"Tier": 1
 		},
 		{
 			"Name":"never quit",
 			"Aptitudes":["toughness", "willpower"],
-			"Requirements":[]
+			"Requirements":[],
+			"Tier": 1
 		},
 		{
 			"Name":"cold hearted",
 			"Aptitudes":["willpower", "social"],
-			"Requirements":[]
+			"Requirements":[],
+			"Tier": 1
 		}
     ],
     "Histories": {
-        "Totem": [
+        "totem": [
             {
                 "Name": "dragon",
                 "Upgrades": [
