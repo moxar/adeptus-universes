@@ -657,6 +657,16 @@
             "Description:": "Cette créature peut se relever en action libre."
         },
         {
+            "Name": "savoir encyclopédique",
+            "Aptitudes": [
+                "intelligence",
+                "knowledge"
+            ],
+            "Requirements": [],
+            "Tier": 1,
+            "Description:": "Cette créature peut effectuer des tests de connaissance dans les domaines qu'elle ne connait pas, avec un modificateur de -20."
+        },
+        {
             "Name": "spécialiste",
             "Aptitudes": [
                 "knowledge",
@@ -1891,7 +1901,7 @@
                     [
                         {
                             "Mark": "-",
-                            "Name": "spécialiste"
+                            "Name": "savoir encyclopédique"
                         }
                     ]
                 ]

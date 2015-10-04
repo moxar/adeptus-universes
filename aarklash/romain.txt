@@ -13,7 +13,7 @@ PER	28
 WIL	27
 FEL	29
 
-2015/09/27	Creation	[1000]
+2015/09/27 Creation [1000]
 	- offence
 	- strength
 	- toughness
