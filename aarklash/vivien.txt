@@ -24,3 +24,11 @@ FEL	33
 	* awareness
 	* survival
 	* dodge
+	+ Fate -2
+	
+#1: 	0
+#23: 	0
+#456: 	15
+#78: 	10
+#9:		11
+#10:	0
