@@ -13,14 +13,32 @@ PER	28
 WIL	27
 FEL	29
 
+2015/09/27 Initialisation
+	* offence
+	* strength
+	* toughness
+
 2015/09/27 Creation [1000]
-	- offence
-	- strength
-	- toughness
 	* STR +5
 	* WS +5
 	* TOU +5
-	* takedown
+	* plaquage
 	* medicae
 	* athletics
 	* Fate 2 [100]
+	
+2015/09/27 Voyage dans le désert [400]
+        * vigueur
+        * vigueur
+        
+2015/10/04 Nemesis [200]
+        * Fate +2 [100]
+        * Fate -1
+	
+#1: 	-14
+#23: 	-14
+#456: 	-7
+#78: 	4
+#9:	4
+#10:	4
+#Anemie 4

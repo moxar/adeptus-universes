@@ -1,4 +1,4 @@
-#Bastien
+#Emilie
 name:	Briene
 Totem:	lion
 career: Homme d'arme, Paysan
@@ -13,22 +13,32 @@ PER	31
 WIL	34
 FEL	28
 
+2015/09/27 Initialisation
+	* defence
+	* offence
+	* fieldcraft
+
 2015/09/27 Creation [1000]
-	- defence
-	- offence
-	- fieldcraft
 	* Fate 2 [100]
+	* résistance physique: infections
 	* WS +5
 	* STR +5
 	* TOU +5
-	* résistance physique: infections
 	* navigate
 	* survival
-	+ Fate -1
 	
-#1: 	3
-#23: 	0
-#456: 	5
-#78: 	1
-#9:	11
-#10:	0
+2015/09/27 Voyage dans le désert [400]
+	* Fate -1
+	* vigueur
+	* vigueur
+        
+2015/10/04 Nemesis [200]
+        * Fate +2 [100]
+        * Fate -1
+	
+#1: 	4
+#23: 	2
+#456: 	4
+#78: 	-6
+#9:	-3
+#10:	4

@@ -13,17 +13,35 @@ PER	31
 WIL	39
 FEL	29
 
+2015/09/27 Initialisation
+	* toughness
+	* social
+	* fieldcraft
+	* Sanction
+
 2015/09/27 Creation [1000]
-	* Fate 2 [100]
-	- toughness
-	- social
-	- fieldcraft
-	- Sanction
 	* WIL +5
 	* INT +5
 	* medicae
 	* magic sense
 	* common lore
-	+ Onde de ferveur [100]
-	+ Attaque primaire de feu [100]
-	+ Immolation [100]
+	* Fate 2 [100]
+	* Onde de ferveur [100]
+	* Attaque primaire de feu [100]
+	* Immolation [100]
+	
+2015/09/27 Voyage dans le désert [400]
+        * linguistics
+        * spécialiste: scorpion
+        * logic
+        
+2015/10/04 Nemesis [200]
+        * Fate +2 [100]
+	
+#1: 	-9
+#23: 	0
+#456: 	-5
+#78: 	0
+#9:	0
+#10:	0
+#Anemie 0

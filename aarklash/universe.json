@@ -469,7 +469,7 @@
         {
             "Name": "dur à cuire",
             "Aptitudes": [
-                "tougness",
+                "toughness",
                 "defence"
             ],
             "Requirements": [],
@@ -504,7 +504,7 @@
             ],
             "Requirements": [],
             "Tier": 2,
-            "Description:": "La créature gagne un modificateur de +10 au toucher en \"all out attack\". Si elle touche sa cible, elle peut effectuer une nouvelle attaque dans les mêmes conditions, avec une modificateur de -20 au toucher."
+            "Description:": "La créature gagne un modificateur supplémentaire de +10 au toucher en \"all out attack\". Si elle touche sa cible, elle peut effectuer une nouvelle attaque dans les mêmes conditions, avec une modificateur de -20 au toucher."
         },
         {
             "Name": "harcèlement",
@@ -514,7 +514,7 @@
             ],
             "Requirements": [],
             "Tier": 1,
-            "Description:": "La créature peut effectuer une attaque standard à distance au cours de ses actions de mouvement. Cette attaque compte dans la limite d'attaques autorisées par tour."
+            "Description:": "Cette créature peut effectuer une attaque standard à distance au cours de ses actions de mouvement. Cette attaque compte dans la limite d'attaques autorisées par tour."
         },
         {
             "Name": "implaccable",
@@ -524,7 +524,7 @@
             ],
             "Requirements": [],
             "Tier": 3,
-            "Description:": "La créature gagne un modificateur de +10 au toucher en \"all out attack\". Tant qu'elle touche sa cible, elle peut effectuer une nouvelle attaque dans les mêmes conditions, avec une modificateur cumulatif de -20 au toucher."
+            "Description:": "Cette créature gagne un modificateur supplémentaire de +10 au toucher en \"all out attack\". Tant qu'elle touche sa cible, elle peut effectuer une nouvelle attaque dans les mêmes conditions, avec une modificateur cumulatif de -20 au toucher."
         },
         {
             "Name": "instinct de survie",
@@ -715,6 +715,16 @@
             "Requirements": [],
             "Tier": 3,
             "Description:": "La créature dispose d'une demi action de combat supplémentaire par tour."
+        },
+        {
+            "Name": "vigueur",
+            "Aptitudes": [
+                "toughness",
+                "general"
+            ],
+            "Requirements": [],
+            "Tier": 1,
+            "Description:": "La créature dispose de 2 points de vie supplémentaires par localisation. Ce talent peut être aquis jusqu'à deux fois par point de bonus d'endurance (TOU)."
         },
         {
             "Name": "vivacité",
@@ -2035,7 +2045,7 @@
                     [
                         {
                             "Mark": "-",
-                            "Name": "fieldract"
+                            "Name": "fieldcraft"
                         }
                     ],
                     [
