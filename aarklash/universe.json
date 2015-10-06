@@ -737,7 +737,7 @@
             "Description:": "La créature lance un dé supplémentaire à ses tests d'initiative et retire celui de son choix."
         }
     ],
-    "Histories": {
+    "Backgrounds": {
         "totem": [
             {
                 "Name": "dragon",
