@@ -1,1172 +1,1300 @@
 {
-    "aptitudes": [
-        "weapon skill",
-        "ballistic skill",
-        "strength",
-        "toughness",
-        "agility",
-        "intelligence",
-        "perception",
-        "willpower",
-        "fellowship",
-        "offence",
-        "finesse",
-        "defence",
-        "knowledge",
-        "fieldcraft",
-        "mystic",
-        "social",
-        "general"
-    ],
-    "characteristics": [
-        {
-            "name": "WS",
-            "aptitudes": [
-                "weapon skill",
-                "offence"
-            ]
-        },
-        {
-            "name": "BS",
-            "aptitudes": [
-                "ballistic skill",
-                "finesse"
-            ]
-        },
-        {
-            "name": "STR",
-            "aptitudes": [
-                "strength",
-                "offence"
-            ]
-        },
-        {
-            "name": "TOU",
-            "aptitudes": [
-                "toughness",
-                "defence"
-            ]
-        },
-        {
-            "name": "AGI",
-            "aptitudes": [
-                "agility",
-                "finesse"
-            ]
-        },
-        {
-            "name": "INT",
-            "aptitudes": [
-                "intelligence",
-                "knowledge"
-            ]
-        },
-        {
-            "name": "PER",
-            "aptitudes": [
-                "perception",
-                "fieldcraft"
-            ]
-        },
-        {
-            "name": "WIL",
-            "aptitudes": [
-                "willpower",
-                "mystic"
-            ]
-        },
-        {
-            "name": "FEL",
-            "aptitudes": [
-                "fellowship",
-                "social"
-            ]
-        }
-    ],
-    "gauges": [
-        {
-            "name": "Insanity",
-            "aptitudes": []
-        },
-        {
-            "name": "Power",
-            "aptitudes": [
-                "mystic",
-                "willpower"
-            ]
-        },
-        {
-            "name": "Fervor",
-            "aptitudes": [
-                "mystic",
-                "fellowship"
-            ]
-        },
-        {
-            "name": "Fate",
-            "aptitudes": []
-        }
-    ],
-    "skills": [
-        {
-            "name": "acrobatics",
-            "aptitudes": [
-                "agility",
-                "general"
-            ]
-        },
-        {
-            "name": "athletics",
-            "aptitudes": [
-                "strength",
-                "general"
-            ]
-        },
-        {
-            "name": "awareness",
-            "aptitudes": [
-                "perception",
-                "fieldcraft"
-            ]
-        },
-        {
-            "name": "charm",
-            "aptitudes": [
-                "fellowship",
-                "social"
-            ]
-        },
-        {
-            "name": "command",
-            "aptitudes": [
-                "fellowship",
-                "social"
-            ]
-        },
-        {
-            "name": "commerce",
-            "aptitudes": [
-                "intelligence",
-                "knowledge"
-            ]
-        },
-        {
-            "name": "common lore",
-            "aptitudes": [
-                "intelligence",
-                "knowledge"
-            ]
-        },
-        {
-            "name": "craft",
-            "aptitudes": [
-                "intelligence",
-                "fieldcraft"
-            ]
-        },
-        {
-            "name": "deceive",
-            "aptitudes": [
-                "fellowship",
-                "social"
-            ]
-        },
-        {
-            "name": "dodge",
-            "aptitudes": [
-                "agility",
-                "defence"
-            ]
-        },
-        {
-            "name": "forbiden lore",
-            "aptitudes": [
-                "intelligence",
-                "knowledge"
-            ]
-        },
-        {
-            "name": "inquiry",
-            "aptitudes": [
-                "fellowship",
-                "social"
-            ]
-        },
-        {
-            "name": "interrogation",
-            "aptitudes": [
-                "willpower",
-                "social"
-            ]
-        },
-        {
-            "name": "intimidate",
-            "aptitudes": [
-                "strength",
-                "social"
-            ]
-        },
-        {
-            "name": "linguistics",
-            "aptitudes": [
-                "intelligence",
-                "general"
-            ]
-        },
-        {
-            "name": "logic",
-            "aptitudes": [
-                "intelligence",
-                "knowledge"
-            ]
-        },
-        {
-            "name": "medicae",
-            "aptitudes": [
-                "intelligence",
-                "fieldcraft"
-            ]
-        },
-        {
-            "name": "navigate",
-            "aptitudes": [
-                "intelligence",
-                "fieldcraft"
-            ]
-        },
-        {
-            "name": "operate",
-            "aptitudes": [
-                "agility",
-                "fieldcraft"
-            ]
-        },
-        {
-            "name": "parry",
-            "aptitudes": [
-                "weapon skill",
-                "defence"
-            ]
-        },
-        {
-            "name": "magic sense",
-            "aptitudes": [
-                "perception",
-                "mystic"
-            ]
-        },
-        {
-            "name": "scholastic lore",
-            "aptitudes": [
-                "intelligence",
-                "knowledge"
-            ]
-        },
-        {
-            "name": "scrutiny",
-            "aptitudes": [
-                "perception",
-                "general"
-            ]
-        },
-        {
-            "name": "security",
-            "aptitudes": [
-                "intelligence",
-                "fieldcraft"
-            ]
-        },
-        {
-            "name": "sleight of hand",
-            "aptitudes": [
-                "agility",
-                "knowledge"
-            ]
-        },
-        {
-            "name": "stealth",
-            "aptitudes": [
-                "agility",
-                "fieldcraft"
-            ]
-        },
-        {
-            "name": "survival",
-            "aptitudes": [
-                "perception",
-                "fieldcraft"
-            ]
-        },
-        {
-            "name": "trade",
-            "aptitudes": [
-                "intelligence",
-                "general"
-            ]
-        }
-    ],
-    "talents": [
-        {
-            "name": "acharné",
-            "aptitudes": [
-                "defence",
-                "toughness"
-            ],
-            "requirements": [],
-            "tier": 3,
-            "description:": "Cette créature peut dépenser un point de destin et ignorer tous les effets des blessures comme le saignement, ou la fatigue, tant que ceux-ci ne la tueraient pas. A la fin du combat, les effets s'appliquent normalement."
-        },
-        {
-            "name": "ambidextre",
-            "aptitudes": [
-                "agility",
-                "finesse"
-            ],
-            "requirements": [],
-            "tier": 1,
-            "description:": "Cette créature peut utiliser sans pénalité sa mauvaise main à la place de la bonne pour combattre."
-        },
-        {
-            "name": "assassin",
-            "aptitudes": [
-                "finesse",
-                "offence"
-            ],
-            "requirements": [],
-            "tier": 2,
-            "description:": "Cette créature peut utiliser l'action \"called shot\" sans pénalité."
-        },
-        {
-            "name": "baratin",
-            "aptitudes": [
-                "social",
-                "fellowship"
-            ],
-            "requirements": [],
-            "tier": 1,
-            "description": "Cette créature ne subit aucune pénalité à ses tests de deceive quand elle s'adresse à plusieurs personnes."
-        },
-        {
-            "name": "blasé",
-            "aptitudes": [
-                "willpower",
-                "defence"
-            ],
-            "requirements": [],
-            "tier": 1,
-            "description": "Cette créature ignore les effets de la peur naturelle."
-        },
-        {
-            "name": "bravoure",
-            "aptitudes": [
-                "willpower",
-                "defence"
-            ],
-            "requirements": [],
-            "tier": 2,
-            "description:": "Cette créature peut relancer ses tests de peur ratés."
-        },
-        {
-            "name": "bretteur",
-            "aptitudes": [
-                "offence",
-                "weapon skill"
-            ],
-            "requirements": [],
-            "tier": 2,
-            "description:": "Cette créature peut utiliser l'action \"swift attack\"."
-        },
-        {
-            "name": "brute épaisse",
-            "aptitudes": [
-                "strength",
-                "offence"
-            ],
-            "requirements": [],
-            "tier": 2,
-            "description:": "Cette créature ajoute la moitié de son bonus de combat (WS) à ses dégâts au corps à corps."
-        },
-        {
-            "name": "charge bestiale",
-            "aptitudes": [
-                "strength",
-                "offence"
-            ],
-            "requirements": [],
-            "tier": 2,
-            "description:": "Les attaques de charge de cette créature ont un bonus supplémentaire de +10 au toucher et +2 aux dégâts."
-        },
-        {
-            "name": "chute maîtrisée",
-            "aptitudes": [
-                "agility",
-                "fieldcraft"
-            ],
-            "requirements": [],
-            "tier": 1,
-            "description": "Le personnage ignore les chutes d'une hauteur en mètre inférieure ou égale à son bonus d'agilité (AGI)."
-        },
-        {
-            "name": "coeur de pierre",
-            "aptitudes": [
-                "willpower",
-                "social"
-            ],
-            "requirements": [],
-            "tier": 1,
-            "description": "Cette créature a un bonus de +10 à tous ses tests pour résister au charme et à l'intimidation."
-        },
-        {
-            "name": "combat en duo",
-            "aptitudes": [
-                "general",
-                "offence"
-            ],
-            "requirements": [],
-            "tier": 1,
-            "description": "Cette créature gagne un modificateur additionnel de +10 en surnombre. Ce modificateur additionnel passe à +20 si au moins un autre participant dispose de ce talent."
-        },
-        {
-            "name": "conscience",
-            "aptitudes": [
-                "perception",
-                "fieldcraft"
-            ],
-            "requirements": [],
-            "tier": 1,
-            "description:": "Cette créature peut relancer ses tests d'awareness ratés."
-        },
-        {
-            "name": "contre-attaque",
-            "aptitudes": [
-                "weapon skill",
-                "defence"
-            ],
-            "requirements": [],
-            "tier": 2,
-            "description:": "Cette créature peut utiliser l'action de contre-attaque."
-        },
-        {
-            "name": "coup de maître",
-            "aptitudes": [
-                "weapon skill",
-                "offence"
-            ],
-            "requirements": [],
-            "tier": 3,
-            "description:": "Cette créature peut utiliser l'action de coup de maître."
-        },
-        {
-            "name": "désarmement",
-            "aptitudes": [
-                "weapon skill",
-                "defence"
-            ],
-            "requirements": [],
-            "tier": 1,
-            "description:": "Cette créature peut effectuer l'action de \"désarmement\" sans pénalité"
-        },
-        {
-            "name": "dur à cuire",
-            "aptitudes": [
-                "toughness",
-                "defence"
-            ],
-            "requirements": [],
-            "tier": 1,
-            "description:": "Cette créature considère son bonus d'endurance à +2 pour résister aux effets de fatigue et d'anémie."
-        },
-        {
-            "name": "enchainement",
-            "aptitudes": [
-                "offence",
-                "weapon skill"
-            ],
-            "requirements": [],
-            "tier": 3,
-            "description:": "Cette créature peut utiliser l'action \"lightning attack\"."
-        },
-        {
-            "name": "fanatisme",
-            "aptitudes": [
-                "willpower",
-                "defence"
-            ],
-            "requirements": [],
-            "tier": 2,
-            "description:": "Chaque fois que cette créature rate un test de peur, elle peut subir 1D5 points de folie en plus de ceux provoqués par cette peur pour en ignorer les autres effets jusqu'à la fin du combat."
-        },
-        {
-            "name": "furie guerrière",
-            "aptitudes": [
-                "offence",
-                "strength"
-            ],
-            "requirements": [],
-            "tier": 2,
-            "description:": "La créature gagne un modificateur supplémentaire de +10 au toucher en \"all out attack\". Si elle touche sa cible, elle peut effectuer une nouvelle attaque dans les mêmes conditions, avec une modificateur de -20 au toucher."
-        },
-        {
-            "name": "harcèlement",
-            "aptitudes": [
-                "finesse",
-                "ballistic skill"
-            ],
-            "requirements": [],
-            "tier": 1,
-            "description:": "Cette créature peut effectuer une attaque standard à distance au cours de ses actions de mouvement. Cette attaque compte dans la limite d'attaques autorisées par tour."
-        },
-        {
-            "name": "implaccable",
-            "aptitudes": [
-                "offence",
-                "strength"
-            ],
-            "requirements": [],
-            "tier": 3,
-            "description:": "Cette créature gagne un modificateur supplémentaire de +10 au toucher en \"all out attack\". Tant qu'elle touche sa cible, elle peut effectuer une nouvelle attaque dans les mêmes conditions, avec une modificateur cumulatif de -20 au toucher."
-        },
-        {
-            "name": "instinct de survie",
-            "aptitudes": [
-                "defence",
-                "general"
-            ],
-            "requirements": [],
-            "tier": 1,
-            "description:": "Lorsque la créature dépense un point de destin pour réduire les dégâts subits, elle a 10% de chances d'ignorer la totalité des dégâts."
-        },
-        {
-            "name": "interroger les masses",
-            "aptitudes": [
-                "general",
-                "social"
-            ],
-            "requirements": [],
-            "tier": 1,
-            "description": "Cette créature peut relancer ses tests d'enquête ratés lorsqu'il s'adresse à un groupe d'individus."
-        },
-        {
-            "name": "juste",
-            "aptitudes": [
-                "defence",
-                "willpower"
-            ],
-            "requirements": [],
-            "tier": 3,
-            "description:": "La créature est immunisée aux effets de peur."
-        },
-        {
-            "name": "maître archer",
-            "aptitudes": [
-                "ballistic skill",
-                "finesse"
-            ],
-            "requirements": [],
-            "tier": 2,
-            "description:": "La créature peut effectuer utiliser l'action \"swift attack\" avec un arc."
-        },
-        {
-            "name": "mutagène",
-            "aptitudes": [
-                "toughness",
-                "general"
-            ],
-            "requirements": [],
-            "tier": 1,
-            "description:": "Si la créature dispose des produits, elle peut utiliser les effets du mutagène en action libre. Elle effectue un test d'endurance (TOU). En cas d'écec, elle subit un point d'animie par degré d'échec. En cas de succès, elle attribue 10 points de caractérsitiques par succès, avec un maximum de +30 par caractéristique."
-        },
-        {
-            "name": "plaquage",
-            "aptitudes": [
-                "weapon skill",
-                "offence"
-            ],
-            "requirements": [],
-            "tier": 1,
-            "description": "Cette créature peut utiliser l'action de \"plaquage\" sans pénalité"
-        },
-        {
-            "name": "porteur",
-            "aptitudes": [
-                "strength",
-                "fieldcraft"
-            ],
-            "requirements": [],
-            "tier": 1,
-            "description": "Les seuils d'encombrement de cette créature sont augmentés de 10."
-        },
-        {
-            "name": "possédé",
-            "aptitudes": [
-                "willpower",
-                "defence"
-            ],
-            "requirements": [],
-            "tier": 2,
-            "description:": "La créature gagne un modificateur de +30 à tous ses tests pour résister aux effets des coups critiques et aux effets affectant l'esprit."
-        },
-        {
-            "name": "rapidité",
-            "aptitudes": [
-                "agility",
-                "finesse"
-            ],
-            "requirements": [],
-            "tier": 1,
-            "description": "Cette créature sortir et ranger ses armes en action libre"
-        },
-        {
-            "name": "résistance mentale",
-            "aptitudes": [
-                "willpower",
-                "defence"
-            ],
-            "requirements": [],
-            "tier": 1,
-            "description:": "Ce talent doit être spécialisé. La créature gagne un modificateur de +10 à tous ses tests de résistance contre la spécialité choisie."
-        },
-        {
-            "name": "résistance physique",
-            "aptitudes": [
-                "toughness",
-                "defence"
-            ],
-            "requirements": [],
-            "tier": 1,
-            "description:": "Ce talent doit être spécialisé. La créature gagne un modificateur de +10 à tous ses tests de résistance contre la spécialité choisie."
-        },
-        {
-            "name": "robuste",
-            "aptitudes": [
-                "toughness",
-                "defence"
-            ],
-            "requirements": [],
-            "tier": 2,
-            "description": "Cette créature considère ses blessures d'un degré moins grave pour la récupération de points de vie."
-        },
-        {
-            "name": "roulade",
-            "aptitudes": [
-                "agility",
-                "general"
-            ],
-            "requirements": [],
-            "tier": 1,
-            "description:": "Cette créature peut se relever en action libre."
-        },
-        {
-            "name": "savoir encyclopédique",
-            "aptitudes": [
-                "intelligence",
-                "knowledge"
-            ],
-            "requirements": [],
-            "tier": 1,
-            "description:": "Cette créature peut effectuer des tests de connaissance dans les domaines qu'elle ne connait pas, avec un modificateur de -20."
-        },
-        {
-            "name": "spécialiste",
-            "aptitudes": [
-                "knowledge",
-                "general"
-            ],
-            "requirements": [],
-            "tier": 1,
-            "description": "Ce talent doit être spécialisé. Cette créature dispose de connaissance dans un domaine particulier. Elle peut effectuer des tests de connaissance dans ce domaine sans la pénalitée standard de -20."
-        },
-        {
-            "name": "tir instinctif",
-            "aptitudes": [
-                "ballistic skill",
-                "perception"
-            ],
-            "requirements": [],
-            "tier": 2,
-            "description:": "La créature peut tirer sur une cible engagée au corps à corps sans pénalité."
-        },
-        {
-            "name": "tireur d'élite",
-            "aptitudes": [
-                "ballistic skill",
-                "finesse"
-            ],
-            "requirements": [],
-            "tier": 2,
-            "description:": "La créature ajoute la moitié de son score de tir (BS) à ses dégâts d'attaque à distance."
-        },
-        {
-            "name": "tir de précision",
-            "aptitudes": [
-                "perception",
-                "offence"
-            ],
-            "requirements": [],
-            "tier": 1,
-            "description": "La créature ignore une valeur de couvert égale à son bonus de perception (PER) sur ses tirs."
-        },
-        {
-            "name": "tueur né",
-            "aptitudes": [
-                "weapon skill",
-                "offence"
-            ],
-            "requirements": [],
-            "tier": 3,
-            "description:": "La créature dispose d'une demi action de combat supplémentaire par tour."
-        },
-        {
-            "name": "vigueur",
-            "aptitudes": [
-                "toughness",
-                "general"
-            ],
-            "requirements": [],
-            "tier": 1,
-            "description:": "La créature dispose de 2 points de vie supplémentaires par localisation. Ce talent peut être aquis jusqu'à deux fois par point de bonus d'endurance (TOU)."
-        },
-        {
-            "name": "vivacité",
-            "aptitudes": [
-                "perception",
-                "agility"
-            ],
-            "requirements": [],
-            "tier": 2,
-            "description:": "La créature lance un dé supplémentaire à ses tests d'initiative et retire celui de son choix."
-        }
-    ],
-    "backgrounds": {
-        "totem": [
-            {
-                "name": "dragon",
-                "upgrades": ["AGI +10",
-"INT +5",
-"FEL -10",
-"general",
-"agility"
-                ]
-            },
-            {
-                "name": "lion",
-                "upgrades": ["FEL +5",
-"INT +5",
-"WIL -5",
-"general",
-"fellowship"
-                ]
-            },
-            {
-                "name": "griffon",
-                "upgrades": ["WIL +5",
-"TOU +5",
-"PER -5",
-"general",
-"willpower"
-                ]
-            },
-            {
-                "name": "sanglier",
-                "upgrades": ["TOU +10",
-"INT +5",
-"FEL -10",
-"general",
-"toughness"
-                ]
-            },
-            {
-                "name": "minotaure",
-                "upgrades": ["STR +5",
-"PER +5",
-"INT -5",
-"general",
-"strength"
-                ]
-            },
-            {
-                "name": "chacal",
-                "upgrades": ["STR +10",
-"TOU +5",
-"INT -10",
-"general",
-"strength"
-                ]
-            },
-            {
-                "name": "rat",
-                "upgrades": ["AGI +10",
-"FEL +5",
-"TOU -10",
-"general",
-"agility"
-                ]
-            },
-            {
-                "name": "scarabe",
-                "upgrades": ["AGI +10",
-"TOU +5",
-"FEL -10",
-"general",
-"agility"
-                ]
-            },
-            {
-                "name": "loup",
-                "upgrades": ["STR +5",
-"PER +5",
-"FEL -5",
-"general",
-"strength"
-                ]
-            },
-            {
-                "name": "araignée",
-                "upgrades": ["AGI +10",
-"FEL +5",
-"TOU -10",
-"general",
-"agility"
-                ]
-            },
-            {
-                "name": "scorpion",
-                "upgrades": ["INT +5",
-"TOU +5",
-"WIL -10",
-"general",
-"intelligence"
-                ]
-            },
-            {
-                "name": "hyène",
-                "upgrades": ["PER +5",
-"AGI +5",
-"FEL -5",
-"general",
-"perception"
-                ]
-            },
-            {
-                "name": "hydre",
-                "upgrades": ["WIL +10",
-"TOU +5",
-"FEL -10",
-"general",
-"intelligence"
-                ]
-            },
-            {
-                "name": "bélier",
-                "upgrades": ["WIL +5",
-"INT +5",
-"AGI -5",
-"general",
-"willpower"
-                ]
-            },
-            {
-                "name": "serpent",
-                "upgrades": ["PER +5",
-"AGI +5",
-"WIL -5",
-"general",
-"perception"
-                ]
-            },
-            {
-                "name": "cerf",
-                "upgrades": ["STR +5",
-"TOU +5",
-"FEL -5",
-"general",
-"strength"
-                ]
-            }
-        ],
-        "career": [
-            {
-                "name": "Amuseur",
-                "upgrades": ["fellowship",
-"agility",
-"finesse",
-"charm",
-"common lore",
-"chute maîtrisée"
-                ]
-            },
-            {
-                "name": "Tireur",
-                "upgrades": ["finesse",
-"perception",
-"ballistic skill",
-"dodge",
-"scrutiny",
-"tir de précision"
-                ]
-            },
-            {
-                "name": "Arnaqueur",
-                "upgrades": ["fieldcraft",
-"social",
-"fellowship",
-"charm",
-"deceive",
-"baratin"
-                ]
-            },
-            {
-                "name": "Artilleur",
-                "upgrades": ["ballistic skill",
-"intelligence",
-"defence",
-"logic",
-"scholastic lore",
-"spécialiste: Tech"
-                ]
-            },
-            {
-                "name": "Assassin",
-                "upgrades": ["perception",
-"offence",
-"finesse",
-"stealth",
-"acrobatics",
-"rapidité"
-                ]
-            },
-            {
-                "name": "Bandit",
-                "upgrades": ["social",
-"offence",
-"weapon skill",
-"inquiery",
-"intimidate",
-"combat en duo"
-                ]
-            },
-            {
-                "name": "Belluaire",
-                "upgrades": ["fellowship",
-"fieldcraft",
-"toughness",
-"survival",
-"medicae",
-"spécialiste: Bêtes"
-                ]
-            },
-            {
-                "name": "Champion de justice",
-                "upgrades": ["defence",
-"fellowship",
-"weapon skill",
-"parry",
-"intimidate",
-"désarmement"
-                ]
-            },
-            {
-                "name": "Chasseur de sorcières",
-                "upgrades": ["knowledge",
-"ballistic skill",
-"perception",
-"scrutiny",
-"interrogation",
-"conscience"
-                ]
-            },
-            {
-                "name": "Chevalier",
-                "upgrades": ["fellowship",
-"defence",
-"weapon skill",
-"parry",
-"command",
-"résistance mentale: peur"
-                ]
-            },
-            {
-                "name": "Commercant",
-                "upgrades": ["fellowship",
-"intelligence",
-"social",
-"commerce",
-"charm",
-"spécialiste: commerce"
-                ]
-            },
-            {
-                "name": "Duelliste",
-                "upgrades": ["defence",
-"finesse",
-"weapon skill",
-"dodge",
-"acrobatics",
-"roulade"
-                ]
-            },
-            {
-                "name": "Espion",
-                "upgrades": ["perception",
-"social",
-"agility",
-"scrutiny",
-"stealth",
-"interroger les masses"
-                ]
-            },
-            {
-                "name": "Homme d'arme",
-                "upgrades": ["toughness",
-"strength",
-"weapon skill",
-"parry",
-"command",
-"plaquage"
-                ]
-            },
-            {
-                "name": "Sage",
-                "upgrades": ["willpower",
-"intelligence",
-"knowledge",
-"scholastic lore",
-"forbiden lore",
-"savoir encyclopédique"
-                ]
-            },
-            {
-                "name": "Mage",
-                "upgrades": ["mystic",
-"knowledge",
-"willpower",
-"forbiden lore",
-"magic sense",
-"Power 1"
-                ]
-            },
-            {
-                "name": "Médecin",
-                "upgrades": ["fieldcraft",
-"intelligence",
-"willpower",
-"medicae",
-"scholastic lore",
-"blasé"
-                ]
-            },
-            {
-                "name": "Ouvrier",
-                "upgrades": ["agility",
-"fieldcraft",
-"strength",
-"craft",
-"athletics",
-"porteur"
-                ]
-            },
-            {
-                "name": "Paysan",
-                "upgrades": ["fieldcraft",
-"strength",
-"toughness",
-"athletics",
-"medicae",
-"dur à cuire"
-                ]
-            },
-            {
-                "name": "Fidèle",
-                "upgrades": ["mystic",
-"knowledge",
-"fellowship",
-"charm",
-"scholastic lore",
-"Fervor 1"
-                ]
-            },
-            {
-                "name": "Rodeur",
-                "upgrades": ["agility",
-"ballistic skill",
-"offence",
-"navigate",
-"survival",
-"instinct de survie"
-                ]
-            },
-            {
-                "name": "Voleur",
-                "upgrades": ["agility",
-"finesse",
-"perception",
-"stealth",
-"sleight of hand",
-"coeur de pierre"
-                ]
-            }
-        ]
-    },
-    "Costs": {
-        "characteristic": {
-            "0": {
-                "1": 500,
-                "2": 750,
-                "3": 1000,
-                "4": 1500,
-                "5": 2500
-            },
-            "1": {
-                "1": 250,
-                "2": 500,
-                "3": 750,
-                "4": 1000,
-                "5": 1500
-            },
-            "2": {
-                "1": 100,
-                "2": 250,
-                "3": 500,
-                "4": 750,
-                "5": 1250
-            }
-        },
-        "skill": {
-            "0": {
-                "1": 300,
-                "2": 600,
-                "3": 900,
-                "4": 1200
-            },
-            "1": {
-                "1": 200,
-                "2": 400,
-                "3": 600,
-                "4": 800
-            },
-            "2": {
-                "1": 100,
-                "2": 200,
-                "3": 300,
-                "4": 400
-            }
-        },
-        "talent": {
-            "0": {
-                "1": 600,
-                "2": 900,
-                "3": 1200
-            },
-            "1": {
-                "1": 300,
-                "2": 450,
-                "3": 600
-            },
-            "2": {
-                "1": 200,
-                "2": 300,
-                "3": 400
-            }
-        }
-    }
+	"aptitudes":[
+		"weapon skill",
+		"ballistic skill",
+		"strength",
+		"toughness",
+		"agility",
+		"intelligence",
+		"perception",
+		"willpower",
+		"fellowship",
+		"offence",
+		"finesse",
+		"defence",
+		"knowledge",
+		"fieldcraft",
+		"mystic",
+		"social",
+		"general"
+	],
+	"characteristics":[
+		{
+			"name":"WS",
+			"aptitudes":[
+				"weapon skill",
+				"offence"
+			]
+		},
+		{
+			"name":"BS",
+			"aptitudes":[
+				"ballistic skill",
+				"finesse"
+			]
+		},
+		{
+			"name":"STR",
+			"aptitudes":[
+				"strength",
+				"offence"
+			]
+		},
+		{
+			"name":"TOU",
+			"aptitudes":[
+				"toughness",
+				"defence"
+			]
+		},
+		{
+			"name":"AGI",
+			"aptitudes":[
+				"agility",
+				"finesse"
+			]
+		},
+		{
+			"name":"INT",
+			"aptitudes":[
+				"intelligence",
+				"knowledge"
+			]
+		},
+		{
+			"name":"PER",
+			"aptitudes":[
+				"perception",
+				"fieldcraft"
+			]
+		},
+		{
+			"name":"WIL",
+			"aptitudes":[
+				"willpower",
+				"mystic"
+			]
+		},
+		{
+			"name":"FEL",
+			"aptitudes":[
+				"fellowship",
+				"social"
+			]
+		}
+	],
+	"gauges":[
+		{
+			"name":"Insanity",
+			"aptitudes":[
+
+			]
+		},
+		{
+			"name":"Power",
+			"aptitudes":[
+				"mystic",
+				"willpower"
+			]
+		},
+		{
+			"name":"Fervor",
+			"aptitudes":[
+				"mystic",
+				"fellowship"
+			]
+		},
+		{
+			"name":"Fate",
+			"aptitudes":[
+
+			]
+		}
+	],
+	"skills":[
+		{
+			"name":"acrobatics",
+			"aptitudes":[
+				"agility",
+				"general"
+			]
+		},
+		{
+			"name":"athletics",
+			"aptitudes":[
+				"strength",
+				"general"
+			]
+		},
+		{
+			"name":"awareness",
+			"aptitudes":[
+				"perception",
+				"fieldcraft"
+			]
+		},
+		{
+			"name":"charm",
+			"aptitudes":[
+				"fellowship",
+				"social"
+			]
+		},
+		{
+			"name":"command",
+			"aptitudes":[
+				"fellowship",
+				"social"
+			]
+		},
+		{
+			"name":"commerce",
+			"aptitudes":[
+				"intelligence",
+				"knowledge"
+			]
+		},
+		{
+			"name":"common lore",
+			"aptitudes":[
+				"intelligence",
+				"knowledge"
+			]
+		},
+		{
+			"name":"craft",
+			"aptitudes":[
+				"intelligence",
+				"fieldcraft"
+			]
+		},
+		{
+			"name":"deceive",
+			"aptitudes":[
+				"fellowship",
+				"social"
+			]
+		},
+		{
+			"name":"dodge",
+			"aptitudes":[
+				"agility",
+				"defence"
+			]
+		},
+		{
+			"name":"forbiden lore",
+			"aptitudes":[
+				"intelligence",
+				"knowledge"
+			]
+		},
+		{
+			"name":"inquiry",
+			"aptitudes":[
+				"fellowship",
+				"social"
+			]
+		},
+		{
+			"name":"interrogation",
+			"aptitudes":[
+				"willpower",
+				"social"
+			]
+		},
+		{
+			"name":"intimidate",
+			"aptitudes":[
+				"strength",
+				"social"
+			]
+		},
+		{
+			"name":"linguistics",
+			"aptitudes":[
+				"intelligence",
+				"general"
+			]
+		},
+		{
+			"name":"logic",
+			"aptitudes":[
+				"intelligence",
+				"knowledge"
+			]
+		},
+		{
+			"name":"medicae",
+			"aptitudes":[
+				"intelligence",
+				"fieldcraft"
+			]
+		},
+		{
+			"name":"navigate",
+			"aptitudes":[
+				"intelligence",
+				"fieldcraft"
+			]
+		},
+		{
+			"name":"operate",
+			"aptitudes":[
+				"agility",
+				"fieldcraft"
+			]
+		},
+		{
+			"name":"parry",
+			"aptitudes":[
+				"weapon skill",
+				"defence"
+			]
+		},
+		{
+			"name":"magic sense",
+			"aptitudes":[
+				"perception",
+				"mystic"
+			]
+		},
+		{
+			"name":"scholastic lore",
+			"aptitudes":[
+				"intelligence",
+				"knowledge"
+			]
+		},
+		{
+			"name":"scrutiny",
+			"aptitudes":[
+				"perception",
+				"general"
+			]
+		},
+		{
+			"name":"security",
+			"aptitudes":[
+				"intelligence",
+				"fieldcraft"
+			]
+		},
+		{
+			"name":"sleight of hand",
+			"aptitudes":[
+				"agility",
+				"knowledge"
+			]
+		},
+		{
+			"name":"stealth",
+			"aptitudes":[
+				"agility",
+				"fieldcraft"
+			]
+		},
+		{
+			"name":"survival",
+			"aptitudes":[
+				"perception",
+				"fieldcraft"
+			]
+		},
+		{
+			"name":"trade",
+			"aptitudes":[
+				"intelligence",
+				"general"
+			]
+		}
+	],
+	"talents":[
+		{
+			"name":"acharn\u00e9",
+			"aptitudes":[
+				"defence",
+				"toughness"
+			],
+			"requirements":[
+
+			],
+			"tier":3,
+			"description:":"Cette cr\u00e9ature peut d\u00e9penser un point de destin et ignorer tous les effets des blessures comme le saignement, ou la fatigue, tant que ceux-ci ne la tueraient pas. A la fin du combat, les effets s'appliquent normalement."
+		},
+		{
+			"name":"ambidextre",
+			"aptitudes":[
+				"agility",
+				"finesse"
+			],
+			"requirements":[
+
+			],
+			"tier":1,
+			"description:":"Cette cr\u00e9ature peut utiliser sans p\u00e9nalit\u00e9 sa mauvaise main \u00e0 la place de la bonne pour combattre."
+		},
+		{
+			"name":"assassin",
+			"aptitudes":[
+				"finesse",
+				"offence"
+			],
+			"requirements":[
+
+			],
+			"tier":2,
+			"description:":"Cette cr\u00e9ature peut utiliser l'action \"called shot\" sans p\u00e9nalit\u00e9."
+		},
+		{
+			"name":"baratin",
+			"aptitudes":[
+				"social",
+				"fellowship"
+			],
+			"requirements":[
+
+			],
+			"tier":1,
+			"description":"Cette cr\u00e9ature ne subit aucune p\u00e9nalit\u00e9 \u00e0 ses tests de deceive quand elle s'adresse \u00e0 plusieurs personnes."
+		},
+		{
+			"name":"blas\u00e9",
+			"aptitudes":[
+				"willpower",
+				"defence"
+			],
+			"requirements":[
+
+			],
+			"tier":1,
+			"description":"Cette cr\u00e9ature ignore les effets de la peur naturelle."
+		},
+		{
+			"name":"bravoure",
+			"aptitudes":[
+				"willpower",
+				"defence"
+			],
+			"requirements":[
+
+			],
+			"tier":2,
+			"description:":"Cette cr\u00e9ature peut relancer ses tests de peur rat\u00e9s."
+		},
+		{
+			"name":"bretteur",
+			"aptitudes":[
+				"offence",
+				"weapon skill"
+			],
+			"requirements":[
+
+			],
+			"tier":2,
+			"description:":"Cette cr\u00e9ature peut utiliser l'action \"swift attack\"."
+		},
+		{
+			"name":"brute \u00e9paisse",
+			"aptitudes":[
+				"strength",
+				"offence"
+			],
+			"requirements":[
+
+			],
+			"tier":2,
+			"description:":"Cette cr\u00e9ature ajoute la moiti\u00e9 de son bonus de combat (WS) \u00e0 ses d\u00e9g\u00e2ts au corps \u00e0 corps."
+		},
+		{
+			"name":"charge bestiale",
+			"aptitudes":[
+				"strength",
+				"offence"
+			],
+			"requirements":[
+
+			],
+			"tier":2,
+			"description:":"Les attaques de charge de cette cr\u00e9ature ont un bonus suppl\u00e9mentaire de +10 au toucher et +2 aux d\u00e9g\u00e2ts."
+		},
+		{
+			"name":"chute ma\u00eetris\u00e9e",
+			"aptitudes":[
+				"agility",
+				"fieldcraft"
+			],
+			"requirements":[
+
+			],
+			"tier":1,
+			"description":"Le personnage ignore les chutes d'une hauteur en m\u00e8tre inf\u00e9rieure ou \u00e9gale \u00e0 son bonus d'agilit\u00e9 (AGI)."
+		},
+		{
+			"name":"coeur de pierre",
+			"aptitudes":[
+				"willpower",
+				"social"
+			],
+			"requirements":[
+
+			],
+			"tier":1,
+			"description":"Cette cr\u00e9ature a un bonus de +10 \u00e0 tous ses tests pour r\u00e9sister au charme et \u00e0 l'intimidation."
+		},
+		{
+			"name":"combat en duo",
+			"aptitudes":[
+				"general",
+				"offence"
+			],
+			"requirements":[
+
+			],
+			"tier":1,
+			"description":"Cette cr\u00e9ature gagne un modificateur additionnel de +10 en surnombre. Ce modificateur additionnel passe \u00e0 +20 si au moins un autre participant dispose de ce talent."
+		},
+		{
+			"name":"conscience",
+			"aptitudes":[
+				"perception",
+				"fieldcraft"
+			],
+			"requirements":[
+
+			],
+			"tier":1,
+			"description:":"Cette cr\u00e9ature peut relancer ses tests d'awareness rat\u00e9s."
+		},
+		{
+			"name":"contre-attaque",
+			"aptitudes":[
+				"weapon skill",
+				"defence"
+			],
+			"requirements":[
+
+			],
+			"tier":2,
+			"description:":"Cette cr\u00e9ature peut utiliser l'action de contre-attaque."
+		},
+		{
+			"name":"coup de ma\u00eetre",
+			"aptitudes":[
+				"weapon skill",
+				"offence"
+			],
+			"requirements":[
+
+			],
+			"tier":3,
+			"description:":"Cette cr\u00e9ature peut utiliser l'action de coup de ma\u00eetre."
+		},
+		{
+			"name":"d\u00e9sarmement",
+			"aptitudes":[
+				"weapon skill",
+				"defence"
+			],
+			"requirements":[
+
+			],
+			"tier":1,
+			"description:":"Cette cr\u00e9ature peut effectuer l'action de \"d\u00e9sarmement\" sans p\u00e9nalit\u00e9"
+		},
+		{
+			"name":"dur \u00e0 cuire",
+			"aptitudes":[
+				"toughness",
+				"defence"
+			],
+			"requirements":[
+
+			],
+			"tier":1,
+			"description:":"Cette cr\u00e9ature consid\u00e8re son bonus d'endurance \u00e0 +2 pour r\u00e9sister aux effets de fatigue et d'an\u00e9mie."
+		},
+		{
+			"name":"enchainement",
+			"aptitudes":[
+				"offence",
+				"weapon skill"
+			],
+			"requirements":[
+
+			],
+			"tier":3,
+			"description:":"Cette cr\u00e9ature peut utiliser l'action \"lightning attack\"."
+		},
+		{
+			"name":"fanatisme",
+			"aptitudes":[
+				"willpower",
+				"defence"
+			],
+			"requirements":[
+
+			],
+			"tier":2,
+			"description:":"Chaque fois que cette cr\u00e9ature rate un test de peur, elle peut subir 1D5 points de folie en plus de ceux provoqu\u00e9s par cette peur pour en ignorer les autres effets jusqu'\u00e0 la fin du combat."
+		},
+		{
+			"name":"furie guerri\u00e8re",
+			"aptitudes":[
+				"offence",
+				"strength"
+			],
+			"requirements":[
+
+			],
+			"tier":2,
+			"description:":"La cr\u00e9ature gagne un modificateur suppl\u00e9mentaire de +10 au toucher en \"all out attack\". Si elle touche sa cible, elle peut effectuer une nouvelle attaque dans les m\u00eames conditions, avec une modificateur de -20 au toucher."
+		},
+		{
+			"name":"harc\u00e8lement",
+			"aptitudes":[
+				"finesse",
+				"ballistic skill"
+			],
+			"requirements":[
+
+			],
+			"tier":1,
+			"description:":"Cette cr\u00e9ature peut effectuer une attaque standard \u00e0 distance au cours de ses actions de mouvement. Cette attaque compte dans la limite d'attaques autoris\u00e9es par tour."
+		},
+		{
+			"name":"implaccable",
+			"aptitudes":[
+				"offence",
+				"strength"
+			],
+			"requirements":[
+
+			],
+			"tier":3,
+			"description:":"Cette cr\u00e9ature gagne un modificateur suppl\u00e9mentaire de +10 au toucher en \"all out attack\". Tant qu'elle touche sa cible, elle peut effectuer une nouvelle attaque dans les m\u00eames conditions, avec une modificateur cumulatif de -20 au toucher."
+		},
+		{
+			"name":"instinct de survie",
+			"aptitudes":[
+				"defence",
+				"general"
+			],
+			"requirements":[
+
+			],
+			"tier":1,
+			"description:":"Lorsque la cr\u00e9ature d\u00e9pense un point de destin pour r\u00e9duire les d\u00e9g\u00e2ts subits, elle a 10% de chances d'ignorer la totalit\u00e9 des d\u00e9g\u00e2ts."
+		},
+		{
+			"name":"interroger les masses",
+			"aptitudes":[
+				"general",
+				"social"
+			],
+			"requirements":[
+
+			],
+			"tier":1,
+			"description":"Cette cr\u00e9ature peut relancer ses tests d'enqu\u00eate rat\u00e9s lorsqu'il s'adresse \u00e0 un groupe d'individus."
+		},
+		{
+			"name":"juste",
+			"aptitudes":[
+				"defence",
+				"willpower"
+			],
+			"requirements":[
+
+			],
+			"tier":3,
+			"description:":"La cr\u00e9ature est immunis\u00e9e aux effets de peur."
+		},
+		{
+			"name":"ma\u00eetre archer",
+			"aptitudes":[
+				"ballistic skill",
+				"finesse"
+			],
+			"requirements":[
+
+			],
+			"tier":2,
+			"description:":"La cr\u00e9ature peut effectuer utiliser l'action \"swift attack\" avec un arc."
+		},
+		{
+			"name":"mutag\u00e8ne",
+			"aptitudes":[
+				"toughness",
+				"general"
+			],
+			"requirements":[
+
+			],
+			"tier":1,
+			"description:":"Si la cr\u00e9ature dispose des produits, elle peut utiliser les effets du mutag\u00e8ne en action libre. Elle effectue un test d'endurance (TOU). En cas d'\u00e9cec, elle subit un point d'animie par degr\u00e9 d'\u00e9chec. En cas de succ\u00e8s, elle attribue 10 points de caract\u00e9rsitiques par succ\u00e8s, avec un maximum de +30 par caract\u00e9ristique."
+		},
+		{
+			"name":"plaquage",
+			"aptitudes":[
+				"weapon skill",
+				"offence"
+			],
+			"requirements":[
+
+			],
+			"tier":1,
+			"description":"Cette cr\u00e9ature peut utiliser l'action de \"plaquage\" sans p\u00e9nalit\u00e9"
+		},
+		{
+			"name":"porteur",
+			"aptitudes":[
+				"strength",
+				"fieldcraft"
+			],
+			"requirements":[
+
+			],
+			"tier":1,
+			"description":"Les seuils d'encombrement de cette cr\u00e9ature sont augment\u00e9s de 10."
+		},
+		{
+			"name":"poss\u00e9d\u00e9",
+			"aptitudes":[
+				"willpower",
+				"defence"
+			],
+			"requirements":[
+
+			],
+			"tier":2,
+			"description:":"La cr\u00e9ature gagne un modificateur de +30 \u00e0 tous ses tests pour r\u00e9sister aux effets des coups critiques et aux effets affectant l'esprit."
+		},
+		{
+			"name":"rapidit\u00e9",
+			"aptitudes":[
+				"agility",
+				"finesse"
+			],
+			"requirements":[
+
+			],
+			"tier":1,
+			"description":"Cette cr\u00e9ature sortir et ranger ses armes en action libre"
+		},
+		{
+			"name":"r\u00e9sistance mentale",
+			"aptitudes":[
+				"willpower",
+				"defence"
+			],
+			"requirements":[
+
+			],
+			"tier":1,
+			"description:":"Ce talent doit \u00eatre sp\u00e9cialis\u00e9. La cr\u00e9ature gagne un modificateur de +10 \u00e0 tous ses tests de r\u00e9sistance contre la sp\u00e9cialit\u00e9 choisie."
+		},
+		{
+			"name":"r\u00e9sistance physique",
+			"aptitudes":[
+				"toughness",
+				"defence"
+			],
+			"requirements":[
+
+			],
+			"tier":1,
+			"description:":"Ce talent doit \u00eatre sp\u00e9cialis\u00e9. La cr\u00e9ature gagne un modificateur de +10 \u00e0 tous ses tests de r\u00e9sistance contre la sp\u00e9cialit\u00e9 choisie."
+		},
+		{
+			"name":"robuste",
+			"aptitudes":[
+				"toughness",
+				"defence"
+			],
+			"requirements":[
+
+			],
+			"tier":2,
+			"description":"Cette cr\u00e9ature consid\u00e8re ses blessures d'un degr\u00e9 moins grave pour la r\u00e9cup\u00e9ration de points de vie."
+		},
+		{
+			"name":"roulade",
+			"aptitudes":[
+				"agility",
+				"general"
+			],
+			"requirements":[
+
+			],
+			"tier":1,
+			"description:":"Cette cr\u00e9ature peut se relever en action libre."
+		},
+		{
+			"name":"savoir encyclop\u00e9dique",
+			"aptitudes":[
+				"intelligence",
+				"knowledge"
+			],
+			"requirements":[
+
+			],
+			"tier":1,
+			"description:":"Cette cr\u00e9ature peut effectuer des tests de connaissance dans les domaines qu'elle ne connait pas, avec un modificateur de -20."
+		},
+		{
+			"name":"sp\u00e9cialiste",
+			"aptitudes":[
+				"knowledge",
+				"general"
+			],
+			"requirements":[
+
+			],
+			"tier":1,
+			"description":"Ce talent doit \u00eatre sp\u00e9cialis\u00e9. Cette cr\u00e9ature dispose de connaissance dans un domaine particulier. Elle peut effectuer des tests de connaissance dans ce domaine sans la p\u00e9nalit\u00e9e standard de -20."
+		},
+		{
+			"name":"tir instinctif",
+			"aptitudes":[
+				"ballistic skill",
+				"perception"
+			],
+			"requirements":[
+
+			],
+			"tier":2,
+			"description:":"La cr\u00e9ature peut tirer sur une cible engag\u00e9e au corps \u00e0 corps sans p\u00e9nalit\u00e9."
+		},
+		{
+			"name":"tireur d'\u00e9lite",
+			"aptitudes":[
+				"ballistic skill",
+				"finesse"
+			],
+			"requirements":[
+
+			],
+			"tier":2,
+			"description:":"La cr\u00e9ature ajoute la moiti\u00e9 de son score de tir (BS) \u00e0 ses d\u00e9g\u00e2ts d'attaque \u00e0 distance."
+		},
+		{
+			"name":"tir de pr\u00e9cision",
+			"aptitudes":[
+				"perception",
+				"offence"
+			],
+			"requirements":[
+
+			],
+			"tier":1,
+			"description":"La cr\u00e9ature ignore une valeur de couvert \u00e9gale \u00e0 son bonus de perception (PER) sur ses tirs."
+		},
+		{
+			"name":"tueur n\u00e9",
+			"aptitudes":[
+				"weapon skill",
+				"offence"
+			],
+			"requirements":[
+
+			],
+			"tier":3,
+			"description:":"La cr\u00e9ature dispose d'une demi action de combat suppl\u00e9mentaire par tour."
+		},
+		{
+			"name":"vigueur",
+			"aptitudes":[
+				"toughness",
+				"general"
+			],
+			"requirements":[
+
+			],
+			"tier":1,
+			"description:":"La cr\u00e9ature dispose de 2 points de vie suppl\u00e9mentaires par localisation. Ce talent peut \u00eatre aquis jusqu'\u00e0 deux fois par point de bonus d'endurance (TOU)."
+		},
+		{
+			"name":"vivacit\u00e9",
+			"aptitudes":[
+				"perception",
+				"agility"
+			],
+			"requirements":[
+
+			],
+			"tier":2,
+			"description:":"La cr\u00e9ature lance un d\u00e9 suppl\u00e9mentaire \u00e0 ses tests d'initiative et retire celui de son choix."
+		}
+	],
+	"backgrounds":{
+		"totem":[
+			{
+				"name":"dragon",
+				"upgrades":[
+					"AGI +10",
+					"INT +5",
+					"FEL -10",
+					"general",
+					"agility"
+				]
+			},
+			{
+				"name":"lion",
+				"upgrades":[
+					"FEL +5",
+					"INT +5",
+					"WIL -5",
+					"general",
+					"fellowship"
+				]
+			},
+			{
+				"name":"griffon",
+				"upgrades":[
+					"WIL +5",
+					"TOU +5",
+					"PER -5",
+					"general",
+					"willpower"
+				]
+			},
+			{
+				"name":"sanglier",
+				"upgrades":[
+					"TOU +10",
+					"INT +5",
+					"FEL -10",
+					"general",
+					"toughness"
+				]
+			},
+			{
+				"name":"minotaure",
+				"upgrades":[
+					"STR +5",
+					"PER +5",
+					"INT -5",
+					"general",
+					"strength"
+				]
+			},
+			{
+				"name":"chacal",
+				"upgrades":[
+					"STR +10",
+					"TOU +5",
+					"INT -10",
+					"general",
+					"strength"
+				]
+			},
+			{
+				"name":"rat",
+				"upgrades":[
+					"AGI +10",
+					"FEL +5",
+					"TOU -10",
+					"general",
+					"agility"
+				]
+			},
+			{
+				"name":"scarabe",
+				"upgrades":[
+					"AGI +10",
+					"TOU +5",
+					"FEL -10",
+					"general",
+					"agility"
+				]
+			},
+			{
+				"name":"loup",
+				"upgrades":[
+					"STR +5",
+					"PER +5",
+					"FEL -5",
+					"general",
+					"strength"
+				]
+			},
+			{
+				"name":"araign\u00e9e",
+				"upgrades":[
+					"AGI +10",
+					"FEL +5",
+					"TOU -10",
+					"general",
+					"agility"
+				]
+			},
+			{
+				"name":"scorpion",
+				"upgrades":[
+					"INT +5",
+					"TOU +5",
+					"WIL -10",
+					"general",
+					"intelligence"
+				]
+			},
+			{
+				"name":"hy\u00e8ne",
+				"upgrades":[
+					"PER +5",
+					"AGI +5",
+					"FEL -5",
+					"general",
+					"perception"
+				]
+			},
+			{
+				"name":"hydre",
+				"upgrades":[
+					"WIL +10",
+					"TOU +5",
+					"FEL -10",
+					"general",
+					"intelligence"
+				]
+			},
+			{
+				"name":"b\u00e9lier",
+				"upgrades":[
+					"WIL +5",
+					"INT +5",
+					"AGI -5",
+					"general",
+					"willpower"
+				]
+			},
+			{
+				"name":"serpent",
+				"upgrades":[
+					"PER +5",
+					"AGI +5",
+					"WIL -5",
+					"general",
+					"perception"
+				]
+			},
+			{
+				"name":"cerf",
+				"upgrades":[
+					"STR +5",
+					"TOU +5",
+					"FEL -5",
+					"general",
+					"strength"
+				]
+			}
+		],
+		"career":[
+			{
+				"name":"Amuseur",
+				"upgrades":[
+					"fellowship",
+					"agility",
+					"finesse",
+					"charm",
+					"common lore",
+					"chute ma\u00eetris\u00e9e"
+				]
+			},
+			{
+				"name":"Tireur",
+				"upgrades":[
+					"finesse",
+					"perception",
+					"ballistic skill",
+					"dodge",
+					"scrutiny",
+					"tir de pr\u00e9cision"
+				]
+			},
+			{
+				"name":"Arnaqueur",
+				"upgrades":[
+					"fieldcraft",
+					"social",
+					"fellowship",
+					"charm",
+					"deceive",
+					"baratin"
+				]
+			},
+			{
+				"name":"Artilleur",
+				"upgrades":[
+					"ballistic skill",
+					"intelligence",
+					"defence",
+					"logic",
+					"scholastic lore",
+					"sp\u00e9cialiste: Tech"
+				]
+			},
+			{
+				"name":"Assassin",
+				"upgrades":[
+					"perception",
+					"offence",
+					"finesse",
+					"stealth",
+					"acrobatics",
+					"rapidit\u00e9"
+				]
+			},
+			{
+				"name":"Bandit",
+				"upgrades":[
+					"social",
+					"offence",
+					"weapon skill",
+					"inquiery",
+					"intimidate",
+					"combat en duo"
+				]
+			},
+			{
+				"name":"Belluaire",
+				"upgrades":[
+					"fellowship",
+					"fieldcraft",
+					"toughness",
+					"survival",
+					"medicae",
+					"sp\u00e9cialiste: B\u00eates"
+				]
+			},
+			{
+				"name":"Champion de justice",
+				"upgrades":[
+					"defence",
+					"fellowship",
+					"weapon skill",
+					"parry",
+					"intimidate",
+					"d\u00e9sarmement"
+				]
+			},
+			{
+				"name":"Chasseur de sorci\u00e8res",
+				"upgrades":[
+					"knowledge",
+					"ballistic skill",
+					"perception",
+					"scrutiny",
+					"interrogation",
+					"conscience"
+				]
+			},
+			{
+				"name":"Chevalier",
+				"upgrades":[
+					"fellowship",
+					"defence",
+					"weapon skill",
+					"parry",
+					"command",
+					"r\u00e9sistance mentale: peur"
+				]
+			},
+			{
+				"name":"Commercant",
+				"upgrades":[
+					"fellowship",
+					"intelligence",
+					"social",
+					"commerce",
+					"charm",
+					"sp\u00e9cialiste: commerce"
+				]
+			},
+			{
+				"name":"Duelliste",
+				"upgrades":[
+					"defence",
+					"finesse",
+					"weapon skill",
+					"dodge",
+					"acrobatics",
+					"roulade"
+				]
+			},
+			{
+				"name":"Espion",
+				"upgrades":[
+					"perception",
+					"social",
+					"agility",
+					"scrutiny",
+					"stealth",
+					"interroger les masses"
+				]
+			},
+			{
+				"name":"Homme d'arme",
+				"upgrades":[
+					"toughness",
+					"strength",
+					"weapon skill",
+					"parry",
+					"command",
+					"plaquage"
+				]
+			},
+			{
+				"name":"Sage",
+				"upgrades":[
+					"willpower",
+					"intelligence",
+					"knowledge",
+					"scholastic lore",
+					"forbiden lore",
+					"savoir encyclop\u00e9dique"
+				]
+			},
+			{
+				"name":"Mage",
+				"upgrades":[
+					"mystic",
+					"knowledge",
+					"willpower",
+					"forbiden lore",
+					"magic sense",
+					"Power 1"
+				]
+			},
+			{
+				"name":"M\u00e9decin",
+				"upgrades":[
+					"fieldcraft",
+					"intelligence",
+					"willpower",
+					"medicae",
+					"scholastic lore",
+					"blas\u00e9"
+				]
+			},
+			{
+				"name":"Ouvrier",
+				"upgrades":[
+					"agility",
+					"fieldcraft",
+					"strength",
+					"craft",
+					"athletics",
+					"porteur"
+				]
+			},
+			{
+				"name":"Paysan",
+				"upgrades":[
+					"fieldcraft",
+					"strength",
+					"toughness",
+					"athletics",
+					"medicae",
+					"dur \u00e0 cuire"
+				]
+			},
+			{
+				"name":"Fid\u00e8le",
+				"upgrades":[
+					"mystic",
+					"knowledge",
+					"fellowship",
+					"charm",
+					"scholastic lore",
+					"Fervor 1"
+				]
+			},
+			{
+				"name":"Rodeur",
+				"upgrades":[
+					"agility",
+					"ballistic skill",
+					"offence",
+					"navigate",
+					"survival",
+					"instinct de survie"
+				]
+			},
+			{
+				"name":"Voleur",
+				"upgrades":[
+					"agility",
+					"finesse",
+					"perception",
+					"stealth",
+					"sleight of hand",
+					"coeur de pierre"
+				]
+			}
+		]
+	},
+	"Costs":{
+		"characteristic":{
+			"0":{
+				"1":500,
+				"2":750,
+				"3":1000,
+				"4":1500,
+				"5":2500
+			},
+			"1":{
+				"1":250,
+				"2":500,
+				"3":750,
+				"4":1000,
+				"5":1500
+			},
+			"2":{
+				"1":100,
+				"2":250,
+				"3":500,
+				"4":750,
+				"5":1250
+			}
+		},
+		"skill":{
+			"0":{
+				"1":300,
+				"2":600,
+				"3":900,
+				"4":1200
+			},
+			"1":{
+				"1":200,
+				"2":400,
+				"3":600,
+				"4":800
+			},
+			"2":{
+				"1":100,
+				"2":200,
+				"3":300,
+				"4":400
+			}
+		},
+		"talent":{
+			"0":{
+				"1":600,
+				"2":900,
+				"3":1200
+			},
+			"1":{
+				"1":300,
+				"2":450,
+				"3":600
+			},
+			"2":{
+				"1":200,
+				"2":300,
+				"3":400
+			}
+		}
+	}
 }
