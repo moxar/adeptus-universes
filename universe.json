@@ -1,5 +1,5 @@
 {
-    "Aptitudes": [
+    "aptitudes": [
         "weapon skill",
         "ballistic skill",
         "strength",
@@ -18,2189 +18,1091 @@
         "social",
         "general"
     ],
-    "Characteristics": [
+    "characteristics": [
         {
-            "Name": "WS",
-            "Aptitudes": [
+            "name": "WS",
+            "aptitudes": [
                 "weapon skill",
                 "offence"
             ]
         },
         {
-            "Name": "BS",
-            "Aptitudes": [
+            "name": "BS",
+            "aptitudes": [
                 "ballistic skill",
                 "finesse"
             ]
         },
         {
-            "Name": "STR",
-            "Aptitudes": [
+            "name": "STR",
+            "aptitudes": [
                 "strength",
                 "offence"
             ]
         },
         {
-            "Name": "TOU",
-            "Aptitudes": [
+            "name": "TOU",
+            "aptitudes": [
                 "toughness",
                 "defence"
             ]
         },
         {
-            "Name": "AGI",
-            "Aptitudes": [
+            "name": "AGI",
+            "aptitudes": [
                 "agility",
                 "finesse"
             ]
         },
         {
-            "Name": "INT",
-            "Aptitudes": [
+            "name": "INT",
+            "aptitudes": [
                 "intelligence",
                 "knowledge"
             ]
         },
         {
-            "Name": "PER",
-            "Aptitudes": [
+            "name": "PER",
+            "aptitudes": [
                 "perception",
                 "fieldcraft"
             ]
         },
         {
-            "Name": "WIL",
-            "Aptitudes": [
+            "name": "WIL",
+            "aptitudes": [
                 "willpower",
                 "mystic"
             ]
         },
         {
-            "Name": "FEL",
-            "Aptitudes": [
+            "name": "FEL",
+            "aptitudes": [
                 "fellowship",
                 "social"
             ]
         }
     ],
-    "Gauges": [
+    "gauges": [
         {
-            "Name": "Insanity",
-            "Aptitudes": []
+            "name": "Insanity",
+            "aptitudes": []
         },
         {
-            "Name": "Power",
-            "Aptitudes": [
+            "name": "Power",
+            "aptitudes": [
                 "mystic",
                 "willpower"
             ]
         },
         {
-            "Name": "Fervor",
-            "Aptitudes": [
+            "name": "Fervor",
+            "aptitudes": [
                 "mystic",
                 "fellowship"
             ]
         },
         {
-            "Name": "Fate",
-            "Aptitudes": []
+            "name": "Fate",
+            "aptitudes": []
         }
     ],
-    "Skills": [
+    "skills": [
         {
-            "Name": "acrobatics",
-            "Aptitudes": [
+            "name": "acrobatics",
+            "aptitudes": [
                 "agility",
                 "general"
             ]
         },
         {
-            "Name": "athletics",
-            "Aptitudes": [
+            "name": "athletics",
+            "aptitudes": [
                 "strength",
                 "general"
             ]
         },
         {
-            "Name": "awareness",
-            "Aptitudes": [
+            "name": "awareness",
+            "aptitudes": [
                 "perception",
                 "fieldcraft"
             ]
         },
         {
-            "Name": "charm",
-            "Aptitudes": [
+            "name": "charm",
+            "aptitudes": [
                 "fellowship",
                 "social"
             ]
         },
         {
-            "Name": "command",
-            "Aptitudes": [
+            "name": "command",
+            "aptitudes": [
                 "fellowship",
                 "social"
             ]
         },
         {
-            "Name": "commerce",
-            "Aptitudes": [
+            "name": "commerce",
+            "aptitudes": [
                 "intelligence",
                 "knowledge"
             ]
         },
         {
-            "Name": "common lore",
-            "Aptitudes": [
+            "name": "common lore",
+            "aptitudes": [
                 "intelligence",
                 "knowledge"
             ]
         },
         {
-            "Name": "craft",
-            "Aptitudes": [
+            "name": "craft",
+            "aptitudes": [
                 "intelligence",
                 "fieldcraft"
             ]
         },
         {
-            "Name": "deceive",
-            "Aptitudes": [
+            "name": "deceive",
+            "aptitudes": [
                 "fellowship",
                 "social"
             ]
         },
         {
-            "Name": "dodge",
-            "Aptitudes": [
+            "name": "dodge",
+            "aptitudes": [
                 "agility",
                 "defence"
             ]
         },
         {
-            "Name": "forbiden lore",
-            "Aptitudes": [
+            "name": "forbiden lore",
+            "aptitudes": [
                 "intelligence",
                 "knowledge"
             ]
         },
         {
-            "Name": "inquiry",
-            "Aptitudes": [
+            "name": "inquiry",
+            "aptitudes": [
                 "fellowship",
                 "social"
             ]
         },
         {
-            "Name": "interrogation",
-            "Aptitudes": [
+            "name": "interrogation",
+            "aptitudes": [
                 "willpower",
                 "social"
             ]
         },
         {
-            "Name": "intimidate",
-            "Aptitudes": [
+            "name": "intimidate",
+            "aptitudes": [
                 "strength",
                 "social"
             ]
         },
         {
-            "Name": "linguistics",
-            "Aptitudes": [
+            "name": "linguistics",
+            "aptitudes": [
                 "intelligence",
                 "general"
             ]
         },
         {
-            "Name": "logic",
-            "Aptitudes": [
+            "name": "logic",
+            "aptitudes": [
                 "intelligence",
                 "knowledge"
             ]
         },
         {
-            "Name": "medicae",
-            "Aptitudes": [
+            "name": "medicae",
+            "aptitudes": [
                 "intelligence",
                 "fieldcraft"
             ]
         },
         {
-            "Name": "navigate",
-            "Aptitudes": [
+            "name": "navigate",
+            "aptitudes": [
                 "intelligence",
                 "fieldcraft"
             ]
         },
         {
-            "Name": "operate",
-            "Aptitudes": [
+            "name": "operate",
+            "aptitudes": [
                 "agility",
                 "fieldcraft"
             ]
         },
         {
-            "Name": "parry",
-            "Aptitudes": [
+            "name": "parry",
+            "aptitudes": [
                 "weapon skill",
                 "defence"
             ]
         },
         {
-            "Name": "magic sense",
-            "Aptitudes": [
+            "name": "magic sense",
+            "aptitudes": [
                 "perception",
                 "mystic"
             ]
         },
         {
-            "Name": "scholastic lore",
-            "Aptitudes": [
+            "name": "scholastic lore",
+            "aptitudes": [
                 "intelligence",
                 "knowledge"
             ]
         },
         {
-            "Name": "scrutiny",
-            "Aptitudes": [
+            "name": "scrutiny",
+            "aptitudes": [
                 "perception",
                 "general"
             ]
         },
         {
-            "Name": "security",
-            "Aptitudes": [
+            "name": "security",
+            "aptitudes": [
                 "intelligence",
                 "fieldcraft"
             ]
         },
         {
-            "Name": "sleight of hand",
-            "Aptitudes": [
+            "name": "sleight of hand",
+            "aptitudes": [
                 "agility",
                 "knowledge"
             ]
         },
         {
-            "Name": "stealth",
-            "Aptitudes": [
+            "name": "stealth",
+            "aptitudes": [
                 "agility",
                 "fieldcraft"
             ]
         },
         {
-            "Name": "survival",
-            "Aptitudes": [
+            "name": "survival",
+            "aptitudes": [
                 "perception",
                 "fieldcraft"
             ]
         },
         {
-            "Name": "trade",
-            "Aptitudes": [
+            "name": "trade",
+            "aptitudes": [
                 "intelligence",
                 "general"
             ]
         }
     ],
-    "Talents": [
+    "talents": [
         {
-            "Name": "acharné",
-            "Aptitudes": [
+            "name": "acharné",
+            "aptitudes": [
                 "defence",
                 "toughness"
             ],
-            "Requirements": [],
-            "Tier": 3,
-            "Description:": "Cette créature peut dépenser un point de destin et ignorer tous les effets des blessures comme le saignement, ou la fatigue, tant que ceux-ci ne la tueraient pas. A la fin du combat, les effets s'appliquent normalement."
+            "requirements": [],
+            "tier": 3,
+            "description:": "Cette créature peut dépenser un point de destin et ignorer tous les effets des blessures comme le saignement, ou la fatigue, tant que ceux-ci ne la tueraient pas. A la fin du combat, les effets s'appliquent normalement."
         },
         {
-            "Name": "ambidextre",
-            "Aptitudes": [
+            "name": "ambidextre",
+            "aptitudes": [
                 "agility",
                 "finesse"
             ],
-            "Requirements": [],
-            "Tier": 1,
-            "Description:": "Cette créature peut utiliser sans pénalité sa mauvaise main à la place de la bonne pour combattre."
+            "requirements": [],
+            "tier": 1,
+            "description:": "Cette créature peut utiliser sans pénalité sa mauvaise main à la place de la bonne pour combattre."
         },
         {
-            "Name": "assassin",
-            "Aptitudes": [
+            "name": "assassin",
+            "aptitudes": [
                 "finesse",
                 "offence"
             ],
-            "Requirements": [],
-            "Tier": 2,
-            "Description:": "Cette créature peut utiliser l'action \"called shot\" sans pénalité."
+            "requirements": [],
+            "tier": 2,
+            "description:": "Cette créature peut utiliser l'action \"called shot\" sans pénalité."
         },
         {
-            "Name": "baratin",
-            "Aptitudes": [
+            "name": "baratin",
+            "aptitudes": [
                 "social",
                 "fellowship"
             ],
-            "Requirements": [],
-            "Tier": 1,
-            "Description": "Cette créature ne subit aucune pénalité à ses tests de deceive quand elle s'adresse à plusieurs personnes."
+            "requirements": [],
+            "tier": 1,
+            "description": "Cette créature ne subit aucune pénalité à ses tests de deceive quand elle s'adresse à plusieurs personnes."
         },
         {
-            "Name": "blasé",
-            "Aptitudes": [
+            "name": "blasé",
+            "aptitudes": [
                 "willpower",
                 "defence"
             ],
-            "Requirements": [],
-            "Tier": 1,
-            "Description": "Cette créature ignore les effets de la peur naturelle."
+            "requirements": [],
+            "tier": 1,
+            "description": "Cette créature ignore les effets de la peur naturelle."
         },
         {
-            "Name": "bravoure",
-            "Aptitudes": [
+            "name": "bravoure",
+            "aptitudes": [
                 "willpower",
                 "defence"
             ],
-            "Requirements": [],
-            "Tier": 2,
-            "Description:": "Cette créature peut relancer ses tests de peur ratés."
+            "requirements": [],
+            "tier": 2,
+            "description:": "Cette créature peut relancer ses tests de peur ratés."
         },
         {
-            "Name": "bretteur",
-            "Aptitudes": [
+            "name": "bretteur",
+            "aptitudes": [
                 "offence",
                 "weapon skill"
             ],
-            "Requirements": [],
-            "Tier": 2,
-            "Description:": "Cette créature peut utiliser l'action \"swift attack\"."
+            "requirements": [],
+            "tier": 2,
+            "description:": "Cette créature peut utiliser l'action \"swift attack\"."
         },
         {
-            "Name": "brute épaisse",
-            "Aptitudes": [
+            "name": "brute épaisse",
+            "aptitudes": [
                 "strength",
                 "offence"
             ],
-            "Requirements": [],
-            "Tier": 2,
-            "Description:": "Cette créature ajoute la moitié de son bonus de combat (WS) à ses dégâts au corps à corps."
+            "requirements": [],
+            "tier": 2,
+            "description:": "Cette créature ajoute la moitié de son bonus de combat (WS) à ses dégâts au corps à corps."
         },
         {
-            "Name": "charge bestiale",
-            "Aptitudes": [
+            "name": "charge bestiale",
+            "aptitudes": [
                 "strength",
                 "offence"
             ],
-            "Requirements": [],
-            "Tier": 2,
-            "Description:": "Les attaques de charge de cette créature ont un bonus supplémentaire de +10 au toucher et +2 aux dégâts."
+            "requirements": [],
+            "tier": 2,
+            "description:": "Les attaques de charge de cette créature ont un bonus supplémentaire de +10 au toucher et +2 aux dégâts."
         },
         {
-            "Name": "chute maîtrisée",
-            "Aptitudes": [
+            "name": "chute maîtrisée",
+            "aptitudes": [
                 "agility",
                 "fieldcraft"
             ],
-            "Requirements": [],
-            "Tier": 1,
-            "Description": "Le personnage ignore les chutes d'une hauteur en mètre inférieure ou égale à son bonus d'agilité (AGI)."
+            "requirements": [],
+            "tier": 1,
+            "description": "Le personnage ignore les chutes d'une hauteur en mètre inférieure ou égale à son bonus d'agilité (AGI)."
         },
         {
-            "Name": "coeur de pierre",
-            "Aptitudes": [
+            "name": "coeur de pierre",
+            "aptitudes": [
                 "willpower",
                 "social"
             ],
-            "Requirements": [],
-            "Tier": 1,
-            "Description": "Cette créature a un bonus de +10 à tous ses tests pour résister au charme et à l'intimidation."
+            "requirements": [],
+            "tier": 1,
+            "description": "Cette créature a un bonus de +10 à tous ses tests pour résister au charme et à l'intimidation."
         },
         {
-            "Name": "combat en duo",
-            "Aptitudes": [
+            "name": "combat en duo",
+            "aptitudes": [
                 "general",
                 "offence"
             ],
-            "Requirements": [],
-            "Tier": 1,
-            "Description": "Cette créature gagne un modificateur additionnel de +10 en surnombre. Ce modificateur additionnel passe à +20 si au moins un autre participant dispose de ce talent."
+            "requirements": [],
+            "tier": 1,
+            "description": "Cette créature gagne un modificateur additionnel de +10 en surnombre. Ce modificateur additionnel passe à +20 si au moins un autre participant dispose de ce talent."
         },
         {
-            "Name": "conscience",
-            "Aptitudes": [
+            "name": "conscience",
+            "aptitudes": [
                 "perception",
                 "fieldcraft"
             ],
-            "Requirements": [],
-            "Tier": 1,
-            "Description:": "Cette créature peut relancer ses tests d'awareness ratés."
+            "requirements": [],
+            "tier": 1,
+            "description:": "Cette créature peut relancer ses tests d'awareness ratés."
         },
         {
-            "Name": "contre-attaque",
-            "Aptitudes": [
+            "name": "contre-attaque",
+            "aptitudes": [
                 "weapon skill",
                 "defence"
             ],
-            "Requirements": [],
-            "Tier": 2,
-            "Description:": "Cette créature peut utiliser l'action de contre-attaque."
+            "requirements": [],
+            "tier": 2,
+            "description:": "Cette créature peut utiliser l'action de contre-attaque."
         },
         {
-            "Name": "coup de maître",
-            "Aptitudes": [
+            "name": "coup de maître",
+            "aptitudes": [
                 "weapon skill",
                 "offence"
             ],
-            "Requirements": [],
-            "Tier": 3,
-            "Description:": "Cette créature peut utiliser l'action de coup de maître."
+            "requirements": [],
+            "tier": 3,
+            "description:": "Cette créature peut utiliser l'action de coup de maître."
         },
         {
-            "Name": "désarmement",
-            "Aptitudes": [
+            "name": "désarmement",
+            "aptitudes": [
                 "weapon skill",
                 "defence"
             ],
-            "Requirements": [],
-            "Tier": 1,
-            "Description:": "Cette créature peut effectuer l'action de \"désarmement\" sans pénalité"
+            "requirements": [],
+            "tier": 1,
+            "description:": "Cette créature peut effectuer l'action de \"désarmement\" sans pénalité"
         },
         {
-            "Name": "dur à cuire",
-            "Aptitudes": [
+            "name": "dur à cuire",
+            "aptitudes": [
                 "toughness",
                 "defence"
             ],
-            "Requirements": [],
-            "Tier": 1,
-            "Description:": "Cette créature considère son bonus d'endurance à +2 pour résister aux effets de fatigue et d'anémie."
+            "requirements": [],
+            "tier": 1,
+            "description:": "Cette créature considère son bonus d'endurance à +2 pour résister aux effets de fatigue et d'anémie."
         },
         {
-            "Name": "enchainement",
-            "Aptitudes": [
+            "name": "enchainement",
+            "aptitudes": [
                 "offence",
                 "weapon skill"
             ],
-            "Requirements": [],
-            "Tier": 3,
-            "Description:": "Cette créature peut utiliser l'action \"lightning attack\"."
+            "requirements": [],
+            "tier": 3,
+            "description:": "Cette créature peut utiliser l'action \"lightning attack\"."
         },
         {
-            "Name": "fanatisme",
-            "Aptitudes": [
+            "name": "fanatisme",
+            "aptitudes": [
                 "willpower",
                 "defence"
             ],
-            "Requirements": [],
-            "Tier": 2,
-            "Description:": "Chaque fois que cette créature rate un test de peur, elle peut subir 1D5 points de folie en plus de ceux provoqués par cette peur pour en ignorer les autres effets jusqu'à la fin du combat."
+            "requirements": [],
+            "tier": 2,
+            "description:": "Chaque fois que cette créature rate un test de peur, elle peut subir 1D5 points de folie en plus de ceux provoqués par cette peur pour en ignorer les autres effets jusqu'à la fin du combat."
         },
         {
-            "Name": "furie guerrière",
-            "Aptitudes": [
+            "name": "furie guerrière",
+            "aptitudes": [
                 "offence",
                 "strength"
             ],
-            "Requirements": [],
-            "Tier": 2,
-            "Description:": "La créature gagne un modificateur supplémentaire de +10 au toucher en \"all out attack\". Si elle touche sa cible, elle peut effectuer une nouvelle attaque dans les mêmes conditions, avec une modificateur de -20 au toucher."
+            "requirements": [],
+            "tier": 2,
+            "description:": "La créature gagne un modificateur supplémentaire de +10 au toucher en \"all out attack\". Si elle touche sa cible, elle peut effectuer une nouvelle attaque dans les mêmes conditions, avec une modificateur de -20 au toucher."
         },
         {
-            "Name": "harcèlement",
-            "Aptitudes": [
+            "name": "harcèlement",
+            "aptitudes": [
                 "finesse",
                 "ballistic skill"
             ],
-            "Requirements": [],
-            "Tier": 1,
-            "Description:": "Cette créature peut effectuer une attaque standard à distance au cours de ses actions de mouvement. Cette attaque compte dans la limite d'attaques autorisées par tour."
+            "requirements": [],
+            "tier": 1,
+            "description:": "Cette créature peut effectuer une attaque standard à distance au cours de ses actions de mouvement. Cette attaque compte dans la limite d'attaques autorisées par tour."
         },
         {
-            "Name": "implaccable",
-            "Aptitudes": [
+            "name": "implaccable",
+            "aptitudes": [
                 "offence",
                 "strength"
             ],
-            "Requirements": [],
-            "Tier": 3,
-            "Description:": "Cette créature gagne un modificateur supplémentaire de +10 au toucher en \"all out attack\". Tant qu'elle touche sa cible, elle peut effectuer une nouvelle attaque dans les mêmes conditions, avec une modificateur cumulatif de -20 au toucher."
+            "requirements": [],
+            "tier": 3,
+            "description:": "Cette créature gagne un modificateur supplémentaire de +10 au toucher en \"all out attack\". Tant qu'elle touche sa cible, elle peut effectuer une nouvelle attaque dans les mêmes conditions, avec une modificateur cumulatif de -20 au toucher."
         },
         {
-            "Name": "instinct de survie",
-            "Aptitudes": [
+            "name": "instinct de survie",
+            "aptitudes": [
                 "defence",
                 "general"
             ],
-            "Requirements": [],
-            "Tier": 1,
-            "Description:": "Lorsque la créature dépense un point de destin pour réduire les dégâts subits, elle a 10% de chances d'ignorer la totalité des dégâts."
+            "requirements": [],
+            "tier": 1,
+            "description:": "Lorsque la créature dépense un point de destin pour réduire les dégâts subits, elle a 10% de chances d'ignorer la totalité des dégâts."
         },
         {
-            "Name": "interroger les masses",
-            "Aptitudes": [
+            "name": "interroger les masses",
+            "aptitudes": [
                 "general",
                 "social"
             ],
-            "Requirements": [],
-            "Tier": 1,
-            "Description": "Cette créature peut relancer ses tests d'enquête ratés lorsqu'il s'adresse à un groupe d'individus."
+            "requirements": [],
+            "tier": 1,
+            "description": "Cette créature peut relancer ses tests d'enquête ratés lorsqu'il s'adresse à un groupe d'individus."
         },
         {
-            "Name": "juste",
-            "Aptitudes": [
+            "name": "juste",
+            "aptitudes": [
                 "defence",
                 "willpower"
             ],
-            "Requirements": [],
-            "Tier": 3,
-            "Description:": "La créature est immunisée aux effets de peur."
+            "requirements": [],
+            "tier": 3,
+            "description:": "La créature est immunisée aux effets de peur."
         },
         {
-            "Name": "maître archer",
-            "Aptitudes": [
+            "name": "maître archer",
+            "aptitudes": [
                 "ballistic skill",
                 "finesse"
             ],
-            "Requirements": [],
-            "Tier": 2,
-            "Description:": "La créature peut effectuer utiliser l'action \"swift attack\" avec un arc."
+            "requirements": [],
+            "tier": 2,
+            "description:": "La créature peut effectuer utiliser l'action \"swift attack\" avec un arc."
         },
         {
-            "Name": "mutagène",
-            "Aptitudes": [
+            "name": "mutagène",
+            "aptitudes": [
                 "toughness",
                 "general"
             ],
-            "Requirements": [],
-            "Tier": 1,
-            "Description:": "Si la créature dispose des produits, elle peut utiliser les effets du mutagène en action libre. Elle effectue un test d'endurance (TOU). En cas d'écec, elle subit un point d'animie par degré d'échec. En cas de succès, elle attribue 10 points de caractérsitiques par succès, avec un maximum de +30 par caractéristique."
+            "requirements": [],
+            "tier": 1,
+            "description:": "Si la créature dispose des produits, elle peut utiliser les effets du mutagène en action libre. Elle effectue un test d'endurance (TOU). En cas d'écec, elle subit un point d'animie par degré d'échec. En cas de succès, elle attribue 10 points de caractérsitiques par succès, avec un maximum de +30 par caractéristique."
         },
         {
-            "Name": "plaquage",
-            "Aptitudes": [
+            "name": "plaquage",
+            "aptitudes": [
                 "weapon skill",
                 "offence"
             ],
-            "Requirements": [],
-            "Tier": 1,
-            "Description": "Cette créature peut utiliser l'action de \"plaquage\" sans pénalité"
+            "requirements": [],
+            "tier": 1,
+            "description": "Cette créature peut utiliser l'action de \"plaquage\" sans pénalité"
         },
         {
-            "Name": "porteur",
-            "Aptitudes": [
+            "name": "porteur",
+            "aptitudes": [
                 "strength",
                 "fieldcraft"
             ],
-            "Requirements": [],
-            "Tier": 1,
-            "Description": "Les seuils d'encombrement de cette créature sont augmentés de 10."
+            "requirements": [],
+            "tier": 1,
+            "description": "Les seuils d'encombrement de cette créature sont augmentés de 10."
         },
         {
-            "Name": "possédé",
-            "Aptitudes": [
+            "name": "possédé",
+            "aptitudes": [
                 "willpower",
                 "defence"
             ],
-            "Requirements": [],
-            "Tier": 2,
-            "Description:": "La créature gagne un modificateur de +30 à tous ses tests pour résister aux effets des coups critiques et aux effets affectant l'esprit."
+            "requirements": [],
+            "tier": 2,
+            "description:": "La créature gagne un modificateur de +30 à tous ses tests pour résister aux effets des coups critiques et aux effets affectant l'esprit."
         },
         {
-            "Name": "rapidité",
-            "Aptitudes": [
+            "name": "rapidité",
+            "aptitudes": [
                 "agility",
                 "finesse"
             ],
-            "Requirements": [],
-            "Tier": 1,
-            "Description": "Cette créature sortir et ranger ses armes en action libre"
+            "requirements": [],
+            "tier": 1,
+            "description": "Cette créature sortir et ranger ses armes en action libre"
         },
         {
-            "Name": "résistance mentale",
-            "Aptitudes": [
+            "name": "résistance mentale",
+            "aptitudes": [
                 "willpower",
                 "defence"
             ],
-            "Requirements": [],
-            "Tier": 1,
-            "Description:": "Ce talent doit être spécialisé. La créature gagne un modificateur de +10 à tous ses tests de résistance contre la spécialité choisie."
+            "requirements": [],
+            "tier": 1,
+            "description:": "Ce talent doit être spécialisé. La créature gagne un modificateur de +10 à tous ses tests de résistance contre la spécialité choisie."
         },
         {
-            "Name": "résistance physique",
-            "Aptitudes": [
+            "name": "résistance physique",
+            "aptitudes": [
                 "toughness",
                 "defence"
             ],
-            "Requirements": [],
-            "Tier": 1,
-            "Description:": "Ce talent doit être spécialisé. La créature gagne un modificateur de +10 à tous ses tests de résistance contre la spécialité choisie."
+            "requirements": [],
+            "tier": 1,
+            "description:": "Ce talent doit être spécialisé. La créature gagne un modificateur de +10 à tous ses tests de résistance contre la spécialité choisie."
         },
         {
-            "Name": "robuste",
-            "Aptitudes": [
+            "name": "robuste",
+            "aptitudes": [
                 "toughness",
                 "defence"
             ],
-            "Requirements": [],
-            "Tier": 2,
-            "Description": "Cette créature considère ses blessures d'un degré moins grave pour la récupération de points de vie."
+            "requirements": [],
+            "tier": 2,
+            "description": "Cette créature considère ses blessures d'un degré moins grave pour la récupération de points de vie."
         },
         {
-            "Name": "roulade",
-            "Aptitudes": [
+            "name": "roulade",
+            "aptitudes": [
                 "agility",
                 "general"
             ],
-            "Requirements": [],
-            "Tier": 1,
-            "Description:": "Cette créature peut se relever en action libre."
+            "requirements": [],
+            "tier": 1,
+            "description:": "Cette créature peut se relever en action libre."
         },
         {
-            "Name": "savoir encyclopédique",
-            "Aptitudes": [
+            "name": "savoir encyclopédique",
+            "aptitudes": [
                 "intelligence",
                 "knowledge"
             ],
-            "Requirements": [],
-            "Tier": 1,
-            "Description:": "Cette créature peut effectuer des tests de connaissance dans les domaines qu'elle ne connait pas, avec un modificateur de -20."
+            "requirements": [],
+            "tier": 1,
+            "description:": "Cette créature peut effectuer des tests de connaissance dans les domaines qu'elle ne connait pas, avec un modificateur de -20."
         },
         {
-            "Name": "spécialiste",
-            "Aptitudes": [
+            "name": "spécialiste",
+            "aptitudes": [
                 "knowledge",
                 "general"
             ],
-            "Requirements": [],
-            "Tier": 1,
-            "Description": "Ce talent doit être spécialisé. Cette créature dispose de connaissance dans un domaine particulier. Elle peut effectuer des tests de connaissance dans ce domaine sans la pénalitée standard de -20."
+            "requirements": [],
+            "tier": 1,
+            "description": "Ce talent doit être spécialisé. Cette créature dispose de connaissance dans un domaine particulier. Elle peut effectuer des tests de connaissance dans ce domaine sans la pénalitée standard de -20."
         },
         {
-            "Name": "tir instinctif",
-            "Aptitudes": [
+            "name": "tir instinctif",
+            "aptitudes": [
                 "ballistic skill",
                 "perception"
             ],
-            "Requirements": [],
-            "Tier": 2,
-            "Description:": "La créature peut tirer sur une cible engagée au corps à corps sans pénalité."
+            "requirements": [],
+            "tier": 2,
+            "description:": "La créature peut tirer sur une cible engagée au corps à corps sans pénalité."
         },
         {
-            "Name": "tireur d'élite",
-            "Aptitudes": [
+            "name": "tireur d'élite",
+            "aptitudes": [
                 "ballistic skill",
                 "finesse"
             ],
-            "Requirements": [],
-            "Tier": 2,
-            "Description:": "La créature ajoute la moitié de son score de tir (BS) à ses dégâts d'attaque à distance."
+            "requirements": [],
+            "tier": 2,
+            "description:": "La créature ajoute la moitié de son score de tir (BS) à ses dégâts d'attaque à distance."
         },
         {
-            "Name": "tir de précision",
-            "Aptitudes": [
+            "name": "tir de précision",
+            "aptitudes": [
                 "perception",
                 "offence"
             ],
-            "Requirements": [],
-            "Tier": 1,
-            "Description": "La créature ignore une valeur de couvert égale à son bonus de perception (PER) sur ses tirs."
+            "requirements": [],
+            "tier": 1,
+            "description": "La créature ignore une valeur de couvert égale à son bonus de perception (PER) sur ses tirs."
         },
         {
-            "Name": "tueur né",
-            "Aptitudes": [
+            "name": "tueur né",
+            "aptitudes": [
                 "weapon skill",
                 "offence"
             ],
-            "Requirements": [],
-            "Tier": 3,
-            "Description:": "La créature dispose d'une demi action de combat supplémentaire par tour."
+            "requirements": [],
+            "tier": 3,
+            "description:": "La créature dispose d'une demi action de combat supplémentaire par tour."
         },
         {
-            "Name": "vigueur",
-            "Aptitudes": [
+            "name": "vigueur",
+            "aptitudes": [
                 "toughness",
                 "general"
             ],
-            "Requirements": [],
-            "Tier": 1,
-            "Description:": "La créature dispose de 2 points de vie supplémentaires par localisation. Ce talent peut être aquis jusqu'à deux fois par point de bonus d'endurance (TOU)."
+            "requirements": [],
+            "tier": 1,
+            "description:": "La créature dispose de 2 points de vie supplémentaires par localisation. Ce talent peut être aquis jusqu'à deux fois par point de bonus d'endurance (TOU)."
         },
         {
-            "Name": "vivacité",
-            "Aptitudes": [
+            "name": "vivacité",
+            "aptitudes": [
                 "perception",
                 "agility"
             ],
-            "Requirements": [],
-            "Tier": 2,
-            "Description:": "La créature lance un dé supplémentaire à ses tests d'initiative et retire celui de son choix."
+            "requirements": [],
+            "tier": 2,
+            "description:": "La créature lance un dé supplémentaire à ses tests d'initiative et retire celui de son choix."
         }
     ],
-    "Backgrounds": {
+    "backgrounds": {
         "totem": [
             {
-                "Name": "dragon",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "AGI +10"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "INT +5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "FEL -10"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "general"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "agility"
-                        }
-                    ]
+                "name": "dragon",
+                "upgrades": ["AGI +10",
+"INT +5",
+"FEL -10",
+"general",
+"agility"
                 ]
             },
             {
-                "Name": "lion",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "FEL +5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "INT +5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "WIL -5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "general"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "fellowship"
-                        }
-                    ]
+                "name": "lion",
+                "upgrades": ["FEL +5",
+"INT +5",
+"WIL -5",
+"general",
+"fellowship"
                 ]
             },
             {
-                "Name": "griffon",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "WIL +5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "TOU +5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "PER -5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "general"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "willpower"
-                        }
-                    ]
+                "name": "griffon",
+                "upgrades": ["WIL +5",
+"TOU +5",
+"PER -5",
+"general",
+"willpower"
                 ]
             },
             {
-                "Name": "sanglier",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "TOU +10"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "INT +5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "FEL -10"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "general"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "toughness"
-                        }
-                    ]
+                "name": "sanglier",
+                "upgrades": ["TOU +10",
+"INT +5",
+"FEL -10",
+"general",
+"toughness"
                 ]
             },
             {
-                "Name": "minotaure",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "STR +5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "PER +5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "INT -5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "general"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "strength"
-                        }
-                    ]
+                "name": "minotaure",
+                "upgrades": ["STR +5",
+"PER +5",
+"INT -5",
+"general",
+"strength"
                 ]
             },
             {
-                "Name": "chacal",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "STR +10"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "TOU +5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "INT -10"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "general"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "strength"
-                        }
-                    ]
+                "name": "chacal",
+                "upgrades": ["STR +10",
+"TOU +5",
+"INT -10",
+"general",
+"strength"
                 ]
             },
             {
-                "Name": "rat",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "AGI +10"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "FEL +5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "TOU -10"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "general"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "agility"
-                        }
-                    ]
+                "name": "rat",
+                "upgrades": ["AGI +10",
+"FEL +5",
+"TOU -10",
+"general",
+"agility"
                 ]
             },
             {
-                "Name": "scarabe",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "AGI +10"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "TOU +5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "FEL -10"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "general"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "agility"
-                        }
-                    ]
+                "name": "scarabe",
+                "upgrades": ["AGI +10",
+"TOU +5",
+"FEL -10",
+"general",
+"agility"
                 ]
             },
             {
-                "Name": "loup",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "STR +5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "PER +5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "FEL -5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "general"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "strength"
-                        }
-                    ]
+                "name": "loup",
+                "upgrades": ["STR +5",
+"PER +5",
+"FEL -5",
+"general",
+"strength"
                 ]
             },
             {
-                "Name": "araignée",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "AGI +10"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "FEL +5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "TOU -10"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "general"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "agility"
-                        }
-                    ]
+                "name": "araignée",
+                "upgrades": ["AGI +10",
+"FEL +5",
+"TOU -10",
+"general",
+"agility"
                 ]
             },
             {
-                "Name": "scorpion",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "INT +5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "TOU +5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "WIL -10"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "general"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "intelligence"
-                        }
-                    ]
+                "name": "scorpion",
+                "upgrades": ["INT +5",
+"TOU +5",
+"WIL -10",
+"general",
+"intelligence"
                 ]
             },
             {
-                "Name": "hyène",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "PER +5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "AGI +5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "FEL -5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "general"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "perception"
-                        }
-                    ]
+                "name": "hyène",
+                "upgrades": ["PER +5",
+"AGI +5",
+"FEL -5",
+"general",
+"perception"
                 ]
             },
             {
-                "Name": "hydre",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "WIL +10"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "TOU +5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "FEL -10"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "general"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "intelligence"
-                        }
-                    ]
+                "name": "hydre",
+                "upgrades": ["WIL +10",
+"TOU +5",
+"FEL -10",
+"general",
+"intelligence"
                 ]
             },
             {
-                "Name": "bélier",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "WIL +5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "INT +5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "AGI -5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "general"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "willpower"
-                        }
-                    ]
+                "name": "bélier",
+                "upgrades": ["WIL +5",
+"INT +5",
+"AGI -5",
+"general",
+"willpower"
                 ]
             },
             {
-                "Name": "serpent",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "PER +5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "AGI +5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "WIL -5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "general"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "perception"
-                        }
-                    ]
+                "name": "serpent",
+                "upgrades": ["PER +5",
+"AGI +5",
+"WIL -5",
+"general",
+"perception"
                 ]
             },
             {
-                "Name": "cerf",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "STR +5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "TOU +5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "FEL -5"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "general"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "strength"
-                        }
-                    ]
+                "name": "cerf",
+                "upgrades": ["STR +5",
+"TOU +5",
+"FEL -5",
+"general",
+"strength"
                 ]
             }
         ],
         "career": [
             {
-                "Name": "Amuseur",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "fellowship"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "agility"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "finesse"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "charm"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "common lore"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "chute maîtrisée"
-                        }
-                    ]
+                "name": "Amuseur",
+                "upgrades": ["fellowship",
+"agility",
+"finesse",
+"charm",
+"common lore",
+"chute maîtrisée"
                 ]
             },
             {
-                "Name": "Tireur",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "finesse"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "perception"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "ballistic skill"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "dodge"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "scrutiny"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "tir de précision"
-                        }
-                    ]
+                "name": "Tireur",
+                "upgrades": ["finesse",
+"perception",
+"ballistic skill",
+"dodge",
+"scrutiny",
+"tir de précision"
                 ]
             },
             {
-                "Name": "Arnaqueur",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "fieldcraft"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "social"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "fellowship"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "charm"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "deceive"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "baratin"
-                        }
-                    ]
+                "name": "Arnaqueur",
+                "upgrades": ["fieldcraft",
+"social",
+"fellowship",
+"charm",
+"deceive",
+"baratin"
                 ]
             },
             {
-                "Name": "Artilleur",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "ballistic skill"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "intelligence"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "defence"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "logic"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "scholastic lore"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "spécialiste: Tech"
-                        }
-                    ]
+                "name": "Artilleur",
+                "upgrades": ["ballistic skill",
+"intelligence",
+"defence",
+"logic",
+"scholastic lore",
+"spécialiste: Tech"
                 ]
             },
             {
-                "Name": "Assassin",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "perception"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "offence"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "finesse"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "stealth"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "acrobatics"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "rapidité"
-                        }
-                    ]
+                "name": "Assassin",
+                "upgrades": ["perception",
+"offence",
+"finesse",
+"stealth",
+"acrobatics",
+"rapidité"
                 ]
             },
             {
-                "Name": "Bandit",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "social"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "offence"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "weapon skill"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "inquiery"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "intimidate"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "combat en duo"
-                        }
-                    ]
+                "name": "Bandit",
+                "upgrades": ["social",
+"offence",
+"weapon skill",
+"inquiery",
+"intimidate",
+"combat en duo"
                 ]
             },
             {
-                "Name": "Belluaire",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "fellowship"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "fieldcraft"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "toughness"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "survival"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "medicae"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "spécialiste: Bêtes"
-                        }
-                    ]
+                "name": "Belluaire",
+                "upgrades": ["fellowship",
+"fieldcraft",
+"toughness",
+"survival",
+"medicae",
+"spécialiste: Bêtes"
                 ]
             },
             {
-                "Name": "Champion de justice",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "defence"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "fellowship"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "weapon skill"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "parry"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "intimidate"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "désarmement"
-                        }
-                    ]
+                "name": "Champion de justice",
+                "upgrades": ["defence",
+"fellowship",
+"weapon skill",
+"parry",
+"intimidate",
+"désarmement"
                 ]
             },
             {
-                "Name": "Chasseur de sorcières",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "knowledge"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "ballistic skill"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "perception"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "scrutiny"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "interrogation"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "conscience"
-                        }
-                    ]
+                "name": "Chasseur de sorcières",
+                "upgrades": ["knowledge",
+"ballistic skill",
+"perception",
+"scrutiny",
+"interrogation",
+"conscience"
                 ]
             },
             {
-                "Name": "Chevalier",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "fellowship"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "defence"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "weapon skill"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "parry"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "command"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "résistance mentale: peur"
-                        }
-                    ]
+                "name": "Chevalier",
+                "upgrades": ["fellowship",
+"defence",
+"weapon skill",
+"parry",
+"command",
+"résistance mentale: peur"
                 ]
             },
             {
-                "Name": "Commercant",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "fellowship"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "intelligence"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "social"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "commerce"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "charm"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "spécialiste: commerce"
-                        }
-                    ]
+                "name": "Commercant",
+                "upgrades": ["fellowship",
+"intelligence",
+"social",
+"commerce",
+"charm",
+"spécialiste: commerce"
                 ]
             },
             {
-                "Name": "Duelliste",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "defence"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "finesse"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "weapon skill"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "dodge"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "acrobatics"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "roulade"
-                        }
-                    ]
+                "name": "Duelliste",
+                "upgrades": ["defence",
+"finesse",
+"weapon skill",
+"dodge",
+"acrobatics",
+"roulade"
                 ]
             },
             {
-                "Name": "Espion",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "perception"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "social"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "agility"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "scrutiny"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "stealth"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "interroger les masses"
-                        }
-                    ]
+                "name": "Espion",
+                "upgrades": ["perception",
+"social",
+"agility",
+"scrutiny",
+"stealth",
+"interroger les masses"
                 ]
             },
             {
-                "Name": "Homme d'arme",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "toughness"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "strength"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "weapon skill"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "parry"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "command"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "plaquage"
-                        }
-                    ]
+                "name": "Homme d'arme",
+                "upgrades": ["toughness",
+"strength",
+"weapon skill",
+"parry",
+"command",
+"plaquage"
                 ]
             },
             {
-                "Name": "Sage",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "willpower"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "intelligence"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "knowledge"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "scholastic lore"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "forbiden lore"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "savoir encyclopédique"
-                        }
-                    ]
+                "name": "Sage",
+                "upgrades": ["willpower",
+"intelligence",
+"knowledge",
+"scholastic lore",
+"forbiden lore",
+"savoir encyclopédique"
                 ]
             },
             {
-                "Name": "Mage",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "mystic"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "knowledge"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "willpower"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "forbiden lore"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "magic sense"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "Power 1"
-                        }
-                    ]
+                "name": "Mage",
+                "upgrades": ["mystic",
+"knowledge",
+"willpower",
+"forbiden lore",
+"magic sense",
+"Power 1"
                 ]
             },
             {
-                "Name": "Médecin",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "fieldcraft"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "intelligence"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "willpower"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "medicae"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "scholastic lore"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "blasé"
-                        }
-                    ]
+                "name": "Médecin",
+                "upgrades": ["fieldcraft",
+"intelligence",
+"willpower",
+"medicae",
+"scholastic lore",
+"blasé"
                 ]
             },
             {
-                "Name": "Ouvrier",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "agility"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "fieldcraft"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "strength"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "craft"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "athletics"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "porteur"
-                        }
-                    ]
+                "name": "Ouvrier",
+                "upgrades": ["agility",
+"fieldcraft",
+"strength",
+"craft",
+"athletics",
+"porteur"
                 ]
             },
             {
-                "Name": "Paysan",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "fieldcraft"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "strength"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "toughness"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "athletics"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "medicae"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "dur à cuire"
-                        }
-                    ]
+                "name": "Paysan",
+                "upgrades": ["fieldcraft",
+"strength",
+"toughness",
+"athletics",
+"medicae",
+"dur à cuire"
                 ]
             },
             {
-                "Name": "Fidèle",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "mystic"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "knowledge"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "fellowship"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "charm"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "scholastic lore"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "Fervor 1"
-                        }
-                    ]
+                "name": "Fidèle",
+                "upgrades": ["mystic",
+"knowledge",
+"fellowship",
+"charm",
+"scholastic lore",
+"Fervor 1"
                 ]
             },
             {
-                "Name": "Rodeur",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "agility"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "ballistic skill"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "offence"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "navigate"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "survival"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "instinct de survie"
-                        }
-                    ]
+                "name": "Rodeur",
+                "upgrades": ["agility",
+"ballistic skill",
+"offence",
+"navigate",
+"survival",
+"instinct de survie"
                 ]
             },
             {
-                "Name": "Voleur",
-                "Upgrades": [
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "agility"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "finesse"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "perception"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "stealth"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "sleight of hand"
-                        }
-                    ],
-                    [
-                        {
-                            "Mark": "-",
-                            "Name": "coeur de pierre"
-                        }
-                    ]
+                "name": "Voleur",
+                "upgrades": ["agility",
+"finesse",
+"perception",
+"stealth",
+"sleight of hand",
+"coeur de pierre"
                 ]
             }
         ]
