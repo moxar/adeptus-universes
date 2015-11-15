@@ -1,0 +1,34 @@
+#Emilie
+name:	Briene
+Totem:	lion
+career: Peasant, Brute
+
+AGI	32
+FEL	28
+INT	27
+PER	28
+STR	37
+TOU	33
+WIL	33
+
+2015/09/27 Creation
+	+ defence
+	+ [0] Fate +2
+	+ [0] Weapon Training: mace
+	+ [0] Weapon Training: bow
+
+2015/09/27 [1000] First class
+	+ STR +5
+	+ TOU +5
+	+ parry
+	+ Sound Constitution
+	+ Iron Jaw
+	+ Devastating assault
+	
+2015/11/15 [400] Desert Walker
+	+ STR +5
+	
+2015/11/15 [600] Saving Private Mirà
+	+ weapon skill
+	+ Frenzy
+	+ Fate +3

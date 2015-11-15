@@ -1,0 +1,35 @@
+#Vivien
+name:	Senkar
+totem:	dragon
+career: duellist, ranger
+
+AGI	33
+FEL	33
+INT	31
+PER	31
+STR	31
+TOU	30
+WIL	31
+
+2015/09/27 Creation
+	+ perception
+	+ [0] Fate +2
+	+ [0] Weapon Training: sword
+	+ [0] Weapon Training: crossbow
+
+2015/09/27 [1000] First class
+	+ AGI +5
+	+ survival
+	+ awareness
+	+ Rapid Reload
+	+ Dodge
+	
+2015/11/15 [400] Desert Walker
+	+ PER +5
+	+ scrutiny
+	+ Ballistic Skill
+	
+2015/11/15 [600] Saving Private Mirà
+	+ Killing strike
+	+ AGI +5
+	+ Fate +1

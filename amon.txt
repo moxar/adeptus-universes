@@ -1,0 +1,35 @@
+#Romain
+name:	Amon Ad-Raza
+totem:	griffon
+career: Footman, Duellist
+
+AGI	37
+FEL	29
+INT	27
+PER	24
+STR	37
+TOU	32
+WIL	30
+
+2015/09/27 Creation
+	+ strength
+	+ [0] Fate +2
+	+ [0] Weapon Training: sword
+	+ [0] Weapon Training: crossbow
+	
+2015/09/27 [1000] First class
+	+ STR +5
+	+ AGI +5
+	+ Takedown
+	+ Disarm
+	+ Sound Constitution
+	+ Leap Up
+	
+2015/11/15 [400] Desert Walker
+	+ Intimidate
+	+ Sound Constitution
+	
+2015/11/15 [600] Saving Private Mirà
+	+ Mental Resistance: Fear
+	+ TOU +5
+	+ Fate +3
