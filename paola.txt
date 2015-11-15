@@ -56,3 +56,6 @@ FEL 38
 	* WIL +5
 	* INS +2
 	* True Grit
+	
+2015/11/14 [600] Exodus
+	- Fate -1

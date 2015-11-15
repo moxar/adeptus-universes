@@ -54,3 +54,5 @@ FEL 27
 	* Fate +1 [50]
 	* Die Hard
 	
+2015/11/14 [600] Exodus
+	* Fate -1

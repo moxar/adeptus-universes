@@ -57,3 +57,5 @@ FEL 37
 	* Awareness
 	* Sound Constitution
 	
+2015/11/14 [600] Exodus
+	* Fate -3

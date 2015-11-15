@@ -37,3 +37,5 @@ FEL 0
 	
 2015/08/29 [800] The priestess, the vampire and the chaosborn
 	
+2015/11/14 [600] Exodus
+	* Fate -1
