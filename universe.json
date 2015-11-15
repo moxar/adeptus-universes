@@ -408,19 +408,6 @@
                 ]
             }
         ],
-        "role": [
-            {
-                "name": "Warrior",
-                "upgrades": [
-                    "weapon skill",
-                    "ballistic skill",
-                    "offence",
-                    "defence",
-                    "strength",
-                    "Iron Jaw"
-                ]
-            }
-        ],
         "tarot": [
             {
                 "name": "I",
