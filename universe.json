@@ -394,6 +394,18 @@
                     "awareness",
                     "navigate"
                 ]
+            },
+            {
+                "name": "Duellist",
+                "upgrades": [
+                    "weapon skill",
+                    "finesse",
+                    "agility",
+                    "Ambidextrous",
+                    "acrobatics",
+                    "parry",
+                    "dodge"
+                ]
             }
         ],
         "role": [
