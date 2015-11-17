@@ -16,25 +16,25 @@ FEL 38
 2015/06/01 [650] Creation 
 	- Weapon Training: Spear
 	- Weapon Training: Thrown
+	- Fate +1
 	* WS +5
 	* STR +5
-	* Fate +1
 	* Sound Constitution
 	* acrobatics
 	
 2015/06/15 [400] Goblins! 
 	* TOU +5
 	* Sound Constitution
-	* Fate +1 [50]
+	* Fate +1
 	
 2015/06/21 [400] Vampire! 
 	* AGI +5
 	* Sound Constitution
-	* Fate +1 [50]
+	* Fate +1
 	
 2015/07/01 [400] Travel to Leichberg 
 	* Physical Resistance: Disease
-	* Fate +1 [50]
+	* Fate +1
 	
 2015/07/15 [300] Join the milicia 
 	* WS +5

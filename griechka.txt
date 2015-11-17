@@ -14,7 +14,7 @@ WIL 0
 FEL 0
 
 2015/06/01 [650] Creation 
-	* Fate +1
+	- Fate +1
 	
 2015/06/15 [400] Goblins! 
 	
@@ -38,4 +38,4 @@ FEL 0
 2015/08/29 [800] The priestess, the vampire and the chaosborn
 	
 2015/11/14 [600] Exodus
-	* Fate -1
+	- Fate -1

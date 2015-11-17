@@ -24,11 +24,11 @@ FEL 27
 	
 2015/06/15 [400] Goblins! 
 	* Physical Resistance: Disease
-	* Fate +1 [50]
+	* Fate +1
 	
 2015/06/21 [400] Vampire! 
 	* Sound Constitution
-	* Fate +1 [50]
+	* Fate +1
 	
 2015/07/01 [400] Travel to Leichberg 
 	* TOU +5
@@ -51,8 +51,8 @@ FEL 27
 	* Acrobatics
 	* Dodge
 	* Dodge
-	* Fate +1 [50]
+	* Fate +1
 	* Die Hard
 	
 2015/11/14 [600] Exodus
-	* Fate -1
+	- Fate -1

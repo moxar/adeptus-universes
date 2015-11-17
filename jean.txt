@@ -17,14 +17,14 @@ FEL 37
 2015/06/01 [650] Creation 
 	- Weapon Training: Mace
 	- Weapon Training: Bow
+	- Fate +1
 	* defence
-	* Fate +1
 	* parry
 	* WS +5
 	* STR +5
 	* TOU +5
 	* Sound Constitution
-	* Fate +1 [50]
+	* Fate +1
 	
 2015/06/15 [400] Goblins! 
 	* Combat Master
@@ -42,7 +42,7 @@ FEL 37
 
 2015/08/01 [550] Pestilence! 
 	* Crushing Blow
-	* Fate +1 [50]
+	* Fate +1
 	
 2015/08/29 [400] Escape Leichberg
 	* Double Team
@@ -58,4 +58,4 @@ FEL 37
 	* Sound Constitution
 	
 2015/11/14 [600] Exodus
-	* Fate -3
+	- Fate -3
