@@ -86,23 +86,28 @@
     "gauges": [
         {
             "name": "INS",
-            "aptitudes": []
+            "aptitudes": [],
+            "xp": 0
         },
         {
             "name": "COR",
-            "aptitudes": []
+            "aptitudes": [],
+            "xp": 0
         },
         {
             "name": "DR",
-            "aptitudes": []
+            "aptitudes": [],
+            "xp": 0
         },
         {
             "name": "PR",
-            "aptitudes": []
+            "aptitudes": [],
+            "xp": 0
         },
         {
             "name": "Fate",
-            "aptitudes": []
+            "aptitudes": [],
+            "xp": 50
         }
     ],
     "skills": [
