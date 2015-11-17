@@ -772,7 +772,8 @@
                 "social"
             ],
             "description": "Character has good reputation amongst chosen group.",
-            "tier": 1
+            "tier": 1,
+            "stackable": true
         },
         {
             "name": "Physical Resistance",
@@ -808,7 +809,8 @@
                 "general"
             ],
             "description": "Gain two additional wounds in each location.",
-            "tier": 1
+            "tier": 1,
+            "stackable": true
         },
         {
             "name": "Takedown",
