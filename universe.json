@@ -975,21 +975,12 @@
             "tier": 2
         },
         {
-            "name": "Killing strike - Melee",
+            "name": "Killing strike",
             "aptitudes": [
-                "weapon skill",
+                "offence",
                 "finesse"
             ],
-            "description": "Add the DoS to the damage in a melee attack.",
-            "tier": 2
-        },
-        {
-            "name": "Killing strike - Ranged",
-            "aptitudes": [
-                "ballistic skill",
-                "finesse"
-            ],
-            "description": "Add the DoS to the damage in a ranged attack.",
+            "description": "Add the DoS to the attack damage.",
             "tier": 2
         },
         {
@@ -1002,21 +993,12 @@
             "tier": 2
         },
         {
-            "name": "Precision Killer - Melee",
+            "name": "Precision Killer",
             "aptitudes": [
-                "weapon skill",
+                "offence",
                 "finesse"
             ],
-            "description": "No penalty to making Called Shot in melee Combat.",
-            "tier": 2
-        },
-        {
-            "name": "Precision Killer - Range",
-            "aptitudes": [
-                "ballistic skill",
-                "finesse"
-            ],
-            "description": "No penalty to making Called Shot in ranged Combat.",
+            "description": "No penalty to making Called Shot",
             "tier": 2
         },
         {
@@ -1038,21 +1020,12 @@
             "tier": 2
         },
         {
-            "name": "Two-Weapon Wielder - Melee",
+            "name": "Two-Weapon Wielder",
             "aptitudes": [
-                "weapon skill",
-                "finesse"
+                "offence", 
+                "agility"
             ],
             "description": "May fight with two weapons in melee combat.",
-            "tier": 2
-        },
-        {
-            "name": "Two-Weapon Wielder - Range",
-            "aptitudes": [
-                "ballistic skill",
-                "finesse"
-            ],
-            "description": "May fight with two weapons in ranged combat.",
             "tier": 2
         },
         {
