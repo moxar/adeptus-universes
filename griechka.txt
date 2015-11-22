@@ -1,20 +1,23 @@
 name: 		Griechka
 origin: 	Kislev
-#carreer: 	
-#tarot: 	
+carreer: 	Mage, Smith
+tarot: 		XIX
 
-WS 0
-BS 0
-STR 0
-TOU 0
-AGI 0
-INT 0
-PER 0
-WIL 0
-FEL 0
+WS 22
+BS 31
+STR 30
+TOU 38
+AGI 30
+INT 25
+PER 35
+WIL 38
+FEL 27
 
 2015/06/01 [650] Creation 
 	- Fate +1
+	- Mental Resistance: Fear
+	- Weapon Training: Sword
+	- Weapon Training: Bow
 	
 2015/06/15 [400] Goblins! 
 	
@@ -25,6 +28,7 @@ FEL 0
 2015/07/15 [300] Join the milicia 
 
 2015/08/01 [550] Pestilence!
+	- COR +34
 
 2015/08/29 [-250] Burn fate
 
