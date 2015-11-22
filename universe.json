@@ -100,7 +100,7 @@
             "xp": 0
         },
         {
-            "name": "Magic Rating",
+            "name": "MR",
             "aptitudes": [],
             "xp": 0
         },
@@ -422,7 +422,7 @@
                     "magic sense",
                     "forbiden lore",
                     "logic",
-                    "Magic Rating +1"
+                    "MR +1"
                 ]
             },
             {
