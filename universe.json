@@ -856,6 +856,15 @@
             "stackable": true
         },
         {
+            "name": "Specialist",
+            "aptitudes": [
+                "knowledge",
+                "general"
+            ],
+            "description": "Can roll knowledge tests without penalties against the given domain.",
+            "tier": 1
+        },
+        {
             "name": "Takedown",
             "aptitudes": [
                 "weapon skill",
