@@ -100,7 +100,7 @@
             "xp": 0
         },
         {
-            "name": "PR",
+            "name": "Magic Rating",
             "aptitudes": [],
             "xp": 0
         },
@@ -410,6 +410,31 @@
                     "acrobatics",
                     "parry",
                     "dodge"
+                ]
+            },
+            {
+                "name": "Mage",
+                "upgrades": [
+                    "mystic",
+                    "willpower",
+                    "knowledge",
+                    "Sanctionned",
+                    "magic sense",
+                    "forbiden lore",
+                    "logic",
+                    "Magic Rating +1"
+                ]
+            },
+            {
+                "name": "Smith",
+                "upgrades": [
+                    "intelligence",
+                    "fieldcraft",
+                    "strength",
+                    "",
+                    "",
+                    "",
+                    ""
                 ]
             }
         ],
@@ -800,6 +825,15 @@
                 "fieldcraft"
             ],
             "description": "Reduce reload time.",
+            "tier": 1
+        },
+        {
+            "name": "Sanctionned",
+            "aptitudes": [
+                "mystic",
+                "defence"
+            ],
+            "description": "Limit pushing to +2. No additionnal penalties when pushing. Avoid perils when rolling double on pushing.",
             "tier": 1
         },
         {
