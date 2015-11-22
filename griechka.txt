@@ -18,17 +18,35 @@ FEL 27
 	- Mental Resistance: Fear
 	- Weapon Training: Sword
 	- Weapon Training: Bow
+# Tarot gives a choice.
+	- TOU -2
+	* Heat Metal [100]
+	* Silver Dart [100]
+	* WIL +5
+	* INT +5
+	* TOU +5
 	
 2015/06/15 [400] Goblins! 
+	* MR +1 [400]
 	
 2015/06/21 [400] Vampire! 
+	* Law of Apparance [50]
+	* Fate +1
+	* Fate +1
+	- COR +5
 	
 2015/07/01 [400] Travel to Leichberg 
+	* Law of Craftsmanship [50]
+	* dodge
+	* Fool's gold [100]
+	* Awareness
+	- COR +8
 	
 2015/07/15 [300] Join the milicia 
+	* Mental Resistance: Magic
 
 2015/08/01 [550] Pestilence!
-	- COR +34
+	- COR +15
 
 2015/08/29 [-250] Burn fate
 
@@ -36,10 +54,20 @@ FEL 27
 2015/08/29 [100] End of pestilence
 	
 2015/08/29 [400] Escape Leichberg
+	* Orbs of Steel [100]
+	- COR +6
 
 2015/08/29 [-300] Burn fate
 	
 2015/08/29 [800] The priestess, the vampire and the chaosborn
+	* MR +1 [600]
+	* Strong Minded
 	
 2015/11/14 [600] Exodus
 	- Fate -1
+	* Fate +1
+	* Fate +1
+	* WIL +5
+	* Specialist: Winds of magic
+	* Law of Form [100]
+	* Fault of Form [100]
