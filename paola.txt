@@ -59,3 +59,7 @@ FEL 38
 	
 2015/11/14 [600] Exodus
 	- Fate -1
+	* deceive
+	* interrogation
+	* Jaded
+	* dodge
