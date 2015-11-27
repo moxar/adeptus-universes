@@ -1,0 +1,42 @@
+name:   Merien
+origin: Empire
+career: Mage, Grave Robber
+tarot:  III
+
+WS	29
+BS	28
+STR	31
+TOU	35
+AGI	33
+INT	34
+PER	36
+WIL	32
+FEL	28
+
+2015-11-22 [4050] Reroll
+	- Finesse
+	- Fate +1
+	- Weapon Training: Crossbow
+	- Weapon Training: Sword
+	* INT +5
+	* WIL +5
+	* PER +5
+	* Security
+	* Security
+	* Awareness
+	* Daze [100]
+	* Shadow Cloak [50]
+	* Silent Utterance [50]
+	* Illusion [100]
+	* Eyes of the Dark [100]
+	* Confusion [100]
+	* MR +1 [400]
+	* MR +1 [600]
+	* stealth
+	* stealth
+	* dodge
+	* magic sense
+	* AGI +5
+	* Specialist: History [200]
+	* Fate +1
+	* WIL +5
