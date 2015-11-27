@@ -339,7 +339,7 @@
                 ]
             }
         ],
-        "carreer": [
+        "career": [
             {
                 "name": "Priest",
                 "upgrades": [
@@ -422,7 +422,7 @@
                     "magic sense",
                     "forbiden lore",
                     "logic",
-                    "MR +1"
+					"MR +1"
                 ]
             },
             {
@@ -458,8 +458,7 @@
                 "name": "III",
                 "description": "Humans must die so that humanity can endure.",
                 "upgrades": [
-                    "Jaded",
-                    "WIP +2"
+                    "Jaded"
                 ]
             },
             {
@@ -519,7 +518,7 @@
                     "FEL +3",
                     "STR +3",
                     "TOU -3",
-                    "WIP -3"
+                    "WIL -3"
                 ]
             },
             {
@@ -536,7 +535,7 @@
                     "FEL -3",
                     "STR -3",
                     "TOU +3",
-                    "WIP +3"
+                    "WIL +3"
                 ]
             },
             {
@@ -1074,7 +1073,7 @@
         {
             "name": "Two-Weapon Wielder",
             "aptitudes": [
-                "offence",
+                "offence", 
                 "agility"
             ],
             "description": "May fight with two weapons in melee combat.",
