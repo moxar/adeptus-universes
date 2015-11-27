@@ -1,6 +1,6 @@
 name: 		Griechka
 origin: 	Kislev
-carreer: 	Mage, Smith
+career: 	Mage, Smith
 tarot: 		XIX
 
 WS 22

@@ -1,6 +1,6 @@
 name: 		Jean
 origin: 	Empire
-carreer: 	Brute, Peasant
+career: 	Brute, Peasant
 tarot: 		XVI
 
 WS 36

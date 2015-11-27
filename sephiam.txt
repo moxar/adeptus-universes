@@ -1,6 +1,6 @@
 name: 		Sephiam
 origin: 	Wood Elve
-carreer: 	Ranger, Duellist
+career: 	Ranger, Duellist
 tarot: 		V
 
 WS 38

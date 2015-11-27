@@ -1,6 +1,6 @@
 name: 		Paola Piazzini
 origin: 	Tilea
-carreer: 	Priest, Footman
+career: 	Priest, Footman
 tarot: 		XVIII
 
 WS 36
