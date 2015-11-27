@@ -436,7 +436,19 @@
                     "athletics",
                     "logic"
                 ]
-            }
+            },
+			{
+				"name": "Grave Robber",
+				"upgrades": [
+					"fieldcraft",
+					"perception",
+					"intelligence",
+					"scrutiny",
+					"navigate",
+					"linguistics",
+					"keen intuition"
+				]
+			}
         ],
         "tarot": [
             {
