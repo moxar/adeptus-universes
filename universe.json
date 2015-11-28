@@ -314,11 +314,11 @@
                 "name": "Tilea",
                 "upgrades": [
                     "general",
-                    "agility"
+                    "fellowship"
                 ]
             },
             {
-                "name": "Wood Elve",
+                "name": "Athel Loren",
                 "upgrades": [
                     "general",
                     "agility"
