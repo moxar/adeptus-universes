@@ -21,47 +21,89 @@ FEL 38
 	* STR +5
 	* Sound Constitution
 	* acrobatics
-	
+
+# The Characters met in a village south of Nuln. Sephiam had been
+# imprisonned by villagers after killing beastmens in the country.
+# In the night, goblins led by a sorcerer on a giant spider attack
+# the village.
 2015/06/15 [400] Goblins! 
 	* TOU +5
 	* Sound Constitution
 	* Fate +1
-	
+
+# Willin to tell the authories of the agitation in the south,
+# the characters travel to Nuln. The stop in a small town and meet
+# Anabelle Von Carstein. They manage to flee before the vampire
+# slaughters the whole village, swearing to kill the characters
+# the next time they met.
 2015/06/21 [400] Vampire! 
 	* AGI +5
 	* Sound Constitution
 	* Fate +1
 	
+# In Nuln, Paola is given an important mission. The head of the cults
+# disapered several weeks ago. She has to go to Leichberg and prepare
+# the defence of the city. She also has to find some trace of
+# the missing leaders.
 2015/07/01 [400] Travel to Leichberg 
 	* Physical Resistance: Disease
 	* Fate +1
-	
+
+# In Leichberg, no one takes the characters seriously. They decide to
+# Engage in the milicia and try to lead by example, without success.
+# Nobody respects a kid.
 2015/07/15 [300] Join the milicia 
 	* WS +5
 
+# A magic pestilence starts in the city. Quarantine is declared. Grichka
+# finds the origin of the pestilence under the temple of Morr and kills
+# the necromancer responsible for it.
 2015/08/01 [550] Pestilence! 
 	* intimidate
 	* Takedown
 	* FEL +5
-	
+
+# Unable to convince the watch nor the meister of the town, the characters
+# have no other choice but to leave the city to it's doom. Despite the
+# destruction of it's magic origin, the pestilence grows in Leichberg.
 2015/08/29 [400] Escape Leichberg
 	* Double Team
 	* Mental Resistance: Fear
 
 # Bonus 100XP awarded to Paola for killing a chaosborn
 2015/08/29 [100] Kill of a chaosborn
-	
+
+# The characters gather in a small village south of Leichberg. They intend
+# report to Nuln as soon as the elve is able to walk. One night,
+# a vampire attacks the village with a group of skelettons. The characters
+# manage to stop him but it transforms into a chaosborn. The group locks
+# it into the temple of Morr and burns it to the ground.
 2015/08/29 [800] The priestess, the vampire and the chaosborn 
 	* Hardy
 	* WIL +5
 	* INS +2
 	* True Grit
-	
+
+# The last survivors of the village agree to flee. Two messengers are sent to
+# alert the nearby villages. At Apfelreach, the meisters refuses to help the
+# survivors unless Aldorf sends some resources. Beside, on of them appears
+# to be a sleeping sorcerer. He gets escorted to Aldorf.
 2015/11/14 [600] Exodus
 	- Fate -1
 	* deceive
 	* interrogation
 	* Jaded
-	* dodge
+	* Peer: Imperial Cult
 
+# In Aldorf, the characters receive the order to track and stop Anabella
+# Von Carstein, which should be in Nuln. Gaspard, a mage of the shadow
+# college, sends one of hes novice to help them. After they meet in the
+# Helping Hand inn, the characters capture a spy and interrogate him in
+# the basements of the temple of Sigmar. He follows the order of a mysterious
+# beautiful blond young lady, calling herself "Countess"...
 2015-11-22 [1000] To kill a mocking bird
+	* charm
+	* command
+	* FEL +5
+	* Fate +1
+	* Bonds of Brotherhood [100]
