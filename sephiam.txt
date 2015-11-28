@@ -59,3 +59,5 @@ FEL 27
 	* PER +5
 	* Weapon Training: Spear
 	* Fate +1
+
+2015-11-22 [1000] To kill a mocking bird

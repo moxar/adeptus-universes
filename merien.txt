@@ -41,3 +41,5 @@ FEL	28
 	* Specialist: History [200]
 	* Fate +1
 	* WIL +5
+
+2015-11-22 [1000] To kill a mocking bird

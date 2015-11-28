@@ -71,3 +71,5 @@ FEL 27
 	* Specialist: Winds of magic
 	* Law of Form [100]
 	* Fault of Form [100]
+
+2015-11-22 [1000] To kill a mocking bird
