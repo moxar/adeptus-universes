@@ -470,7 +470,8 @@
                 "name": "III",
                 "description": "Humans must die so that humanity can endure.",
                 "upgrades": [
-                    "Jaded"
+                    "Jaded",
+		    "TOU +2"
                 ]
             },
             {
