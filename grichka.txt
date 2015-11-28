@@ -1,4 +1,4 @@
-name: 		Griechka
+name: 		Grichka
 origin: 	Kislev
 career: 	Mage, Smith
 tarot: 		XIX
