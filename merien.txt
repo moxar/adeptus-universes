@@ -18,6 +18,7 @@ FEL	28
 	- Fate +1
 	- Weapon Training: Crossbow
 	- Weapon Training: Sword
+	- TOU -2
 	* INT +5
 	* WIL +5
 	* PER +5
