@@ -1,5 +1,5 @@
 name: 		Sephiam
-origin: 	Wood Elve
+origin: 	Athel Loren
 career: 	Ranger, Duellist
 tarot: 		V
 
