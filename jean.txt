@@ -61,3 +61,14 @@ FEL 37
 	- Fate -3
 
 2015-11-22 [1000] To kill a mocking bird
+	- Fate -1
+	* Fate +1
+	* Fate +1
+	* Fate +1
+	* Fate +1
+	* Medicae
+	* STR +5
+	* WS +5
+	* Weapon Training: sword
+	* Charm
+	* Fate +1
