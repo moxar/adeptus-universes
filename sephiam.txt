@@ -14,7 +14,7 @@ WIL 31
 FEL 27
 
 2015/06/01 [650] Creation
-	* Perception
+	- Perception
 	- Weapon Training: Sword
 	- Weapon Training: Bow
 	- Hatred: Beastmen
@@ -27,9 +27,9 @@ FEL 27
 	* Fate +1
 	
 2015/06/15 [400] Goblins! 
-	* scrutiny
-	* athletics
-	* survival
+	* Scrutiny
+	* Athletics
+	* Survival
 	
 2015/06/21 [400] Vampire!
 	* Rapid Reload
@@ -37,8 +37,7 @@ FEL 27
 	
 2015/07/01 [400] Travel to Leichberg 
 	* Sound Constitution
-	* Fate +1
-	* Fate +1
+	* Fate +2
 	
 2015/07/15 [300] Join the milicia 
 	* Sound Constitution
@@ -55,6 +54,7 @@ FEL 27
 	* AGI +5
 	
 2015/11/14 [600] Exodus
+	- INS +1
 	- Fate -1
 	* PER +5
 	* Weapon Training: Spear
@@ -65,3 +65,15 @@ FEL 27
 	* Stealth
 	* Jaded
 
+2015-11-29 [1800] Kill the Beast!
+	- INS +8
+	- COR +3
+	- Fate -4
+	* Swift Attack
+	* STR +5
+	* Crushing Blow
+	* Mighty Shot
+	* Two-Weapon Wielder
+	* Fate +1
+	* Fate +1
+	* Fate +1
