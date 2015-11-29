@@ -43,3 +43,5 @@ FEL	28
 	* WIL +5
 
 2015-11-22 [1000] To kill a mocking bird
+
+2015-11-29 [1000] Operation Hammerblow

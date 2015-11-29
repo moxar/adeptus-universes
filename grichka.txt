@@ -72,8 +72,16 @@ FEL 27
 	* Law of Form [100]
 	* Fault of Form [100]
 
-2015-11-22 [1000] To kill a mocking bird
+2015/11/22 [1000] To kill a mocking bird
 	* Sound Constitution
 	* Sound Constitution
 	* Sound Constitution
 	* Scholastic lore
+
+2015/11/29 [-500] Burn fate
+
+2015-11-29 [1800] Operation Hammerblow
+# Gauges to confirm
+	- Fate -2
+	* COR +4
+	* INS +8

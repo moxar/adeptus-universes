@@ -101,9 +101,18 @@ FEL 38
 # Helping Hand inn, the characters capture a spy and interrogate him in
 # the basements of the temple of Sigmar. He follows the order of a mysterious
 # beautiful blond young lady, calling herself "Countess"...
-2015-11-22 [1000] To kill a mocking bird
+2015/11/22 [1000] To kill a mocking bird
 	* charm
 	* command
 	* FEL +5
 	* Fate +1
 	* Bonds of Brotherhood [100]
+
+# The characters disguise themself to enter the Gentleman's club. Erica
+# happend to be a member of a vampire's sorority. They have influence
+# over several member of the churches and control a network of spies.
+# The characters have been granted a choice: Kill Anabella, or die. They
+# stormed the manson of the vampire and its newborn and escaped in a
+# safe-house just before the watch came in.
+2015-11-29 [1800] Operation Hammerblow
+	* COR +4

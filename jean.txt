@@ -72,3 +72,8 @@ FEL 37
 	* Weapon Training: sword
 	* Charm
 	* Fate +1
+
+2015-11-29 [1800] Operation Hammerblow
+	* INS +12
+	* COR +2
+	- Fate -2
