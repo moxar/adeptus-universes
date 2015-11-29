@@ -1345,6 +1345,33 @@
             "tier": 3
         }
     ],
+    "spells":[
+        {
+            "name": "Bonds of Brotherhood",
+            "tier": 1,
+            "description": "The characters and its allies gain +10 WS and BS."
+        },
+        {
+            "name": "Legacy of the warrior",
+            "tier": 1,
+            "description": "The character can use its WS or BS instead of INT and ignores the penalties for not being proficient in lore or logic skills checks related to warcraft."
+        },
+	{
+	    "name": "Spear of the godess",
+            "tier": 2,
+            "description": "Target attacks ignore armor value"
+	},
+        {
+            "name": "Versatility",
+            "tier": 2,
+            "description": "Target gains a talent linked to at least one of these aptitudes: offence, defence, weapon skill, ballistic skill"
+        },
+	{
+	    "name": "Bullwark of the godess",
+	    "tier": 3,
+	    "description": "Target armor value increases by 3."
+	}
+    ],
     "costs": {
         "characteristic": {
             "0": {
