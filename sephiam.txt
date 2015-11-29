@@ -61,3 +61,7 @@ FEL 27
 	* Fate +1
 
 2015-11-22 [1000] To kill a mocking bird
+	* Double Team
+	* Stealth
+	* Jaded
+
