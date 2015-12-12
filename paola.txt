@@ -116,3 +116,15 @@ FEL 38
 # safe-house just before the watch came in.
 2015-11-29 [1800] Operation Hammerblow
 	* COR +4
+	* Sound Constitution
+	* Killing Strike
+	* TOU +5
+	* WS +5
+	* Parry
+	* Versatility [200]
+# Bullward of the Godess #3
+# Spear of the Godess #3
+# Versatility #2
+# Challenge #2
+# Bonds of Brotherhood #1
+# Legacy of the Warrior #1
