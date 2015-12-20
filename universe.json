@@ -1165,15 +1165,6 @@
             "tier": 3
         },
         {
-            "name": "Crushing Blow",
-            "aptitudes": [
-                "weapon skill",
-                "offence"
-            ],
-            "description": "Add half WS bonus to damage inflicted in melee.",
-            "tier": 3
-        },
-        {
             "name": "Deathdealer",
             "aptitudes": [
                 "perception",
@@ -1252,15 +1243,6 @@
                 "knowledge"
             ],
             "description": "May spend Fate point to succeed on test.",
-            "tier": 3
-        },
-        {
-            "name": "Mighty Shot",
-            "aptitudes": [
-                "ballistic skill",
-                "offence"
-            ],
-            "description": "Add half BS bonus to ranged damage rolls.",
             "tier": 3
         },
         {
