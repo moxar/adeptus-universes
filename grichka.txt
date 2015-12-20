@@ -85,3 +85,10 @@ FEL 27
 	- Fate -2
 	* COR +4
 	* INS +8
+	* Medicae
+	* INT +5
+	* PER +5
+	* Scrutiny
+	* Common Lore
+	* Semi Auto Metal [200]
+	* Law of age [200]
