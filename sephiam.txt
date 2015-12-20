@@ -42,7 +42,7 @@ FEL 27
 2015/07/15 [300] Join the milicia 
 	* Sound Constitution
 
-2015/08/01 [550] Pestilencei!
+2015/08/01 [550] Pestilence!
 	* Physical Resistance: Disease
 	
 2015/08/29 [400] Escape Leichberg
@@ -69,11 +69,9 @@ FEL 27
 	- INS +8
 	- COR +3
 	- Fate -4
-	* Swift Attack
-	* STR +5
-	* Crushing Blow
-	* Mighty Shot
+	* WS +5
+	* STR +3
+	* Precision Killer
 	* Two-Weapon Wielder
-	* Fate +1
-	* Fate +1
-	* Fate +1
+	* Swift Attack
+	* Fate +3
