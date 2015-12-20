@@ -41,7 +41,6 @@ FEL 37
 	* parry
 
 2015/08/01 [550] Pestilence! 
-	* Crushing Blow
 	* Fate +1
 	
 2015/08/29 [400] Escape Leichberg
@@ -77,3 +76,14 @@ FEL 37
 	* INS +12
 	* COR +2
 	- Fate -2
+	* Frenzy
+        * Iron Jaw
+ 	* Jaded
+	* Never Quit
+	* Sound Constitution
+	* Scrutiny
+	* PER +5
+	* STR +5
+	* Fate +1
+	* Fate +1
+	* Acrobatics
