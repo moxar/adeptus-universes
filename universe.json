@@ -1098,7 +1098,7 @@
                 "strength",
                 "offence"
             ],
-            "description": "When fighting unarmed, attacks hit as Deadly Natural Weapons and user can re-roll damage.",
+            "description": "When fighting unarmed, attacks hit as Deadly Natural Weapons.",
             "tier": 2
         },
         {
