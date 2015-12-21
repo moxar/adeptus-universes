@@ -15,75 +15,71 @@ FEL 37
 
 # Gain of aptitude defence in compensation of strength aquired twice
 2015/06/01 [650] Creation 
-	- Weapon Training: Mace
-	- Weapon Training: Bow
-	- Fate +1
-	* defence
-	* parry
-	* WS +5
-	* STR +5
-	* TOU +5
-	* Sound Constitution
-	* Fate +1
+	+ [0] Weapon Training: Mace
+	+ [0] Weapon Training: Bow
+	+ [0] Fate +1
+	+ defence
+	+ parry
+	+ WS +5
+	+ STR +5
+	+ TOU +5
+	+ Sound Constitution
+	+ Fate +1
 	
 2015/06/15 [400] Goblins! 
-	* Combat Master
+	+ Combat Master
 	
 2015/06/21 [400] Vampire! 
-	* TOU +5
-	* WIL +5
+	+ TOU +5
+	+ WIL +5
 	
 2015/07/01 [400] Travel to Leichberg 
-	* Weapon Training: Spear
+	+ Weapon Training: Spear
 	
 2015/07/15 [300] Join the milicia 
-	* Sound Constitution
-	* parry
+	+ Sound Constitution
+	+ parry
 
 2015/08/01 [550] Pestilence! 
-	* Fate +1
+	+ Fate +1
 	
 2015/08/29 [400] Escape Leichberg
-	* Double Team
-	* Sound Constitution
+	+ Double Team
+	+ Sound Constitution
 
 # Bonus 100XP awarded to Jean for killing a chaosborn
 2015/08/29 [100] Kill of a chaosborn
 	
 2015/08/29 [800] The priestess, the vampire and the chaosborn
-	* Hardy
-	* Devastating Assault
-	* Awareness
-	* Sound Constitution
+	+ Hardy
+	+ Devastating Assault
+	+ Awareness
+	+ Sound Constitution
 	
 2015/11/14 [600] Exodus
-	- Fate -3
+	* Fate -3
 
 2015-11-22 [1000] To kill a mocking bird
-	- Fate -1
-	* Fate +1
-	* Fate +1
-	* Fate +1
-	* Fate +1
-	* Medicae
-	* STR +5
-	* WS +5
-	* Weapon Training: sword
-	* Charm
-	* Fate +1
+	+ Fate +5
+	+ Medicae
+	+ STR +5
+	+ WS +5
+	+ Weapon Training: sword
+	+ Charm
+	* Fate -1
 
 2015-11-29 [1800] Operation Hammerblow
+	+ Frenzy
+        + Iron Jaw
+ 	+ Jaded
+	+ Never Quit
+	+ Sound Constitution
+	+ Scrutiny
+	+ PER +5
+	+ STR +5
+	+ Fate +1
+	+ Fate +1
+	+ Acrobatics
 	* INS +12
 	* COR +2
-	- Fate -2
-	* Frenzy
-        * Iron Jaw
- 	* Jaded
-	* Never Quit
-	* Sound Constitution
-	* Scrutiny
-	* PER +5
-	* STR +5
-	* Fate +1
-	* Fate +1
-	* Acrobatics
+	* Fate -2

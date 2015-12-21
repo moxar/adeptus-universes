@@ -14,33 +14,33 @@ WIL	32
 FEL	28
 
 2015-11-22 [4050] Reroll
-	- Finesse
-	- Fate +1
-	- Weapon Training: Crossbow
-	- Weapon Training: Sword
-	- TOU -2
-	* INT +5
-	* WIL +5
-	* PER +5
-	* Security
-	* Security
-	* Awareness
-	* Daze [100]
-	* Shadow Cloak [50]
-	* Silent Utterance [50]
-	* Illusion [100]
-	* Eyes of the Dark [100]
-	* Confusion [100]
-	* MR +1 [400]
-	* MR +1 [600]
-	* stealth
-	* stealth
-	* dodge
-	* magic sense
-	* AGI +5
-	* Specialist: History [200]
-	* Fate +1
-	* WIL +5
+	+ [0] Finesse
+	+ [0] Fate +1
+	+ [0] Weapon Training: Crossbow
+	+ [0] Weapon Training: Sword
+	+ INT +5
+	+ WIL +5
+	+ PER +5
+	+ Security
+	+ Security
+	+ Awareness
+	+ [100] Daze
+	+ [50] Shadow Cloak
+	+ [50] Silent Utterance
+	+ [100] Illusion 
+	+ [100] Eyes of the Dark
+	+ [100] Confusion
+	+ [400] MR +1
+	+ [600] MR +1
+	+ stealth
+	+ stealth
+	+ dodge
+	+ magic sense
+	+ AGI +5
+	+ Specialist: History
+	+ Fate +1
+	+ WIL +5
+	* TOU -2
 
 2015-11-22 [1000] To kill a mocking bird
 

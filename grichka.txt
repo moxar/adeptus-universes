@@ -14,39 +14,40 @@ WIL 38
 FEL 27
 
 2015/06/01 [650] Creation 
-	- Fate +1
-	- Mental Resistance: Fear
-	- Weapon Training: Sword
-	- Weapon Training: Bow
-# Tarot gives a choice.
-	- TOU -2
-	* Heat Metal [100]
-	* Silver Dart [100]
-	* WIL +5
-	* INT +5
-	* TOU +5
+	+ [0] Fate +1
+	+ [0] Mental Resistance: Fear
+	+ [0] Weapon Training: Sword
+	+ [0] Weapon Training: Bow
+	+ [100] Heat Metal
+	+ [100] Silver Dart
+	+ WIL +5
+	+ INT +5
+	+ TOU +5
+	* TOU -2 // tarot
+	- Resistance: Fear
+	- Resistance: Cold
+	- Resistance: Heat
 	
 2015/06/15 [400] Goblins! 
-	* MR +1 [400]
+	+ [400] MR +1
 	
 2015/06/21 [400] Vampire! 
-	* Law of Apparance [50]
-	* Fate +1
-	* Fate +1
-	- COR +5
+	+ [50] Law of Apparance
+	+ Fate +2
+	* COR +5
 	
 2015/07/01 [400] Travel to Leichberg 
-	* Law of Craftsmanship [50]
-	* dodge
-	* Fool's gold [100]
-	* Awareness
-	- COR +8
+	+ [50] Law of Craftsmanship
+	+ dodge
+	+ [100] Fool's gold
+	+ Awareness
+	* COR +8
 	
 2015/07/15 [300] Join the milicia 
-	* Mental Resistance: Magic
+	+ Mental Resistance: Magic
 
 2015/08/01 [550] Pestilence!
-	- COR +15
+	* COR +15
 
 2015/08/29 [-250] Burn fate
 
@@ -54,41 +55,40 @@ FEL 27
 2015/08/29 [100] End of pestilence
 	
 2015/08/29 [400] Escape Leichberg
-	* Orbs of Steel [100]
-	- COR +6
+	+ [100] Orbs of Steel
+	* COR +6
 
 2015/08/29 [-300] Burn fate
 	
 2015/08/29 [800] The priestess, the vampire and the chaosborn
-	* MR +1 [600]
-	* Strong Minded
+	+ [600] MR +1
+	+ Strong Minded
 	
 2015/11/14 [600] Exodus
-	- Fate -1
-	* Fate +1
-	* Fate +1
-	* WIL +5
-	* Specialist: Winds of magic
-	* Law of Form [100]
-	* Fault of Form [100]
+	+ Fate +2
+	+ WIL +5
+	+ Specialist: Winds of magic
+	+ [100] Law of Form
+	+ [100] Fault of Form
+	* Fate -1
 
 2015/11/22 [1000] To kill a mocking bird
-	* Sound Constitution
-	* Sound Constitution
-	* Sound Constitution
-	* Scholastic lore
+	+ Sound Constitution
+	+ Sound Constitution
+	+ Sound Constitution
+	+ Scholastic lore
 
 2015/11/29 [-500] Burn fate
 
 2015-11-29 [1800] Operation Hammerblow
 # Gauges to confirm
-	- Fate -2
+	+ Medicae
+	+ INT +5
+	+ PER +5
+	+ Scrutiny
+	+ Common Lore
+	+ [200] Semi Auto Metal
+	+ [200] Law of age
+	* Fate -2
 	* COR +4
 	* INS +8
-	* Medicae
-	* INT +5
-	* PER +5
-	* Scrutiny
-	* Common Lore
-	* Semi Auto Metal [200]
-	* Law of age [200]

@@ -14,64 +14,65 @@ WIL 31
 FEL 27
 
 2015/06/01 [650] Creation
-	- Perception
-	- Weapon Training: Sword
-	- Weapon Training: Bow
-	- Hatred: Beastmen
-	- Fate +1
-	* Catfall
-	* WS +5
-	* BS +5
-	* AGI +5
-	* PER +5
-	* Fate +1
+	+ [0] Perception
+	+ [0]  Weapon Training: Sword
+	+ [0]  Weapon Training: Bow
+	+ [0]  Hatred: Beastmen
+	+ [0]  Fate +1
+	+ Catfall
+	+ WS +5
+	+ BS +5
+	+ AGI +5
+	+ PER +5
+	+ Fate +1
+	- Hatred
 	
 2015/06/15 [400] Goblins! 
-	* Scrutiny
-	* Athletics
-	* Survival
+	+ Scrutiny
+	+ Athletics
+	+ Survival
 	
 2015/06/21 [400] Vampire!
-	* Rapid Reload
-	* Leap Up 
+	+ Rapid Reload
+	+ Leap Up 
 	
 2015/07/01 [400] Travel to Leichberg 
-	* Sound Constitution
-	* Fate +2
-	
+	+ Sound Constitution	
+	+ Fate +2
+
 2015/07/15 [300] Join the milicia 
-	* Sound Constitution
+	+ Sound Constitution
 
 2015/08/01 [550] Pestilence!
-	* Physical Resistance: Disease
+	+ Physical Resistance: Disease
 	
 2015/08/29 [400] Escape Leichberg
-	* TOU +5
+	+ TOU +5
 
 2015/08/29 [800] The priestess, the vampire and the chaosborn
-	* WS +5
-	* BS +5
-	* AGI +5
+	+ WS +5
+	+ BS +5
+	+ AGI +5
 	
 2015/11/14 [600] Exodus
-	- INS +1
-	- Fate -1
-	* PER +5
-	* Weapon Training: Spear
-	* Fate +1
+	+ PER +5
+	+ Weapon Training: Spear
+	+ Fate +1
+	* INS +1
+	* Fate -1
 
 2015-11-22 [1000] To kill a mocking bird
-	* Double Team
-	* Stealth
-	* Jaded
+	+ Double Team
+	+ Stealth
+	+ Jaded
 
 2015-11-29 [1800] Kill the Beast!
-	- INS +8
-	- COR +3
-	- Fate -4
-	* WS +5
-	* STR +3
-	* Precision Killer
-	* Two-Weapon Wielder
-	* Swift Attack
-	* Fate +3
+	+ WS +5
+	+ STR +5
+	+ Precision Killer
+	+ Two-Weapon Wielder
+	+ Swift Attack
+	+ Fate +3
+	* INS +8
+	* COR +3
+	* Fate -4
