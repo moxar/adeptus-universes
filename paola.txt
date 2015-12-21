@@ -122,9 +122,22 @@ FEL 38
 	* WS +5
 	* Parry
 	* Versatility [200]
-# Bullward of the Godess #3
-# Spear of the Godess #3
-# Versatility #2
-# Challenge #2
-# Bonds of Brotherhood #1
-# Legacy of the Warrior #1
+
+# Paola is accused by brother Gerard Thulmann of the order of the Silver
+# Hand. The charges are collusion with the enemy, treason and renouncment to
+# the sacred vows. She stands guilty of killing Anabella von Carstein after
+# receiving some help from a sorority of vampires set in Nuln for several
+# hunderds of years. The fourth night, she is dragged out by the vampires
+# who tells her that brother Heinz was not murdered by their hand. They also
+# convince Paola that they work for the good of Nuln. She decides afterwards to
+# return in the cells and wait for her trial, but asks the vampires to beat her
+# and let her agonizing in the steps of the cathedral.
+# She is found guilty, but regarding her services, she avoids death and prison.
+# As a punishment, she is radiated from the holy order of Myrmidia.
+# Thulmann will pay...
+2015-12-20 [1200] The Trial
+	* WIL +5
+	* Deceive
+	* Die Hard
+	* Awareness
+	* INS +1
