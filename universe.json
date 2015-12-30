@@ -245,12 +245,6 @@
 			"general"
 		]
 	}, {
-		"name": "security",
-		"aptitudes": [
-			"intelligence",
-			"fieldcraft"
-		]
-	}, {
 		"name": "sleight of hand",
 		"aptitudes": [
 			"agility",
