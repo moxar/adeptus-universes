@@ -1,7 +1,5 @@
 {
 	"aptitudes": [
-		"weapon skill",
-		"ballistic skill",
 		"strength",
 		"toughness",
 		"agility",
@@ -19,18 +17,6 @@
 		"general"
 	],
 	"characteristics": [{
-		"name": "WS",
-		"aptitudes": [
-			"weapon skill",
-			"offence"
-		]
-	}, {
-		"name": "BS",
-		"aptitudes": [
-			"ballistic skill",
-			"finesse"
-		]
-	}, {
 		"name": "STR",
 		"aptitudes": [
 			"strength",
@@ -74,34 +60,6 @@
 		]
 	}],
 	"gauges": [{
-		"name": "INS",
-		"aptitudes": [],
-		"xp": 0
-	}, {
-		"name": "Light",
-		"aptitudes": [],
-		"xp": 0
-	}, {
-		"name": "Darkness",
-		"aptitudes": [],
-		"xp": 0
-	}, {
-		"name": "Fire",
-		"aptitudes": [],
-		"xp": 0
-	}, {
-		"name": "Water",
-		"aptitudes": [],
-		"xp": 0
-	}, {
-		"name": "Earth",
-		"aptitudes": [],
-		"xp": 0
-	}, {
-		"name": "Air",
-		"aptitudes": [],
-		"xp": 0
-	}, {
 		"name": "Fate",
 		"aptitudes": [],
 		"xp": 50
@@ -123,6 +81,12 @@
 		"aptitudes": [
 			"perception",
 			"fieldcraft"
+		]
+	}, {
+		"name": "ballistic skill",
+		"aptitudes": [
+			"agility",
+			"finesse"
 		]
 	}, {
 		"name": "charm",
@@ -223,8 +187,14 @@
 	}, {
 		"name": "parry",
 		"aptitudes": [
-			"weapon skill",
+			"strength",
 			"defence"
+		]
+	}, {
+		"name": "power",
+		"aptitudes": [
+			"mystic",
+			"willpower"
 		]
 	}, {
 		"name": "ride",
@@ -268,6 +238,12 @@
 			"intelligence",
 			"general"
 		]
+	}, {
+		"name": "weapon skill",
+		"aptitudes": [
+			"agility",
+			"offence"
+		]
 	}],
 	"backgrounds": {
 		"totem": [{
@@ -302,108 +278,108 @@
 			"name": "Priest",
 			"upgrades": [
 				"social",
-				"toughness",
 				"willpower",
-				"Peer: Imperial Cult",
+				"Peer",
 				"charm",
 				"linguistics",
-				"scrutiny"
+				"scrutiny",
+				"common lore"
 			]
 		}, {
 			"name": "Footman",
 			"upgrades": [
-				"weapon skill",
 				"offence",
 				"defence",
 				"Iron Jaw",
 				"command",
 				"athletics",
-				"parry"
+				"parry",
+				"weapon skill"
 			]
 		}, {
 			"name": "Brute",
 			"upgrades": [
 				"strength",
 				"offence",
-				"weapon skill",
 				"Die hard",
 				"intimidate",
 				"athletics",
-				"dodge"
+				"dodge",
+				"weapon skill"
 			]
 		}, {
 			"name": "Peasant",
 			"upgrades": [
-				"strength",
 				"toughness",
 				"fieldcraft",
 				"Physical Resistance: Disease",
 				"survival",
 				"athletics",
-				"navigate"
+				"navigate",
+				"common lore"
 			]
 		}, {
 			"name": "Ranger",
 			"upgrades": [
-				"ballistic skill",
 				"offence",
 				"fieldcraft",
 				"Quick Draw",
 				"stealth",
 				"awareness",
-				"navigate"
+				"navigate",
+				"ballistic skill"
 			]
 		}, {
 			"name": "Duellist",
 			"upgrades": [
-				"weapon skill",
 				"finesse",
 				"agility",
 				"Ambidextrous",
 				"acrobatics",
 				"parry",
-				"dodge"
+				"dodge",
+				"weapon skill"
 			]
 		}, {
 			"name": "Mage",
 			"upgrades": [
 				"mystic",
 				"willpower",
-				"knowledge",
-				"magic sense",
+				"Magic Sense",
 				"forbiden lore",
 				"logic",
-				"MR +1"
+				"power",
+				"scholastic lore"
 			]
 		}, {
 			"name": "Smith",
 			"upgrades": [
-				"intelligence",
 				"fieldcraft",
 				"strength",
 				"Never Quit",
 				"craft",
 				"athletics",
-				"logic"
+				"logic",
+				"parry"
 			]
 		}, {
 			"name": "Grave Robber",
 			"upgrades": [
 				"fieldcraft",
 				"perception",
-				"intelligence",
+				"Keen Intuition",
 				"scrutiny",
 				"navigate",
 				"linguistics",
-				"keen intuition"
+				"stealth"
 			]
 		}]
 	},
 	"talents": [{
 		"name": "Ambidextrous",
 		"aptitudes": [
-			"weapon skill",
-			"ballistic skill"
+			"finesse",
+			"offence"
 		],
 		"description": "Reduce penalties for using two weapons.",
 		"tier": 1
@@ -450,7 +426,7 @@
 	}, {
 		"name": "Disarm",
 		"aptitudes": [
-			"weapon skill",
+			"agility",
 			"defence"
 		],
 		"description": "Force opponent to drop weapon.",
@@ -588,7 +564,7 @@
 	}, {
 		"name": "Takedown",
 		"aptitudes": [
-			"weapon skill",
+			"strength",
 			"offence"
 		],
 		"description": "Make special attack to stun opponent.",
@@ -620,7 +596,7 @@
 	}, {
 		"name": "Combat Master",
 		"aptitudes": [
-			"weapon skill",
+			"strength",
 			"defence"
 		],
 		"description": "Opponents get no bonus for outnumbering the character.",
@@ -644,7 +620,7 @@
 	}, {
 		"name": "Counter Attack",
 		"aptitudes": [
-			"weapon skill",
+			"finesse",
 			"defence"
 		],
 		"description": "May attack after successful Parry.",
@@ -660,7 +636,7 @@
 	}, {
 		"name": "Devastating Assault",
 		"aptitudes": [
-			"weapon skill",
+			"strength",
 			"offence"
 		],
 		"description": "A successful All Out Attack grants a second attack.",
@@ -708,7 +684,7 @@
 	}, {
 		"name": "Hatred",
 		"aptitudes": [
-			"weapon skill",
+			"offence",
 			"social"
 		],
 		"description": "Gain +10 bonus to attack hated creatures.",
@@ -764,7 +740,7 @@
 	}, {
 		"name": "Swift Attack",
 		"aptitudes": [
-			"weapon skill",
+			"agility",
 			"finesse"
 		],
 		"description": "May make multiple melee attacks.",
@@ -788,7 +764,7 @@
 	}, {
 		"name": "Whirlwind of Death",
 		"aptitudes": [
-			"weapon skill",
+			"strength",
 			"finesse"
 		],
 		"description": "Make one attack for each melee opponent.",
@@ -804,7 +780,7 @@
 	}, {
 		"name": "Assassin Strike",
 		"aptitudes": [
-			"weapon skill",
+			"agility",
 			"fieldcraft"
 		],
 		"description": "After melee attack, test Acrobatics to move.",
@@ -820,7 +796,7 @@
 	}, {
 		"name": "Blademaster",
 		"aptitudes": [
-			"weapon skill",
+			"offence",
 			"finesse"
 		],
 		"description": "Reroll missed attack, once per round.",
@@ -828,7 +804,7 @@
 	}, {
 		"name": "Brutal assault",
 		"aptitudes": [
-			"weapon skill",
+			"strength",
 			"offence"
 		],
 		"description": "A successful All Out Attack grants additional attacks.",
@@ -900,7 +876,7 @@
 	}, {
 		"name": "Lightning Attack",
 		"aptitudes": [
-			"weapon skill",
+			"offence",
 			"finesse"
 		],
 		"description": "Character may make many melee attacks with single roll.",
