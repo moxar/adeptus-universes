@@ -7,9 +7,9 @@
 		"perception",
 		"willpower",
 		"fellowship",
-		"offence",
+		"offense",
 		"finesse",
-		"defence",
+		"defense",
 		"knowledge",
 		"fieldcraft",
 		"mystic",
@@ -20,13 +20,13 @@
 		"name": "STR",
 		"aptitudes": [
 			"strength",
-			"offence"
+			"offense"
 		]
 	}, {
 		"name": "TOU",
 		"aptitudes": [
 			"toughness",
-			"defence"
+			"defense"
 		]
 	}, {
 		"name": "AGI",
@@ -80,19 +80,19 @@
 		"name": "awareness",
 		"aptitudes": [
 			"perception",
-			"fieldcraft"
+			"general"
 		]
 	}, {
 		"name": "ballistic skill",
 		"aptitudes": [
-			"agility",
+			"perception",
 			"finesse"
 		]
 	}, {
 		"name": "charm",
 		"aptitudes": [
 			"fellowship",
-			"social"
+			"general"
 		]
 	}, {
 		"name": "command",
@@ -103,20 +103,20 @@
 	}, {
 		"name": "commerce",
 		"aptitudes": [
-			"intelligence",
-			"knowledge"
+			"fellowship",
+			"social"
 		]
 	}, {
 		"name": "common lore",
 		"aptitudes": [
-			"perception",
+			"fellowship",
 			"knowledge"
 		]
 	}, {
 		"name": "craft",
 		"aptitudes": [
 			"intelligence",
-			"fieldcraft"
+			"finesse"
 		]
 	}, {
 		"name": "deceive",
@@ -128,7 +128,7 @@
 		"name": "dodge",
 		"aptitudes": [
 			"agility",
-			"defence"
+			"defense"
 		]
 	}, {
 		"name": "forbiden lore",
@@ -188,13 +188,13 @@
 		"name": "parry",
 		"aptitudes": [
 			"strength",
-			"defence"
+			"defense"
 		]
 	}, {
 		"name": "power",
 		"aptitudes": [
-			"mystic",
-			"willpower"
+			"willpower",
+			"mystic"
 		]
 	}, {
 		"name": "ride",
@@ -212,13 +212,13 @@
 		"name": "scrutiny",
 		"aptitudes": [
 			"perception",
-			"general"
+			"fieldcraft"
 		]
 	}, {
 		"name": "sleight of hand",
 		"aptitudes": [
 			"agility",
-			"knowledge"
+			"finesse"
 		]
 	}, {
 		"name": "stealth",
@@ -233,16 +233,10 @@
 			"fieldcraft"
 		]
 	}, {
-		"name": "trade",
-		"aptitudes": [
-			"intelligence",
-			"general"
-		]
-	}, {
 		"name": "weapon skill",
 		"aptitudes": [
 			"agility",
-			"offence"
+			"offense"
 		]
 	}],
 	"backgrounds": {
@@ -251,135 +245,208 @@
 			"upgrades": [
 				"general",
 				"fellowship",
-				"FEL +5",
-				"STR +5",
-				"PER -5"
+				"AGI +3",
+				"FEL +9",
+				"INT +6",
+				"PER -6",
+				"STR +0",
+				"TOU -6",
+				"WIL +0"
 			]
 		}, {
 			"name": "dragon",
 			"upgrades": [
 				"general",
 				"willpower",
-				"WIL +10",
-				"AGI +5",
-				"FEL -10"
+				"AGI +6",
+				"FEL -9",
+				"INT +3",
+				"PER +0",
+				"STR +0",
+				"TOU -3",
+				"WIL +9"
 			]
 		}, {
 			"name": "griffon",
 			"upgrades": [
 				"general",
 				"willpower",
-				"TOU +5",
-				"WIL +5",
-				"FEL -5"
+				"AGI +0",
+				"FEL -3",
+				"INT -3",
+				"PER +6",
+				"STR -6",
+				"TOU +6",
+				"WIL +6"
 			]
 		}],
 		"career": [{
-			"name": "Priest",
+			"name": "Assassin",
 			"upgrades": [
-				"social",
-				"willpower",
-				"Peer",
-				"charm",
-				"linguistics",
-				"scrutiny",
-				"common lore"
+				"agility",
+				"offense",
+				"AGI +3",
+				"PER +3",
+				"STR -3",
+				"TOU -3"
 			]
 		}, {
-			"name": "Footman",
+			"name": "Bard",
 			"upgrades": [
-				"offence",
-				"defence",
-				"Iron Jaw",
-				"command",
-				"athletics",
-				"parry",
-				"weapon skill"
+				"fellowship",
+				"knowledge",
+				"INT +3",
+				"FEL +3",
+				"STR -3",
+				"WIL -3"
 			]
 		}, {
 			"name": "Brute",
 			"upgrades": [
 				"strength",
-				"offence",
-				"Die hard",
-				"intimidate",
-				"athletics",
-				"dodge",
-				"weapon skill"
+				"offense",
+				"INT -3",
+				"FEL -3",
+				"STR +3",
+				"TOU +3"
 			]
 		}, {
-			"name": "Peasant",
+			"name": "Commoner",
 			"upgrades": [
-				"toughness",
-				"fieldcraft",
-				"Physical Resistance: Disease",
-				"survival",
-				"athletics",
-				"navigate",
-				"common lore"
-			]
-		}, {
-			"name": "Ranger",
-			"upgrades": [
-				"offence",
-				"fieldcraft",
-				"Quick Draw",
-				"stealth",
-				"awareness",
-				"navigate",
-				"ballistic skill"
+				"fellowship",
+				"social",
+				"AGI -3",
+				"FEL +3",
+				"PER +3",
+				"WIL -3"
 			]
 		}, {
 			"name": "Duellist",
 			"upgrades": [
-				"finesse",
 				"agility",
-				"Ambidextrous",
-				"acrobatics",
-				"parry",
-				"dodge",
-				"weapon skill"
+				"defense",
+				"AGI +3",
+				"PER +3",
+				"TOU -3",
+				"WIL -3"
+			]
+		}, {
+			"name": "Explorator",
+			"upgrades": [
+				"perception",
+				"fieldcraft",
+				"FEL -3",
+				"INT +3",
+				"PER +3",
+				"STR -3"
+			]
+		}, {
+			"name": "Guard",
+			"upgrades": [
+				"toughness",
+				"defense",
+				"FEL -3",
+				"INT -3",
+				"PER +3",
+				"TOU +3"
+			]
+		}, {
+			"name": "Investigator",
+			"upgrades": [
+				"perception",
+				"social",
+				"FEL +3",
+				"INT +3",
+				"STR -3",
+				"TOU -3"
+			]
+		}, {
+			"name": "Knight",
+			"upgrades": [
+				"willpower",
+				"defense",
+				"AGI -3",
+				"PER -3",
+				"TOU +3",
+				"WIL +3"
 			]
 		}, {
 			"name": "Mage",
 			"upgrades": [
+				"intelligence",
 				"mystic",
-				"willpower",
-				"Magic Sense",
-				"forbiden lore",
-				"logic",
-				"power",
-				"scholastic lore"
+				"INT +3",
+				"PER -3",
+				"TOU -3",
+				"WIL +3"
 			]
 		}, {
-			"name": "Smith",
+			"name": "Officer",
 			"upgrades": [
-				"fieldcraft",
+				"fellowship",
+				"offense",
+				"FEL +3",
+				"INT +3",
+				"PER -3",
+				"TOU -3"
+			]
+		}, {
+			"name": "Peasant",
+			"upgrades": [
 				"strength",
-				"Never Quit",
-				"craft",
-				"athletics",
-				"logic",
-				"parry"
+				"fieldcraft",
+				"INT -3",
+				"STR +3",
+				"TOU +3",
+				"WIL -3"
 			]
 		}, {
-			"name": "Grave Robber",
+			"name": "Priest",
 			"upgrades": [
+				"willpower",
+				"social",
+				"AGI -3",
+				"FEL +3",
+				"PER -3",
+				"WIL +3"
+			]
+		}, {
+			"name": "Ranger",
+			"upgrades": [
+				"strength",
 				"fieldcraft",
-				"perception",
-				"Keen Intuition",
-				"scrutiny",
-				"navigate",
-				"linguistics",
-				"stealth"
+				"FEL -3",
+				"INT -3",
+				"PER +3",
+				"STR +3"
+			]
+		}, {
+			"name": "Sage",
+			"upgrades": [
+				"intelligence",
+				"knowledge",
+				"INT +3",
+				"TOU -3",
+				"STR -3",
+				"WIL +3"
+			]
+		}, {
+			"name": "Thief",
+			"upgrades": [
+				"agility",
+				"finesse",
+				"AGI +3",
+				"PER +3",
+				"TOU -3",
+				"WIL -3"
 			]
 		}]
 	},
 	"talents": [{
 		"name": "Ambidextrous",
 		"aptitudes": [
-			"finesse",
-			"offence"
+			"agility",
+			"finesse"
 		],
 		"description": "Reduce penalties for using two weapons.",
 		"tier": 1
@@ -419,7 +486,7 @@
 		"name": "Die hard",
 		"aptitudes": [
 			"willpower",
-			"defence"
+			"defense"
 		],
 		"description": "Test Willpower to avoid Fatigue from Blood Loss.",
 		"tier": 1
@@ -427,7 +494,7 @@
 		"name": "Disarm",
 		"aptitudes": [
 			"agility",
-			"defence"
+			"defense"
 		],
 		"description": "Force opponent to drop weapon.",
 		"tier": 1
@@ -435,7 +502,7 @@
 		"name": "Double Team",
 		"aptitudes": [
 			"general",
-			"offence"
+			"offense"
 		],
 		"description": "Gain additional +10 for outnumbering opponent.",
 		"tier": 1
@@ -451,7 +518,7 @@
 		"name": "Frenzy",
 		"aptitudes": [
 			"strength",
-			"offence"
+			"offense"
 		],
 		"description": "Enter psychotic rage to gain combat bonuses.",
 		"tier": 1
@@ -459,7 +526,7 @@
 		"name": "Iron Jaw",
 		"aptitudes": [
 			"toughness",
-			"defence"
+			"defense"
 		],
 		"description": "Test Toughness to overcome Stunning.",
 		"tier": 1
@@ -467,7 +534,7 @@
 		"name": "Jaded",
 		"aptitudes": [
 			"willpower",
-			"defence"
+			"defense"
 		],
 		"description": "Ignore mundane horrors.",
 		"tier": 1
@@ -488,18 +555,10 @@
 		"description": "Stand as a Free Action.",
 		"tier": 1
 	}, {
-		"name": "Mental Resistance",
-		"aptitudes": [
-			"willpower",
-			"defence"
-		],
-		"description": "Gain +10 bonus to particular mental resistance test.",
-		"tier": 1
-	}, {
 		"name": "Never Quit",
 		"aptitudes": [
 			"toughness",
-			"defence"
+			"defense"
 		],
 		"description": "The toughness bonus counts as two level higher for fatigue thresholds.",
 		"tier": 1
@@ -507,7 +566,7 @@
 		"name": "Nowhere to Hide",
 		"aptitudes": [
 			"perception",
-			"offence"
+			"offense"
 		],
 		"description": "Can add DoS from the attack to reduce armour value of cover.",
 		"tier": 1
@@ -521,18 +580,18 @@
 		"tier": 1,
 		"stackable": true
 	}, {
-		"name": "Physical Resistance",
+		"name": "Resistance",
 		"aptitudes": [
-			"toughness",
-			"defence"
+			"general",
+			"defense"
 		],
-		"description": "Gain +10 bonus to particular physical resistance test.",
+		"description": "Gain +10 bonus to particular resistance test.",
 		"tier": 1
 	}, {
 		"name": "Quick Draw",
 		"aptitudes": [
 			"agility",
-			"finesse"
+			"fieldcraft"
 		],
 		"description": "Draw a weapon as a Free Action.",
 		"tier": 1
@@ -547,8 +606,8 @@
 	}, {
 		"name": "Sound Constitution",
 		"aptitudes": [
-			"defence",
-			"general"
+			"general",
+			"defense"
 		],
 		"description": "Gain two additional wounds in each location.",
 		"tier": 1,
@@ -556,8 +615,8 @@
 	}, {
 		"name": "Specialist",
 		"aptitudes": [
-			"knowledge",
-			"general"
+			"general",
+			"knowledge"
 		],
 		"description": "Can roll knowledge tests without penalties against the given domain.",
 		"tier": 1
@@ -565,7 +624,7 @@
 		"name": "Takedown",
 		"aptitudes": [
 			"strength",
-			"offence"
+			"offense"
 		],
 		"description": "Make special attack to stun opponent.",
 		"tier": 1
@@ -581,7 +640,7 @@
 		"name": "Battle rage",
 		"aptitudes": [
 			"strength",
-			"defence"
+			"defense"
 		],
 		"description": "Parry while frenzied.",
 		"tier": 2
@@ -597,7 +656,7 @@
 		"name": "Combat Master",
 		"aptitudes": [
 			"strength",
-			"defence"
+			"defense"
 		],
 		"description": "Opponents get no bonus for outnumbering the character.",
 		"tier": 2
@@ -605,7 +664,7 @@
 		"name": "Constant Vigilance",
 		"aptitudes": [
 			"perception",
-			"defence"
+			"defense"
 		],
 		"description": "Can use Per or Int instead of Ag for Initiative rolls, and rolls two dice (picking higher) for the result.",
 		"tier": 2
@@ -621,7 +680,7 @@
 		"name": "Counter Attack",
 		"aptitudes": [
 			"finesse",
-			"defence"
+			"defense"
 		],
 		"description": "May attack after successful Parry.",
 		"tier": 2
@@ -629,7 +688,7 @@
 		"name": "Deny the Witch",
 		"aptitudes": [
 			"willpower",
-			"defence"
+			"defense"
 		],
 		"description": "Can use Willpower to Evade against magic attacks.",
 		"tier": 2
@@ -637,7 +696,7 @@
 		"name": "Devastating Assault",
 		"aptitudes": [
 			"strength",
-			"offence"
+			"offense"
 		],
 		"description": "A successful All Out Attack grants a second attack.",
 		"tier": 2
@@ -645,7 +704,7 @@
 		"name": "Double Tap",
 		"aptitudes": [
 			"finesse",
-			"offence"
+			"offense"
 		],
 		"description": "Successful first attack grants bonus to second attack.",
 		"tier": 2
@@ -669,7 +728,7 @@
 		"name": "Hard Target",
 		"aptitudes": [
 			"agility",
-			"defence"
+			"defense"
 		],
 		"description": "–20 to hit character when he Charges or Runs.",
 		"tier": 2
@@ -677,14 +736,14 @@
 		"name": "Hardy",
 		"aptitudes": [
 			"toughness",
-			"defence"
+			"defense"
 		],
 		"description": "Character considers wounds one degree lighter for natural recovery.",
 		"tier": 2
 	}, {
 		"name": "Hatred",
 		"aptitudes": [
-			"offence",
+			"offense",
 			"social"
 		],
 		"description": "Gain +10 bonus to attack hated creatures.",
@@ -692,7 +751,7 @@
 	}, {
 		"name": "Hip Shooting",
 		"aptitudes": [
-			"ballistic skill",
+			"perception",
 			"finesse"
 		],
 		"description": "Characters may shoot when moving.",
@@ -700,7 +759,7 @@
 	}, {
 		"name": "Independent Targeting",
 		"aptitudes": [
-			"ballistic skill",
+			"perception",
 			"finesse"
 		],
 		"description": "Fire at multiple targets more than 10 metres apart.",
@@ -708,7 +767,7 @@
 	}, {
 		"name": "Killing strike",
 		"aptitudes": [
-			"offence",
+			"agility",
 			"finesse"
 		],
 		"description": "Add the DoS to the attack damage.",
@@ -716,7 +775,7 @@
 	}, {
 		"name": "Marksman",
 		"aptitudes": [
-			"ballistic skill",
+			"perception",
 			"finesse"
 		],
 		"description": "No penalties for firing at long or extreme range.",
@@ -724,7 +783,7 @@
 	}, {
 		"name": "Precision Killer",
 		"aptitudes": [
-			"offence",
+			"agility",
 			"finesse"
 		],
 		"description": "No penalty to making Called Shot",
@@ -733,7 +792,7 @@
 		"name": "Strong Minded",
 		"aptitudes": [
 			"willpower",
-			"defence"
+			"defense"
 		],
 		"description": "May reroll failed WP tests to resist magic attacks.",
 		"tier": 2
@@ -748,8 +807,8 @@
 	}, {
 		"name": "Two-Weapon Wielder",
 		"aptitudes": [
-			"offence",
-			"agility"
+			"agility",
+			"offense"
 		],
 		"description": "May fight with two weapons in melee combat.",
 		"tier": 2
@@ -757,7 +816,7 @@
 		"name": "Unarmed Specialist",
 		"aptitudes": [
 			"strength",
-			"offence"
+			"offense"
 		],
 		"description": "When fighting unarmed, attacks hit as Deadly Natural Weapons.",
 		"tier": 2
@@ -773,7 +832,7 @@
 		"name": "Adamantium Faith",
 		"aptitudes": [
 			"willpower",
-			"defence"
+			"defense"
 		],
 		"description": "Reduces DoF from failed Pinning and Fear tests.",
 		"tier": 3
@@ -796,7 +855,7 @@
 	}, {
 		"name": "Blademaster",
 		"aptitudes": [
-			"offence",
+			"agility",
 			"finesse"
 		],
 		"description": "Reroll missed attack, once per round.",
@@ -805,7 +864,7 @@
 		"name": "Brutal assault",
 		"aptitudes": [
 			"strength",
-			"offence"
+			"offense"
 		],
 		"description": "A successful All Out Attack grants additional attacks.",
 		"tier": 3
@@ -828,18 +887,10 @@
 	}, {
 		"name": "Eye of Vengeance",
 		"aptitudes": [
-			"ballistic skill",
-			"offence"
+			"perception",
+			"offense"
 		],
 		"description": "Spend 1 Fate point to increase damage and penetration.",
-		"tier": 3
-	}, {
-		"name": "Favoured by the Winds",
-		"aptitudes": [
-			"willpower",
-			"mystic"
-		],
-		"description": "Roll twice for Psychic Phenomena and choose result.",
 		"tier": 3
 	}, {
 		"name": "Flash of Insight",
@@ -853,7 +904,7 @@
 		"name": "Halo of Command",
 		"aptitudes": [
 			"fellowship",
-			"leadership"
+			"social"
 		],
 		"description": "Affect NPCs within 100xFelB metres with Social skills.",
 		"tier": 3
@@ -861,7 +912,7 @@
 		"name": "Hammer Blow",
 		"aptitudes": [
 			"strength",
-			"offence"
+			"offense"
 		],
 		"description": "Make a thunderous strike with a melee weapon.",
 		"tier": 3
@@ -876,24 +927,16 @@
 	}, {
 		"name": "Lightning Attack",
 		"aptitudes": [
-			"offence",
+			"agility",
 			"finesse"
 		],
 		"description": "Character may make many melee attacks with single roll.",
 		"tier": 3
-	}, {
-		"name": "Mastery",
-		"aptitudes": [
-			"intelligence",
-			"knowledge"
-		],
-		"description": "May spend Fate point to succeed on test.",
-		"tier": 3
-	}, {
+	},  {
 		"name": "Never Die",
 		"aptitudes": [
 			"toughness",
-			"defence"
+			"defense"
 		],
 		"description": "Ignore penalties from Critical damage by spending Fate point.",
 		"tier": 3
@@ -901,7 +944,7 @@
 		"name": "Preternatural Speed",
 		"aptitudes": [
 			"agility",
-			"offence"
+			"offense"
 		],
 		"description": "Double speed when charging.",
 		"tier": 3
@@ -917,7 +960,7 @@
 		"name": "Step Aside",
 		"aptitudes": [
 			"agility",
-			"defence"
+			"defense"
 		],
 		"description": "Can make additional Dodge or Parry attempt.",
 		"tier": 3
@@ -932,7 +975,7 @@
 	}, {
 		"name": "Target Selection",
 		"aptitudes": [
-			"ballistic skill",
+			"perception",
 			"finesse"
 		],
 		"description": "May shoot into melee without penalty.",
@@ -941,7 +984,7 @@
 		"name": "Thunder Charge",
 		"aptitudes": [
 			"strength",
-			"offence"
+			"offense"
 		],
 		"description": "Break enemies with armoured charge.",
 		"tier": 3
@@ -949,15 +992,15 @@
 		"name": "True Grit",
 		"aptitudes": [
 			"toughness",
-			"defence"
+			"defense"
 		],
-		"description": "Reduce Critical damage taken.",
+		"description": "Reduce Critical damage taken by TOU bonus.",
 		"tier": 3
 	}, {
-		"name": "Two Weapon Master",
+		"name": "Two-Weapon Master",
 		"aptitudes": [
-			"finesse",
-			"offence"
+			"agility",
+			"offense"
 		],
 		"description": "No penalties when fighting with two single-handed weapons.",
 		"tier": 3
@@ -970,7 +1013,7 @@
 				"2": 750,
 				"3": 1000,
 				"4": 1500,
-				"5": 2500
+				"5": 2000
 			},
 			"1": {
 				"1": 250,
@@ -984,7 +1027,7 @@
 				"2": 250,
 				"3": 500,
 				"4": 750,
-				"5": 1250
+				"5": 1000
 			}
 		},
 		"skill": {
@@ -1009,9 +1052,9 @@
 		},
 		"talent": {
 			"0": {
-				"1": 600,
-				"2": 900,
-				"3": 1200
+				"1": 400,
+				"2": 600,
+				"3": 800
 			},
 			"1": {
 				"1": 300,
