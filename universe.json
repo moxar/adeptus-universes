@@ -245,12 +245,12 @@
 			"upgrades": [
 				"general",
 				"fellowship",
-				"AGI +3",
-				"FEL +9",
-				"INT +6",
-				"PER -6",
+				"AGI +2",
+				"FEL +6",
+				"INT +4",
+				"PER -4",
 				"STR +0",
-				"TOU -6",
+				"TOU -4",
 				"WIL +0"
 			]
 		}, {
@@ -258,13 +258,13 @@
 			"upgrades": [
 				"general",
 				"willpower",
-				"AGI +6",
-				"FEL -9",
-				"INT +3",
+				"AGI +4",
+				"FEL -6",
+				"INT +2",
 				"PER +0",
 				"STR +0",
-				"TOU -3",
-				"WIL +9"
+				"TOU -2",
+				"WIL +6"
 			]
 		}, {
 			"name": "griffon",
@@ -272,12 +272,12 @@
 				"general",
 				"willpower",
 				"AGI +0",
-				"FEL -3",
-				"INT -3",
-				"PER +6",
-				"STR -6",
-				"TOU +6",
-				"WIL +6"
+				"FEL -2",
+				"INT -2",
+				"PER +4",
+				"STR -4",
+				"TOU +4",
+				"WIL +4"
 			]
 		}],
 		"career": [{
@@ -285,160 +285,160 @@
 			"upgrades": [
 				"agility",
 				"offense",
-				"AGI +3",
-				"PER +3",
-				"STR -3",
-				"TOU -3"
+				"AGI +2",
+				"PER +2",
+				"STR -2",
+				"TOU -2"
 			]
 		}, {
 			"name": "Bard",
 			"upgrades": [
 				"fellowship",
 				"knowledge",
-				"INT +3",
-				"FEL +3",
-				"STR -3",
-				"WIL -3"
+				"INT +2",
+				"FEL +2",
+				"STR -2",
+				"WIL -2"
 			]
 		}, {
 			"name": "Brute",
 			"upgrades": [
 				"strength",
 				"offense",
-				"INT -3",
-				"FEL -3",
-				"STR +3",
-				"TOU +3"
+				"INT -2",
+				"FEL -2",
+				"STR +2",
+				"TOU +2"
 			]
 		}, {
 			"name": "Commoner",
 			"upgrades": [
 				"fellowship",
 				"social",
-				"AGI -3",
-				"FEL +3",
-				"PER +3",
-				"WIL -3"
+				"AGI -2",
+				"FEL +2",
+				"PER +2",
+				"WIL -2"
 			]
 		}, {
 			"name": "Duellist",
 			"upgrades": [
 				"agility",
 				"defense",
-				"AGI +3",
-				"PER +3",
-				"TOU -3",
-				"WIL -3"
+				"AGI +2",
+				"PER +2",
+				"TOU -2",
+				"WIL -2"
 			]
 		}, {
 			"name": "Explorator",
 			"upgrades": [
 				"perception",
 				"fieldcraft",
-				"FEL -3",
-				"INT +3",
-				"PER +3",
-				"STR -3"
+				"FEL -2",
+				"INT +2",
+				"PER +2",
+				"STR -2"
 			]
 		}, {
 			"name": "Guard",
 			"upgrades": [
 				"toughness",
 				"defense",
-				"FEL -3",
-				"INT -3",
-				"PER +3",
-				"TOU +3"
+				"FEL -2",
+				"INT -2",
+				"PER +2",
+				"TOU +2"
 			]
 		}, {
 			"name": "Investigator",
 			"upgrades": [
 				"perception",
 				"social",
-				"FEL +3",
-				"INT +3",
-				"STR -3",
-				"TOU -3"
+				"FEL +2",
+				"INT +2",
+				"STR -2",
+				"TOU -2"
 			]
 		}, {
 			"name": "Knight",
 			"upgrades": [
 				"willpower",
 				"defense",
-				"AGI -3",
-				"PER -3",
-				"TOU +3",
-				"WIL +3"
+				"AGI -2",
+				"PER -2",
+				"TOU +2",
+				"WIL +2"
 			]
 		}, {
 			"name": "Mage",
 			"upgrades": [
 				"intelligence",
 				"mystic",
-				"INT +3",
-				"PER -3",
-				"TOU -3",
-				"WIL +3"
+				"INT +2",
+				"PER -2",
+				"TOU -2",
+				"WIL +2"
 			]
 		}, {
 			"name": "Officer",
 			"upgrades": [
 				"fellowship",
 				"offense",
-				"FEL +3",
-				"INT +3",
-				"PER -3",
-				"TOU -3"
+				"FEL +2",
+				"INT +2",
+				"PER -2",
+				"TOU -2"
 			]
 		}, {
 			"name": "Peasant",
 			"upgrades": [
 				"strength",
 				"fieldcraft",
-				"INT -3",
-				"STR +3",
-				"TOU +3",
-				"WIL -3"
+				"INT -2",
+				"STR +2",
+				"TOU +2",
+				"WIL -2"
 			]
 		}, {
 			"name": "Priest",
 			"upgrades": [
 				"willpower",
 				"social",
-				"AGI -3",
-				"FEL +3",
-				"PER -3",
-				"WIL +3"
+				"AGI -2",
+				"FEL +2",
+				"PER -2",
+				"WIL +2"
 			]
 		}, {
 			"name": "Ranger",
 			"upgrades": [
 				"strength",
 				"fieldcraft",
-				"FEL -3",
-				"INT -3",
-				"PER +3",
-				"STR +3"
+				"FEL -2",
+				"INT -2",
+				"PER +2",
+				"STR +2"
 			]
 		}, {
 			"name": "Sage",
 			"upgrades": [
 				"intelligence",
 				"knowledge",
-				"INT +3",
-				"TOU -3",
-				"STR -3",
-				"WIL +3"
+				"INT +2",
+				"TOU -2",
+				"STR -2",
+				"WIL +2"
 			]
 		}, {
 			"name": "Thief",
 			"upgrades": [
 				"agility",
 				"finesse",
-				"AGI +3",
-				"PER +3",
-				"TOU -3",
-				"WIL -3"
+				"AGI +2",
+				"PER +2",
+				"TOU -2",
+				"WIL -2"
 			]
 		}]
 	},
