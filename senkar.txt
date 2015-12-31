@@ -14,8 +14,29 @@ WIL	27
 2015/09/27 Creation
 	+ finesse
 
-2015/09/27 [2500] First class
+2015/09/27 [2000] First class
+	+ Acrobatics
+	+ Awareness
+	+ Ballistic Skill
+	+ Dodge
+	+ Ride
+	+ Scrutiny
+	+ Sleight of hand
+	+ Stealth
+	+ Survival
+	+ Weapon Training: crossbow
+	+ AGI +5
+	+ PER +5
+	+ Athletics
+	+ Leap Up
+	+ Rapid Reload
+	+ Fate +2
 	
 2015/11/15 [400] Desert Walker
+	+ Quick Draw
+	+ Ballistic Skill
+
 	
 2015/11/15 [600] Saving Private Mirà
+	+ Dodge
+	+ Killing Strike

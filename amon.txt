@@ -14,8 +14,26 @@ WIL	29
 2015/09/27 Creation
 	+ strength
 	
-2015/09/27 [2500] First class
+2015/09/27 [2000] First class
+	+ Acrobatics
+	+ Athletics
+	+ Parry
+	+ Weapon Skill
+	+ STR +5
+	+ Command
+	+ Common Lore
+	+ Intimidate
+	+ Sound Constitution
+	+ Sound Constitution
+	+ Weapon Training: Sword
+	+ TOU +5
+	+ Fate +2
 	
 2015/11/15 [400] Desert Walker
+	+ Weapon Skill
+	+ Parry
 	
 2015/11/15 [600] Saving Private Mirà
+	+ Leap Up
+	+ AGI +5
+	+ Resistance: Fear

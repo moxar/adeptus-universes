@@ -15,8 +15,24 @@ WIL	31
 	+ defense
 	+ toughness
 
-2015/09/27 [2500] First class
+2015/09/27 [2000] First class
+	+ Acrobatics
+	+ Parry
+	+ Sound Constitution
+	+ Sound Constitution
+	+ Weapon Training: Sword
+	+ STR +5
+	+ TOU +5
+	+ Intimidate
+	+ Medicae
+	+ Weapon Skill
+	+ Iron Jaw
+	+ Fate +2
 	
 2015/11/15 [400] Desert Walker
+	+ Survival
+	+ STR +5
 	
 2015/11/15 [600] Saving Private Mirà
+	+ Devastating Assault
+	+ Sound Constitution

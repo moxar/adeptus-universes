@@ -15,8 +15,31 @@ WIL	35
 	+ social
 	+ perception
 
-2015/09/27 [2500] First class
+2015/09/27 [2000] First class
+	+ Awareness
+	+ Forbidden lore
+	+ Interrogation
+	+ Linguistics
+	+ Logic
+	+ Magic Sense
+	+ Power: fire
+	+ Scholastic Lore
+	+ [100] Sanction
+	+ [100] Primal fire burst
+	+ INT +5
+	+ WIL +5
+	+ Charm
+	+ Specialist: Scorpion
+	+ Dodge
+	+ Fate +2
 	
 2015/11/15 [400] Desert Walker
+	+ PER +5
+	+ Navigate
+	+ [100] Fervor Wave
 
 2015/11/15 [600] Saving Private Mirà
+	+ Power: fire
+	+ Forbidden Lore
+	+ Arcane sense
+	+ Fate +1
