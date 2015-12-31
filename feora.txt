@@ -4,39 +4,19 @@ Totem:	griffon
 career: Mage, Sage
 
 AGI	30
-FEL	28
-INT	32
-PER	32
-STR	27
-TOU	31
-WIL	38
+FEL	33
+INT	31
+PER	33
+STR	29
+TOU	29
+WIL	35
 
 2015/09/27 Creation
 	+ social
-	+ [0] Fate +2
-	+ [0] Sanction
-	+ [0] Specialist: Scorpion
-	- Specialist
-	+ [0] power: fire
-	- power
-	+ [0] Weapon Training: sword
-	+ [0] Weapon Training: mace
+	+ perception
 
-2015/09/27 [1000] First class
-	+ WIL +5
-	+ INT +5
-	+ medicae
-	+ Specialist: Griffon
-	+ [100] Fervor wave
-	+ [100] Primal fire burst
-	+ [100] Immolation
-	+ linguistics
+2015/09/27 [2500] First class
 	
 2015/11/15 [400] Desert Walker
-	+ power: fire
-	+ PER +5
 
 2015/11/15 [600] Saving Private Mirà
-	+ Arcane Sense
-	+ [200] Justice of Merin
-	+ Fate +3
