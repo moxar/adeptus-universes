@@ -24,8 +24,8 @@ WIL	35
 	+ Magic Sense
 	+ Power: fire
 	+ Scholastic Lore
-	+ [100] Sanction
-	+ [100] Primal fire burst
+	+ Sanction
+	+ Primal fire burst
 	+ INT +5
 	+ WIL +5
 	+ Charm
@@ -36,7 +36,7 @@ WIL	35
 2015/11/15 [400] Desert Walker
 	+ PER +5
 	+ Navigate
-	+ [100] Fervor Wave
+	+ Fervor Wave
 
 2015/11/15 [600] Saving Private Mirà
 	+ Power: fire
