@@ -1005,7 +1005,23 @@
 		"description": "No penalties when fighting with two single-handed weapons.",
 		"tier": 3
 	}],
-	"spells": [],
+	"spells": [
+		{
+			"name": "Sanction",
+			"description": "Increases the DoF or damages taken by target as a reaction.",
+			"xp": 100
+		},
+		{
+			"name": "Primal fire burst",
+			"description": "Deals minor fire damage to the target.",
+			"xp": 100
+		},
+		{
+			"name": "Fervor Wave",
+			"description": "Daze targets nearby, or stuns them if they fail an opposed WIL test.",
+			"xp": 100
+		}
+	],
 	"costs": {
 		"characteristic": {
 			"0": {
