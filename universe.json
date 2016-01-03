@@ -86,7 +86,7 @@
 		"name": "ballistic skill",
 		"aptitudes": [
 			"perception",
-			"finesse"
+			"offense"
 		]
 	}, {
 		"name": "charm",
