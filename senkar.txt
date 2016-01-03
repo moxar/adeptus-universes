@@ -1,7 +1,7 @@
 #Vivien
 name:	Senkar
 totem:	dragon
-career: Duellist, Explorator
+career: Assassin, Explorator
 
 AGI	34
 FEL	28
@@ -38,5 +38,5 @@ WIL	27
 
 	
 2015/11/15 [600] Saving Private Mirà
-	+ Dodge
 	+ Killing Strike
+	+ Navigate
