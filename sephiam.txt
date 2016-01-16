@@ -15,10 +15,10 @@ FEL 27
 
 2015/06/01 [650] Creation
 	+ [0] Perception
-	+ [0]  Weapon Training: Sword
-	+ [0]  Weapon Training: Bow
-	+ [0]  Hatred: Beastmen
-	+ [0]  Fate +1
+	+ [0] Weapon Training: Sword
+	+ [0] Weapon Training: Bow
+	+ [0] Hatred: Beastmen
+	+ [0] Fate +1
 	+ Catfall
 	+ WS +5
 	+ BS +5
@@ -26,34 +26,71 @@ FEL 27
 	+ PER +5
 	+ Fate +1
 	- Hatred
-	
+
+# Sephiam's reward for hunting beastmen near Nuln is imprisonment by
+# some dumb humans that burned his possessions, beat him until he's
+# half dead, then planned to burn him.
+# He is delivered by Paola, a Myrmidia priestess followed by a peasant
+# named Jean, just before the village is attacked by goblins.
 2015/06/15 [400] Goblins! 
 	+ Scrutiny
 	+ Athletics
 	+ Survival
-	
+
+# After recovering from the villagers gratitude and the battle with a
+# giant spider, Sephiam follow Paola to Nuln, in order to warn the
+# human autorities about the poor state of their countryside.
+# In route, they cross the path of Anabella von Carstein, who swear to
+# kill them the next time they meet.
 2015/06/21 [400] Vampire!
 	+ Rapid Reload
 	+ Leap Up 
-	
+
+# In Nuln, Paola is tasked by its cult to go east to prepare the city of
+# Leichberg to the probable war with the vampire's county. She is also
+# given a secret mission, but right now Sephiam just cares about leaving
+# this goddamn smoke-tainted city.
 2015/07/01 [400] Travel to Leichberg 
 	+ Sound Constitution	
 	+ Fate +2
 
+# It seems that the humans are all dumb, and the wardens of this people
+# dont care about the lives of those they swore to protect. With no
+# mean of surviving in a human city, the group decide to enroll in the
+# town milicia.
 2015/07/15 [300] Join the milicia 
 	+ Sound Constitution
 
+# The city is prey of some random human plague. Following their fine
+# tradition of doing the worst possible choices, the humans burn the temple
+# of Shalya, their godess of healing, and storm the temple of Sigmar.
+# Maybe they think riches will shield them against the plague ?
 2015/08/01 [550] Pestilence!
 	+ Physical Resistance: Disease
-	
+
+# The human mage of the group, a man named Grishka, seem to be ill. The
+# group elect to leave the town and leave the mage behind. The human city
+# is lost and its inhabitants dont want salvation. They can die alone.
 2015/08/29 [400] Escape Leichberg
 	+ TOU +5
 
+# The party gather in a small village south of Leichberg and rest there.
+# Paola try to warn the bourgmeister about the fate of Leichbarg, but 
+# the mayor of this small town isn't smarter than his collegue of Leichberg.
+# The next night, the village is attacked by a vampire and its skeletal
+# army. The party manage to dispatch him with great difficulty.
 2015/08/29 [800] The priestess, the vampire and the chaosborn
 	+ WS +5
 	+ BS +5
 	+ AGI +5
-	
+
+# Now convinced of the imminence of the war, the mayor agree to put the
+# survivors in safety and provoke an exodus. Sephiam stealthly burns the houses
+# of the remaining villagers to force them to flee. He keep watch on the group,
+# relieving two elders of their lives to help the group to reach safety.
+# The meister of Apfelreach isn't very welcoming with the refugees, and
+# Paola has great difficulties to find a new home for them. Afterwards, the
+# group returns to Altdorf to report the events to the temple of Myrmidia.
 2015/11/14 [600] Exodus
 	+ PER +5
 	+ Weapon Training: Spear
@@ -61,11 +98,22 @@ FEL 27
 	* INS +1
 	* Fate -1
 
+# In Aldorf, Paola receive the order to track and stop Anabella von Carstein,
+# which should be in Nuln. Gaspard, a mage of the shadow college, sends one 
+# of hes novice to help them. After they meet in the Helping Hand inn, the
+# characters capture a spy and interrogate him in the basements of the temple
+# of Sigmar. He follows the order of a mysterious beautiful blond young lady,
+# calling herself "Countess"...
 2015-11-22 [1000] To kill a mocking bird
 	+ Double Team
 	+ Stealth
 	+ Jaded
 
+# The party buy fine clothes to enter the Gentleman's club. Countess Erica happend
+# to be a member of a vampire's sorority. They have influence over several member
+# of the churches and control a network of spies. Given that the sorority's goal
+# of killing Anabella is the same as the group's mission, they stormed the mansion
+# of the vampire and kill her and her newborn protector.
 2015-11-29 [1800] Kill the Beast!
 	+ WS +5
 	+ STR +5
@@ -76,3 +124,14 @@ FEL 27
 	* INS +8
 	* COR +3
 	* Fate -4
+
+# Once again, the human gratitude is limitless and Paola is imprisonned. Having
+# warned Paola's supperior of the event, Sephiam do what he can to prevent her
+# from being executed, but the mages are dead weights at every occasion and there
+# is little an elve can do to alter human justice. Paola is announced guilty, but
+# kept alive and is banned from the order of Myrmidia. She's not too happy about it,
+# and Sephiam hopes she will now stop being so... naive.
+2015-12-20 [1200] The Trial
+	+ FEL +5
+	+ Charm
+	+ Deceive
