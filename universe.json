@@ -448,6 +448,17 @@
 					"linguistics",
 					"keen intuition"
 				]
+			},
+			{
+				"name": "Noble",
+				"upgrades": [
+					"knowledge",
+					"weapon skill",
+					"social",
+					"command",
+					"linguistics",
+					"deceive"
+				]
 			}
         ],
         "tarot": [
