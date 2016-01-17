@@ -85,3 +85,6 @@ FEL 37
 	* Fate -2
 
 2015-12-20 [1200] The Trial
+	+ AGI +5
+	+ Dodge
+	+ Leap up
