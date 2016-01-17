@@ -70,7 +70,7 @@ FEL 37
 
 2015-11-29 [1800] Operation Hammerblow
 	+ Frenzy
-        + Iron Jaw
+	+ Iron Jaw
  	+ Jaded
 	+ Never Quit
 	+ Sound Constitution
@@ -83,3 +83,5 @@ FEL 37
 	* INS +12
 	* COR +2
 	* Fate -2
+
+2015-12-20 [1200] The Trial
