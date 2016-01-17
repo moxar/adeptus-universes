@@ -139,3 +139,26 @@ FEL 38
 	+ Die Hard
 	+ True Grit
 	* INS +1
+
+# Paola is attacked by skavens, despite she does not know the name, while resting 
+# at the hospice of Shallya. SHe manages to repell gutters before falling inconscious.
+# The same night, Jean, Sephiam and Griechka are also attacked by an assassin and
+# four gutter runners in their chambers. They kill the skavens, but Griechka loses
+# controll of his magic and turn into a horrible demon. The party manages to outrun
+# the demon and gather at Shallya's temple.
+# The day after, Giovanni Orsini presents himself to the group, willing to join the
+# venture. The nobleborn seems motivated by boering, and a little inexperienced, but
+# willing to do well. Also, his father offers a chest of 200 gold pieces as payment
+# for the service of getting rid of his cadet. The Paola uses this founds to buy some
+# armor and weapons to Jean, Sephiam and herself.
+# In the meantime, Paola is summoned by the sorrority of vampires, which share some
+# intelligence about the skavens: they seem related to the chief of the secret services
+# of the duchess.
+# Moreover, according to Sephiam's tracking experience, the skavens come from the sewers.
+2016-01-17 [1600] Vermin Tide
+	+ Common Lore
+	+ Inquiry	
+	+ Awareness
+	+ Medicae
+	+ STR +5
+	+ TOU +5

@@ -50,3 +50,13 @@ FEL	36
 	+ STR +5
 	+ Fate +2
 	+ sleight of hand
+	
+2016-01-17 [1600] Vermin Tide
+	+ FEL +5
+	+ PER +5
+	+ INT +5
+	+ Athletics
+	+ Intimidate
+	+ Scrutiny
+	+ Scholastic Lore
+	+ Inquiry

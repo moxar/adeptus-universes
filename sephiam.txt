@@ -130,10 +130,28 @@ FEL 27
 # from being executed, but the mages are dead weights at every occasion and there
 # is little an elve can do to alter human justice. Paola is announced guilty, but
 # kept alive and is banned from the order of Myrmidia. She's not too happy about it,
-# and Sephiam hopes she will now stop being so... naive.
+# and Sephiam hopes she will now stop being so… naive.
 2015-12-20 [1200] The Trial
 	+ FEL +5
 	+ Charm
 	+ Deceive
 	+ INT +5
 	+ Logic
+
+# Paola is attacked while resting at the Shallya temple and the group while
+# resting at the inn, Grischka being killed by its powers. The attackers are 
+# beastmen looking like rats.
+# The group is invited by some noble whose son wants to experience adventuring.
+# In exchange for a large sum of money, the group accept to take him. Sephiam
+# try to find the trace of the beastmen, which leads to the sewers.
+# The vampire sorority summon Paola, and Sephiam finally meet them. He seems
+# particularly attracted by Irina, the vampire servant of the sorority… The
+# vampires give them informations about the skavens, the boss of the duchess
+# spy network seems to be compromised…
+2016-01-17 [1600] Vermin Tide
+	+ Keen Intuition
+	+ Acrobatics
+	+ Medicae
+	+ Survival
+	+ STR +5
+	+ WIL +5

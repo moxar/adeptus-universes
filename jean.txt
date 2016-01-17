@@ -88,3 +88,12 @@ FEL 37
 	+ AGI +5
 	+ Dodge
 	+ Leap up
+	
+2016-01-17 [1600] Vermin Tide
+	* Fate -4
+	+ Fate +4
+	+ Parry
+	+ FEL +5
+	+ Brutal assault
+	+ Awareness
+	
