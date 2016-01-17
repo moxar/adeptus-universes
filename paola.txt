@@ -20,7 +20,6 @@ FEL 38
 	+ WS +5
 	+ STR +5
 	+ Sound Constitution
-	+ acrobatics
 
 # The Characters met in a village south of Nuln. Sephiam had been
 # imprisonned by villagers after killing beastmens in the country.
@@ -39,7 +38,6 @@ FEL 38
 2015/06/21 [400] Vampire! 
 	+ AGI +5
 	+ Sound Constitution
-	+ Fate +1
 	
 # In Nuln, Paola is given an important mission. The head of the cults
 # disapered several weeks ago. She has to go to Leichberg and prepare
@@ -47,7 +45,8 @@ FEL 38
 # the missing leaders.
 2015/07/01 [400] Travel to Leichberg 
 	+ Physical Resistance: Disease
-	+ Fate +1
+	+ acrobatics
+	+ Fate +2
 
 # In Leichberg, no one takes the characters seriously. They decide to
 # Engage in the milicia and try to lead by example, without success.
@@ -81,7 +80,6 @@ FEL 38
 2015/08/29 [800] The priestess, the vampire and the chaosborn 
 	+ Hardy
 	+ WIL +5
-	+ True Grit
 	* INS +2
 
 # The last survivors of the village agree to flee. Two messengers are sent to
@@ -139,5 +137,5 @@ FEL 38
 	+ WIL +5
 	+ Deceive
 	+ Die Hard
-	+ Awareness
+	+ True Grit
 	* INS +1
