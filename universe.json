@@ -156,7 +156,7 @@
         {
             "name": "common lore",
             "aptitudes": [
-                "intelligence",
+                "fellowship",
                 "knowledge"
             ]
         },
@@ -184,7 +184,7 @@
         {
             "name": "forbiden lore",
             "aptitudes": [
-                "intelligence",
+                "willpower",
                 "knowledge"
             ]
         },
