@@ -135,3 +135,5 @@ FEL 27
 	+ FEL +5
 	+ Charm
 	+ Deceive
+	+ INT +5
+	+ Logic
