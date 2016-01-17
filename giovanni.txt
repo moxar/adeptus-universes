@@ -1,0 +1,52 @@
+name:   Giovanni Orsini
+origin: Tilea
+career: Duellist, Noble
+tarot:  VII
+
+WS	35
+BS	38
+STR	36
+TOU	30
+AGI	35
+INT	38
+PER	25
+WIL	27
+FEL	36
+
+2016-01-17 Reroll
+	+ [0] defence
+	+ [0] Fate +2
+	+ [0] Weapon Training: Pistols
+	+ [0] Weapon Training: Sword
+	* COR +2  
+	* AGI -2
+	
+2016-01-17 [7250] First Class
+	+ charm
+	+ AGI +5
+	+ FEL +5
+	+ WS +5
+	+ parry
+	+ dodge
+	+ sound constitution
+	+ sound constitution
+	+ disarm
+	+ counter attack
+	+ scrutiny
+	+ common lore
+	+ Leap Up
+	+ awareness
+	+ deceive
+	+ charm
+	+ BS +5
+	+ WS +5
+	+ TOU +5
+	+ AGI +5
+	+ charm
+	+ killing strike
+	+ precision killer
+	+ two-weapon wielder
+	+ parry
+	+ STR +5
+	+ Fate +2
+	+ sleight of hand
