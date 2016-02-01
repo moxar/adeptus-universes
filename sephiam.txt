@@ -155,3 +155,5 @@ FEL 27
 	+ Survival
 	+ STR +5
 	+ WIL +5
+	
+2016-01-31 [2000] Plague Bearer

@@ -162,3 +162,18 @@ FEL 38
 	+ Medicae
 	+ STR +5
 	+ TOU +5
+
+# Thanks to the engeneering guild, the group explores the sewers with a map. They discover
+# that the acces toward the palace has been locked by a grid, but they beleive the grid not
+# tight enough to prevent skavens from going through. They also spot a brach in the sewers
+# in the other side of the grid. They plan to meld the grid with acid and go through to keep
+# tracking the skavens.
+# In the meantime, Griechka invites Paola and his friends to a trap. She asks Merien to get intel
+# about the demon, and he returns with this information: Griechka has turned into a demon
+# of disease. He is extremely dangerous and the city risks a deadly pandemia. The demon must 
+# be stopped at once. The party seek for Shallya's blessing, then run into the trap, a forsaken inn
+# in the docker district.
+# After a long and exhausting fight, the demon fades out. The whole party is lightly 
+# to grievly wounded, Jean is blinded, and Paola fears contamination. They need SHallya's mercy,
+# but don not want to take the risk that the disease spreads out in the temple.
+2016-01-31 [2000] Plague Bearer

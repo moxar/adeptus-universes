@@ -49,3 +49,5 @@ FEL	28
 2015-12-20 [1200] The Trial
 
 2016-01-17 [1600] Vermin Tide
+	
+2016-01-31 [2000] Plague Bearer
