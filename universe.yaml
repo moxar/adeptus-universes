@@ -610,13 +610,6 @@
       description: "Stand as a Free Action."
       tier: 1
     - 
-      name: "Mental Resistance"
-      aptitudes: 
-        - "willpower"
-        - "defence"
-      description: "Gain +10 bonus to particular mental resistance test."
-      tier: 1
-    - 
       name: "Never Quit"
       aptitudes: 
         - "toughness"
@@ -639,13 +632,6 @@
       tier: 1
       stackable: true
     - 
-      name: "Physical Resistance"
-      aptitudes: 
-        - "toughness"
-        - "defence"
-      description: "Gain +10 bonus to particular physical resistance test."
-      tier: 1
-    - 
       name: "Quick Draw"
       aptitudes: 
         - "agility"
@@ -658,6 +644,13 @@
         - "agility"
         - "fieldcraft"
       description: "Reduce reload time."
+      tier: 1
+    - 
+      name: "Resistance"
+      aptitudes: 
+        - "general"
+        - "defence"
+      description: "Gain +10 bonus to particular resistance test."
       tier: 1
     - 
       name: "Sanctionned"
