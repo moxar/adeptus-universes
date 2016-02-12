@@ -1,0 +1,1106 @@
+---
+  aptitudes: 
+    - "weapon skill"
+    - "ballistic skill"
+    - "strength"
+    - "toughness"
+    - "agility"
+    - "intelligence"
+    - "perception"
+    - "willpower"
+    - "fellowship"
+    - "offence"
+    - "finesse"
+    - "defence"
+    - "knowledge"
+    - "fieldcraft"
+    - "mystic"
+    - "social"
+    - "general"
+  characteristics: 
+    - 
+      name: "WS"
+      aptitudes: 
+        - "weapon skill"
+        - "offence"
+    - 
+      name: "BS"
+      aptitudes: 
+        - "ballistic skill"
+        - "finesse"
+    - 
+      name: "STR"
+      aptitudes: 
+        - "strength"
+        - "offence"
+    - 
+      name: "TOU"
+      aptitudes: 
+        - "toughness"
+        - "defence"
+    - 
+      name: "AGI"
+      aptitudes: 
+        - "agility"
+        - "finesse"
+    - 
+      name: "INT"
+      aptitudes: 
+        - "intelligence"
+        - "knowledge"
+    - 
+      name: "PER"
+      aptitudes: 
+        - "perception"
+        - "fieldcraft"
+    - 
+      name: "WIL"
+      aptitudes: 
+        - "willpower"
+        - "mystic"
+    - 
+      name: "FEL"
+      aptitudes: 
+        - "fellowship"
+        - "social"
+  gauges: 
+    - 
+      name: "INS"
+      aptitudes: []
+      xp: 0
+    - 
+      name: "COR"
+      aptitudes: []
+      xp: 0
+    - 
+      name: "DR"
+      aptitudes: []
+      xp: 0
+    - 
+      name: "MR"
+      aptitudes: []
+      xp: 0
+    - 
+      name: "Fate"
+      aptitudes: []
+      xp: 50
+  skills: 
+    - 
+      name: "acrobatics"
+      aptitudes: 
+        - "agility"
+        - "general"
+    - 
+      name: "athletics"
+      aptitudes: 
+        - "strength"
+        - "general"
+    - 
+      name: "awareness"
+      aptitudes: 
+        - "perception"
+        - "fieldcraft"
+    - 
+      name: "charm"
+      aptitudes: 
+        - "fellowship"
+        - "general"
+    - 
+      name: "command"
+      aptitudes: 
+        - "fellowship"
+        - "social"
+    - 
+      name: "commerce"
+      aptitudes: 
+        - "intelligence"
+        - "knowledge"
+    - 
+      name: "common lore"
+      aptitudes: 
+        - "fellowship"
+        - "knowledge"
+    - 
+      name: "craft"
+      aptitudes: 
+        - "intelligence"
+        - "fieldcraft"
+    - 
+      name: "deceive"
+      aptitudes: 
+        - "fellowship"
+        - "social"
+    - 
+      name: "dodge"
+      aptitudes: 
+        - "agility"
+        - "defence"
+    - 
+      name: "forbiden lore"
+      aptitudes: 
+        - "willpower"
+        - "knowledge"
+    - 
+      name: "inquiry"
+      aptitudes: 
+        - "fellowship"
+        - "social"
+    - 
+      name: "interrogation"
+      aptitudes: 
+        - "willpower"
+        - "social"
+    - 
+      name: "intimidate"
+      aptitudes: 
+        - "strength"
+        - "social"
+    - 
+      name: "linguistics"
+      aptitudes: 
+        - "intelligence"
+        - "general"
+    - 
+      name: "logic"
+      aptitudes: 
+        - "intelligence"
+        - "knowledge"
+    - 
+      name: "magic sense"
+      aptitudes: 
+        - "perception"
+        - "mystic"
+    - 
+      name: "medicae"
+      aptitudes: 
+        - "intelligence"
+        - "fieldcraft"
+    - 
+      name: "navigate"
+      aptitudes: 
+        - "intelligence"
+        - "fieldcraft"
+    - 
+      name: "parry"
+      aptitudes: 
+        - "weapon skill"
+        - "defence"
+    - 
+      name: "ride"
+      aptitudes: 
+        - "agility"
+        - "fieldcraft"
+    - 
+      name: "scholastic lore"
+      aptitudes: 
+        - "intelligence"
+        - "knowledge"
+    - 
+      name: "scrutiny"
+      aptitudes: 
+        - "perception"
+        - "general"
+    - 
+      name: "security"
+      aptitudes: 
+        - "intelligence"
+        - "fieldcraft"
+    - 
+      name: "sleight of hand"
+      aptitudes: 
+        - "agility"
+        - "knowledge"
+    - 
+      name: "stealth"
+      aptitudes: 
+        - "agility"
+        - "fieldcraft"
+    - 
+      name: "survival"
+      aptitudes: 
+        - "perception"
+        - "fieldcraft"
+    - 
+      name: "trade"
+      aptitudes: 
+        - "intelligence"
+        - "general"
+  backgrounds: 
+    origin: 
+      - 
+        name: "Tilea"
+        upgrades: 
+          - "general"
+          - "fellowship"
+      - 
+        name: "Athel Loren"
+        upgrades: 
+          - "general"
+          - "agility"
+      - 
+        name: "Empire"
+        upgrades: 
+          - "general"
+          - "willpower"
+      - 
+        name: "Kislev"
+        upgrades: 
+          - "general"
+          - "toughness"
+    career: 
+      - 
+        name: "Priest"
+        upgrades: 
+          - "social"
+          - "toughness"
+          - "willpower"
+          - "Peer: Imperial Cult"
+          - "charm"
+          - "linguistics"
+          - "scrutiny"
+      - 
+        name: "Footman"
+        upgrades: 
+          - "weapon skill"
+          - "offence"
+          - "defence"
+          - "Iron Jaw"
+          - "command"
+          - "athletics"
+          - "parry"
+      - 
+        name: "Brute"
+        upgrades: 
+          - "strength"
+          - "offence"
+          - "weapon skill"
+          - "Die hard"
+          - "intimidate"
+          - "athletics"
+          - "dodge"
+      - 
+        name: "Peasant"
+        upgrades: 
+          - "strength"
+          - "toughness"
+          - "fieldcraft"
+          - "Physical Resistance: Disease"
+          - "survival"
+          - "athletics"
+          - "navigate"
+      - 
+        name: "Ranger"
+        upgrades: 
+          - "ballistic skill"
+          - "offence"
+          - "fieldcraft"
+          - "Quick Draw"
+          - "stealth"
+          - "awareness"
+          - "navigate"
+      - 
+        name: "Duellist"
+        upgrades: 
+          - "weapon skill"
+          - "finesse"
+          - "agility"
+          - "Ambidextrous"
+          - "acrobatics"
+          - "parry"
+          - "dodge"
+      - 
+        name: "Mage"
+        upgrades: 
+          - "mystic"
+          - "willpower"
+          - "knowledge"
+          - "Sanctionned"
+          - "magic sense"
+          - "forbiden lore"
+          - "logic"
+          - "MR +1"
+      - 
+        name: "Smith"
+        upgrades: 
+          - "intelligence"
+          - "fieldcraft"
+          - "strength"
+          - "Never Quit"
+          - "craft"
+          - "athletics"
+          - "logic"
+      - 
+        name: "Grave Robber"
+        upgrades: 
+          - "fieldcraft"
+          - "perception"
+          - "intelligence"
+          - "scrutiny"
+          - "navigate"
+          - "linguistics"
+          - "keen intuition"
+      - 
+        name: "Noble"
+        upgrades: 
+          - "knowledge"
+          - "weapon skill"
+          - "social"
+          - "command"
+          - "linguistics"
+          - "deceive"
+    tarot: 
+      - 
+        name: "I"
+        description: "Mutation without, corruption within."
+        upgrades: 
+          - "Malignancy"
+      - 
+        name: "II"
+        description: "Trust in your fear."
+        upgrades: 
+          - "Phobia"
+          - "PER +5"
+      - 
+        name: "III"
+        description: "Humans must die so that humanity can endure."
+        upgrades: 
+          - "Jaded"
+          - "TOU +2"
+      - 
+        name: "IV"
+        description: "The pain of the bullet is ecstasy compared to damnation."
+        upgrades: 
+          - "AGI -3"
+          - "The pain of the bullet is ecstasy compared to damnation."
+      - 
+        name: "V"
+        description: "Be a boon to your allies and the bane of your enemies."
+        upgrades: 
+          - "Hatred"
+          - "STR +2"
+      - 
+        name: "VI"
+        description: "The wise learn from the deaths of others."
+        upgrades: 
+          - "AGI +3"
+          - "INT +3"
+          - "BS -3"
+          - "WS -3"
+      - 
+        name: "VII"
+        description: "Kill the alien before it can speak its lies."
+        upgrades: 
+          - "Quick draw"
+          - "AGI +2"
+      - 
+        name: "VIII"
+        description: "Truth is subjective."
+        upgrades: 
+          - "PER +3"
+          - "Truth is subjective."
+      - 
+        name: "IX"
+        description: "Thought begets Heresy."
+        upgrades: 
+          - "INT -3"
+          - "Thought begets Heresy."
+      - 
+        name: "X"
+        description: "Heresy begets Retribution."
+        upgrades: 
+          - "FEL +3"
+          - "STR +3"
+          - "TOU -3"
+          - "WIL -3"
+      - 
+        name: "XI"
+        description: "A mind without purpose wanders in dark places."
+        upgrades: 
+          - "A mind without purpose wanders in dark places."
+      - 
+        name: "XII"
+        description: "If a job is worth doing, it is worth dying for."
+        upgrades: 
+          - "FEL -3"
+          - "STR -3"
+          - "TOU +3"
+          - "WIL +3"
+      - 
+        name: "XIII"
+        description: "Dark dreams lie upon the heart."
+        upgrades: 
+          - "Dark dreams lie upon the heart."
+      - 
+        name: "XIV"
+        description: "Violence solves everything."
+        upgrades: 
+          - "AGI -3"
+          - "INT -3"
+          - "BS +3"
+          - "WS +3"
+      - 
+        name: "XV"
+        description: "Ignorance is a wisdom of its own."
+        upgrades: 
+          - "PER -3"
+          - "Ignorance is a wisdom of its own."
+      - 
+        name: "XVI"
+        description: "Only the insane have strength enough to prosper."
+        upgrades: 
+          - "WIL +3"
+          - "Only the insane have strength enough to prosper."
+      - 
+        name: "XVII"
+        description: "A suspicious mind is a healthy mind."
+        upgrades: 
+          - "PER +2"
+          - "A suspicious mind is a healthy mind."
+      - 
+        name: "XVIII"
+        description: "Suffering is an unrelenting instructor."
+        upgrades: 
+          - "TOU -2"
+          - "Suffering is an unrelenting instructor."
+      - 
+        name: "XIX"
+        description: "The only true fear is dying without your duty done."
+        upgrades: 
+          - "Resistance: Heat"
+          - "Resistance: Cold"
+          - "Resistance: Fear"
+          - "TOU +2"
+      - 
+        name: "XX"
+        description: "Only in death does duty end."
+        upgrades: 
+          - "Only in death does duty end."
+      - 
+        name: "XXI"
+        description: "Innocence is an illusion."
+        upgrades: 
+          - "Keen intuition"
+          - "INT +2"
+      - 
+        name: "XXII"
+        description: "To war is human."
+        upgrades: 
+          - "dodge"
+          - "AGI +2"
+      - 
+        name: "XXIII"
+        description: "There is no substitute for zeal."
+        upgrades: 
+          - "Clues from the Crowds"
+          - "FEL +2"
+      - 
+        name: "XXIV"
+        description: "Even one who has nothing can still offer his life."
+        upgrades: 
+          - "Even one who has nothing can still offer his life."
+      - 
+        name: "XXV"
+        description: "Do not ask why you serve. Only ask how."
+        upgrades: 
+          - "Fate +1"
+  talents: 
+    - 
+      name: "Ambidextrous"
+      aptitudes: 
+        - "weapon skill"
+        - "ballistic skill"
+      description: "Reduce penalties for using two weapons."
+      tier: 1
+    - 
+      name: "Arcane Sense"
+      aptitudes: 
+        - "perception"
+        - "mystic"
+      description: "Can reroll failed magic sense roll, with a penalty of -10."
+      tier: 1
+    - 
+      name: "Blind Fighting"
+      aptitudes: 
+        - "perception"
+        - "fieldcraft"
+      description: "Eliminates melee combat penalties for obscured vision."
+      tier: 1
+    - 
+      name: "Catfall"
+      aptitudes: 
+        - "agility"
+        - "fieldcraft"
+      description: "Reduce falling damage."
+      tier: 1
+    - 
+      name: "Clues from the Crowds"
+      aptitudes: 
+        - "general"
+        - "social"
+      description: "Can re-roll a test made to gather information from a group."
+      tier: 1
+    - 
+      name: "Die hard"
+      aptitudes: 
+        - "willpower"
+        - "defence"
+      description: "Test Willpower to avoid Fatigue from Blood Loss."
+      tier: 1
+    - 
+      name: "Disarm"
+      aptitudes: 
+        - "weapon skill"
+        - "defence"
+      description: "Force opponent to drop weapon."
+      tier: 1
+    - 
+      name: "Double Team"
+      aptitudes: 
+        - "general"
+        - "offence"
+      description: "Gain additional +10 for outnumbering opponent."
+      tier: 1
+    - 
+      name: "Enemy"
+      aptitudes: 
+        - "general"
+        - "social"
+      description: "An organization or group particularly despises the character."
+      tier: 1
+    - 
+      name: "Frenzy"
+      aptitudes: 
+        - "strength"
+        - "offence"
+      description: "Enter psychotic rage to gain combat bonuses."
+      tier: 1
+    - 
+      name: "Iron Jaw"
+      aptitudes: 
+        - "toughness"
+        - "defence"
+      description: "Test Toughness to overcome Stunning."
+      tier: 1
+    - 
+      name: "Jaded"
+      aptitudes: 
+        - "willpower"
+        - "defence"
+      description: "Ignore mundane horrors."
+      tier: 1
+    - 
+      name: "Keen Intuition"
+      aptitudes: 
+        - "perception"
+        - "social"
+      description: "Can retry Awareness test once with –10 modifier."
+      tier: 1
+    - 
+      name: "Leap Up"
+      aptitudes: 
+        - "agility"
+        - "general"
+      description: "Stand as a Free Action."
+      tier: 1
+    - 
+      name: "Mental Resistance"
+      aptitudes: 
+        - "willpower"
+        - "defence"
+      description: "Gain +10 bonus to particular mental resistance test."
+      tier: 1
+    - 
+      name: "Never Quit"
+      aptitudes: 
+        - "toughness"
+        - "defence"
+      description: "The toughness bonus counts as two level higher for fatigue thresholds."
+      tier: 1
+    - 
+      name: "Nowhere to Hide"
+      aptitudes: 
+        - "perception"
+        - "offence"
+      description: "Can add DoS from the attack to reduce armour value of cover."
+      tier: 1
+    - 
+      name: "Peer"
+      aptitudes: 
+        - "fellowship"
+        - "social"
+      description: "Character has good reputation amongst chosen group."
+      tier: 1
+      stackable: true
+    - 
+      name: "Physical Resistance"
+      aptitudes: 
+        - "toughness"
+        - "defence"
+      description: "Gain +10 bonus to particular physical resistance test."
+      tier: 1
+    - 
+      name: "Quick Draw"
+      aptitudes: 
+        - "agility"
+        - "finesse"
+      description: "Draw a weapon as a Free Action."
+      tier: 1
+    - 
+      name: "Rapid Reload"
+      aptitudes: 
+        - "agility"
+        - "fieldcraft"
+      description: "Reduce reload time."
+      tier: 1
+    - 
+      name: "Sanctionned"
+      aptitudes: 
+        - "mystic"
+        - "defence"
+      description: "Limit pushing to +2. No additionnal penalties when pushing. Avoid perils when rolling double on pushing."
+      tier: 1
+    - 
+      name: "Sound Constitution"
+      aptitudes: 
+        - "defence"
+        - "general"
+      description: "Gain two additional wounds in each location."
+      tier: 1
+      stackable: true
+    - 
+      name: "Specialist"
+      aptitudes: 
+        - "knowledge"
+        - "general"
+      description: "Can roll knowledge tests without penalties against the given domain."
+      tier: 1
+    - 
+      name: "Takedown"
+      aptitudes: 
+        - "weapon skill"
+        - "offence"
+      description: "Make special attack to stun opponent."
+      tier: 1
+    - 
+      name: "Weapon Training"
+      aptitudes: 
+        - "general"
+        - "finesse"
+      description: "Use weapon group without penalty."
+      tier: 1
+    - 
+      name: "Battle rage"
+      aptitudes: 
+        - "strength"
+        - "defence"
+      description: "Parry while frenzied."
+      tier: 2
+    - 
+      name: "Chaos Conduit"
+      aptitudes: 
+        - "willpower"
+        - "mystic"
+      description: "Spend Fate point to add 1d5 to magic rating."
+      tier: 2
+    - 
+      name: "Combat Master"
+      aptitudes: 
+        - "weapon skill"
+        - "defence"
+      description: "Opponents get no bonus for outnumbering the character."
+      tier: 2
+    - 
+      name: "Constant Vigilance"
+      aptitudes: 
+        - "perception"
+        - "defence"
+      description: "Can use Per or Int instead of Ag for Initiative rolls, and rolls two dice (picking higher) for the result."
+      tier: 2
+    - 
+      name: "Contact Network"
+      aptitudes: 
+        - "fellowship"
+        - "social"
+      description: "+10 bonus to all Interrogate tests, additional +5 for others who also have Coordinated Interrogation."
+      tier: 2
+    - 
+      name: "Counter Attack"
+      aptitudes: 
+        - "weapon skill"
+        - "defence"
+      description: "May attack after successful Parry."
+      tier: 2
+    - 
+      name: "Deny the Witch"
+      aptitudes: 
+        - "willpower"
+        - "defence"
+      description: "Can use Willpower to Evade against magic attacks."
+      tier: 2
+    - 
+      name: "Devastating Assault"
+      aptitudes: 
+        - "weapon skill"
+        - "offence"
+      description: "A successful All Out Attack grants a second attack."
+      tier: 2
+    - 
+      name: "Double Tap"
+      aptitudes: 
+        - "finesse"
+        - "offence"
+      description: "Successful first attack grants bonus to second attack."
+      tier: 2
+    - 
+      name: "Exotic Weapon Training"
+      aptitudes: 
+        - "intelligence"
+        - "finesse"
+      description: "Gain proficiency with one exotic weapon type."
+      tier: 2
+    - 
+      name: "Face in a Crowd"
+      aptitudes: 
+        - "felloswhip"
+        - "social"
+      description: "Can use Fellowship instead of Agility when Shadowing."
+      tier: 2
+    - 
+      name: "Hard Target"
+      aptitudes: 
+        - "agility"
+        - "defence"
+      description: "–20 to hit character when he Charges or Runs."
+      tier: 2
+    - 
+      name: "Hardy"
+      aptitudes: 
+        - "toughness"
+        - "defence"
+      description: "Character considers wounds one degree lighter for natural recovery."
+      tier: 2
+    - 
+      name: "Hatred"
+      aptitudes: 
+        - "weapon skill"
+        - "social"
+      description: "Gain +10 bonus to attack hated creatures."
+      tier: 2
+    - 
+      name: "Hip Shooting"
+      aptitudes: 
+        - "ballistic skill"
+        - "finesse"
+      description: "Characters may shoot when moving."
+      tier: 2
+    - 
+      name: "Independent Targeting"
+      aptitudes: 
+        - "ballistic skill"
+        - "finesse"
+      description: "Fire at multiple targets more than 10 metres apart."
+      tier: 2
+    - 
+      name: "Killing strike"
+      aptitudes: 
+        - "offence"
+        - "finesse"
+      description: "Add the DoS to the attack damage."
+      tier: 2
+    - 
+      name: "Marksman"
+      aptitudes: 
+        - "ballistic skill"
+        - "finesse"
+      description: "No penalties for firing at long or extreme range."
+      tier: 2
+    - 
+      name: "Precision Killer"
+      aptitudes: 
+        - "offence"
+        - "finesse"
+      description: "No penalty to making Called Shot"
+      tier: 2
+    - 
+      name: "Strong Minded"
+      aptitudes: 
+        - "willpower"
+        - "defence"
+      description: "May reroll failed WP tests to resist magic attacks."
+      tier: 2
+    - 
+      name: "Swift Attack"
+      aptitudes: 
+        - "weapon skill"
+        - "finesse"
+      description: "May make multiple melee attacks."
+      tier: 2
+    - 
+      name: "Two-Weapon Wielder"
+      aptitudes: 
+        - "offence"
+        - "agility"
+      description: "May fight with two weapons in melee combat."
+      tier: 2
+    - 
+      name: "Unarmed Specialist"
+      aptitudes: 
+        - "strength"
+        - "offence"
+      description: "When fighting unarmed, attacks hit as Deadly Natural Weapons."
+      tier: 2
+    - 
+      name: "Whirlwind of Death"
+      aptitudes: 
+        - "weapon skill"
+        - "finesse"
+      description: "Make one attack for each melee opponent."
+      tier: 2
+    - 
+      name: "Adamantium Faith"
+      aptitudes: 
+        - "willpower"
+        - "defence"
+      description: "Reduces DoF from failed Pinning and Fear tests."
+      tier: 3
+    - 
+      name: "Assassin Strike"
+      aptitudes: 
+        - "weapon skill"
+        - "fieldcraft"
+      description: "After melee attack, test Acrobatics to move."
+      tier: 3
+    - 
+      name: "Bastion of Iron Will"
+      aptitudes: 
+        - "willpower"
+        - "mystic"
+      description: "Gain bonus for Opposed tests against psychic powers."
+      tier: 3
+    - 
+      name: "Blademaster"
+      aptitudes: 
+        - "weapon skill"
+        - "finesse"
+      description: "Reroll missed attack, once per round."
+      tier: 3
+    - 
+      name: "Brutal assault"
+      aptitudes: 
+        - "weapon skill"
+        - "offence"
+      description: "A successful All Out Attack grants additional attacks."
+      tier: 3
+    - 
+      name: "Chaos Lock"
+      aptitudes: 
+        - "willpower"
+        - "mystic"
+      description: "Ignore Psychic Phenomenon once per week."
+      tier: 3
+    - 
+      name: "Deathdealer"
+      aptitudes: 
+        - "perception"
+        - "finesse"
+      description: "Add Per bonus to critical damage inflicted in combat."
+      tier: 3
+    - 
+      name: "Eye of Vengeance"
+      aptitudes: 
+        - "ballistic skill"
+        - "offence"
+      description: "Spend 1 Fate point to increase damage and penetration."
+      tier: 3
+    - 
+      name: "Favoured by the Winds"
+      aptitudes: 
+        - "willpower"
+        - "mystic"
+      description: "Roll twice for Psychic Phenomena and choose result."
+      tier: 3
+    - 
+      name: "Flash of Insight"
+      aptitudes: 
+        - "peception"
+        - "knowledge"
+      description: "Spend 1 Fate point to reveal a clue."
+      tier: 3
+    - 
+      name: "Halo of Command"
+      aptitudes: 
+        - "fellowship"
+        - "leadership"
+      description: "Affect NPCs within 100xFelB metres with Social skills."
+      tier: 3
+    - 
+      name: "Hammer Blow"
+      aptitudes: 
+        - "strength"
+        - "offence"
+      description: "Make a thunderous strike with a melee weapon."
+      tier: 3
+    - 
+      name: "Infused Knowledge"
+      aptitudes: 
+        - "intelligence"
+        - "knowledge"
+      description: "Know a little bit about everything."
+      tier: 3
+    - 
+      name: "Lightning Attack"
+      aptitudes: 
+        - "weapon skill"
+        - "finesse"
+      description: "Character may make many melee attacks with single roll."
+      tier: 3
+    - 
+      name: "Mastery"
+      aptitudes: 
+        - "intelligence"
+        - "knowledge"
+      description: "May spend Fate point to succeed on test."
+      tier: 3
+    - 
+      name: "Never Die"
+      aptitudes: 
+        - "toughness"
+        - "defence"
+      description: "Ignore penalties from Critical damage by spending Fate point."
+      tier: 3
+    - 
+      name: "Preternatural Speed"
+      aptitudes: 
+        - "agility"
+        - "offence"
+      description: "Double speed when charging."
+      tier: 3
+    - 
+      name: "Sprint"
+      aptitudes: 
+        - "agility"
+        - "fieldcraft"
+      description: "Move more quickly in combat."
+      tier: 3
+    - 
+      name: "Step Aside"
+      aptitudes: 
+        - "agility"
+        - "defence"
+      description: "Can make additional Dodge or Parry attempt."
+      tier: 3
+    - 
+      name: "Superior Chirurgeon"
+      aptitudes: 
+        - "intelligence"
+        - "fieldcraft"
+      description: "Treats wounds one degree lighter for medicae tests."
+      tier: 3
+    - 
+      name: "Target Selection"
+      aptitudes: 
+        - "ballistic skill"
+        - "finesse"
+      description: "May shoot into melee without penalty."
+      tier: 3
+    - 
+      name: "Thunder Charge"
+      aptitudes: 
+        - "strength"
+        - "offence"
+      description: "Break enemies with armoured charge."
+      tier: 3
+    - 
+      name: "True Grit"
+      aptitudes: 
+        - "toughness"
+        - "defence"
+      description: "Reduce Critical damage taken."
+      tier: 3
+    - 
+      name: "Two Weapon Master"
+      aptitudes: 
+        - "finesse"
+        - "offence"
+      description: "No penalties when fighting with two single-handed weapons."
+      tier: 3
+  spells: 
+    - 
+      name: "Bonds of Brotherhood"
+      tier: 1
+      description: "The characters and its allies gain +10 WS and BS."
+      push: "The character and its allies are able to parry attacks against adjacent targets."
+    - 
+      name: "Legacy of the Warrior"
+      tier: 1
+      description: "The character can use its WS or BS instead of INT and ignores the penalties for not being proficient in lore or logic skills checks related to warcraft."
+      push: "The character know specifics about the target: characteristics, combat style, strenghts and weaknesses..."
+    - 
+      name: "Versatility"
+      tier: 2
+      description: "Target gains a talent linked to at least one of these aptitudes: offence, defence, weapon skill, ballistic skill"
+      push: "Apply the normal effect to all friendly characters near the target. Myrmidia know who is designed as \"friendly\""
+    - 
+      name: "Challenge"
+      tier: 2
+      description: "The character engages the target into a challenge. The target must pass a challenging (+0%) WIL test to attempt anything but an offensive action agains the target (escape, attack another enemy, aid a friend...). Anyone trying to interfer in the duel must pass the same WIL test."
+      push: "Apply the normal effect. If the WIL check passes, the target suffers -20% to the action it is attempting."
+    - 
+      name: "Spear of the godess"
+      tier: 3
+      description: "Target attacks ignore armor value."
+      push: "Target attacks deal tru damage (ignore armor value and toughness)."
+    - 
+      name: "Bullwark of the godess"
+      tier: 3
+      description: "Target armor value increases by 3, and are exagramatics (count agains warp weapons)."
+      push: "Target does not suffer any penalty from status condition (fatigue, weaken, daze, slow...). It only suffers of lost limb/organs and death."
+  costs: 
+    characteristic: 
+      0: 
+        1: 300
+        2: 600
+        3: 900
+        4: 1200
+        5: 1500
+      1: 
+        1: 225
+        2: 450
+        3: 675
+        4: 900
+        5: 1125
+      2: 
+        1: 150
+        2: 300
+        3: 450
+        4: 600
+        5: 750
+    skill: 
+      0: 
+        1: 200
+        2: 400
+        3: 600
+        4: 800
+      1: 
+        1: 150
+        2: 300
+        3: 450
+        4: 600
+      2: 
+        1: 100
+        2: 200
+        3: 300
+        4: 400
+    talent: 
+      0: 
+        1: 400
+        2: 800
+        3: 1200
+      1: 
+        1: 300
+        2: 600
+        3: 900
+      2: 
+        1: 200
+        2: 400
+        3: 600
