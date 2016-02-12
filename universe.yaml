@@ -1033,33 +1033,40 @@
     - 
       name: "Bonds of Brotherhood"
       tier: 1
-      description: "The characters and its allies gain +10 WS and BS."
-      push: "The character and its allies are able to parry attacks against adjacent targets."
+      description: "The characters and its allies gain +10 weapon skill and parry tests."
+      push: "The character and its allies are able to parry attacks even if he is not targeted. The attacker and target must be in weapon's reach."
+      xp: 100
     - 
       name: "Legacy of the Warrior"
       tier: 1
       description: "The character can use its WS or BS instead of INT and ignores the penalties for not being proficient in lore or logic skills checks related to warcraft."
       push: "The character know specifics about the target: characteristics, combat style, strenghts and weaknesses..."
+      xp: 100
     - 
       name: "Versatility"
       tier: 2
       description: "Target gains a talent linked to at least one of these aptitudes: offence, defence, finesse"
       push: "Apply the normal effect to all friendly characters near the target. Myrmidia know who is designed as \"friendly\""
+      xp: 200
     - 
       name: "Challenge"
       tier: 2
       description: "The character engages the target into a challenge. The target must pass a challenging (+0%) WIL test to attempt anything but an offensive action agains the target (escape, attack another enemy, aid a friend...). Anyone trying to interfer in the duel must pass the same WIL test."
       push: "Apply the normal effect. If the WIL check passes, the target suffers -20% to the action it is attempting."
+      xp: 200
+      
     - 
       name: "Spear of the godess"
       tier: 3
       description: "Target attacks ignore armor value."
       push: "Target attacks deal tru damage (ignore armor value and toughness)."
+      xp: 300
     - 
       name: "Bullwark of the godess"
       tier: 3
       description: "Target armor value increases by 3, and are exagramatics (count agains warp weapons)."
       push: "Target does not suffer any penalty from status condition (fatigue, weaken, daze, slow...). It only suffers of lost limb/organs and death."
+      xp: 300
   costs: 
     characteristic: 
       0: 
