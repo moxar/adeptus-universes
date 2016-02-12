@@ -326,6 +326,11 @@
           - "intelligence"
           - "mystic"
       - 
+        name: "Noble"
+        upgrades: 
+          - "knowledge"
+          - "finesse"
+      - 
         name: "Officer"
         upgrades: 
           - "fellowship"
