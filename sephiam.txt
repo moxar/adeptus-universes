@@ -1,31 +1,42 @@
-name: 		Sephiam
-origin: 	Athel Loren
-career: 	Ranger, Duellist
-tarot: 		V
+name: 	Sephiam
+race:	Elve
+origin: Athel Loren
+career: Ranger, Assassin
+tarot: 	V
 
-WS 38
-BS 33
-STR 31
-AGI 39
-TOU 27
-INT 33
-PER 28
-WIL 31
-FEL 27
+AGI 33
+FEL 33
+INT 30
+PER 34
+STR 35
+TOU 30
+WIL 32
 
-2015/06/01 [650] Creation
-	+ [0] Perception
-	+ [0] Weapon Training: Sword
-	+ [0] Weapon Training: Bow
-	+ [0] Hatred: Beastmen
-	+ [0] Fate +1
-	+ Catfall
-	+ WS +5
-	+ BS +5
-	+ AGI +5
-	+ PER +5
-	+ Fate +1
+# Migration to adeptus v3 gives an extra 1600XP
+2015/06/01 [2250] Creation
+	+ Finesse
 	- Hatred
+	+ [0] Hatred: Beastmen
+	+ Fate +3
+	+ Catfall
+	+ PER +5
+	+ AGI +5
+	+ AGI +5
+	+ Weapon Skill
+	+ Weapon Skill
+	+ Weapon Training: Sword
+	+ Ballistic Skill
+	+ Ambidextrous
+	+ Weapon Training: Bow
+	+ Awareness
+	+ Dodge
+	+ Parry
+	+ Acrobatics
+	+ TOU +5
+	+ TOU +5
+	+ Quick Draw
+	+ Stealth
+
 
 # Sephiam's reward for hunting beastmen near Nuln is imprisonment by
 # some dumb humans that burned his possessions, beat him until he's
@@ -36,6 +47,7 @@ FEL 27
 	+ Scrutiny
 	+ Athletics
 	+ Survival
+	* Fate -1
 
 # After recovering from the villagers gratitude and the battle with a
 # giant spider, Sephiam follow Paola to Nuln, in order to warn the
@@ -80,8 +92,6 @@ FEL 27
 # The next night, the village is attacked by a vampire and its skeletal
 # army. The party manage to dispatch him with great difficulty.
 2015/08/29 [800] The priestess, the vampire and the chaosborn
-	+ WS +5
-	+ BS +5
 	+ AGI +5
 
 # Now convinced of the imminence of the war, the mayor agree to put the
@@ -115,7 +125,6 @@ FEL 27
 # of killing Anabella is the same as the group's mission, they stormed the mansion
 # of the vampire and kill her and her newborn protector.
 2015-11-29 [1800] Kill the Beast!
-	+ WS +5
 	+ STR +5
 	+ Precision Killer
 	+ Two-Weapon Wielder
@@ -155,3 +164,46 @@ FEL 27
 	+ Survival
 	+ STR +5
 	+ WIL +5
+
+# The human sewers stinks. 
+# That's the only thing I remember from the long search for the skaven's 
+# way into the palace. 
+# The humans are weird. 
+# They even keep maps of it… like they want to know exactly where their shit
+# goes.
+# We finally found the way, but it was bared by some wire rack.
+# Not enough to keep a skaven out, or even me when I'm in full physic 
+# condition, so it looks like the human leader really is corrupt.
+# We got acid to pop it open, but we got distracted before conducting our plan.
+#
+# We got contacted by Grieshka.
+# And by contacted, I mean that I took prisonner some human that was following
+# me for him.
+# Tortured him.
+# Looks like I'm not good at it, or the demon's influence is too strong.
+# Paola did it, with a gentle touch of cruelty.
+# Seems like the humans aren't as afraid of the death than us elves.
+# Even those whose soul is promised to Chaos Gods…
+#
+# Looks like the demon wants to lure us into a confrontation. 
+# So cute…. 
+# Merien got intel on the demon, looks like it is a disease demon, a minion
+# of Nurgle, so we queried the benediction of the priestesses of Shallya,
+# the human goddess of healing and purity.
+# And let all our possessions to them, as we didn't know if we would come
+# back.
+# Then I took oil and a torch, my bow and sword, and followed Paola to its
+# lair. 
+# It stinked even more than the sewers.
+#
+# While Jean and Paola engaged the demon's followers (and finally the demon
+# itself), I kept myself at bay and fired arrow after arrow on the humans
+# followers then the demon.
+# Seems like nobody likes to get put on fire…
+# I avoided direct contact, and only got hit by some acid projection and
+# very small demon invoked by Grieska, so I should not be infected.
+2016-01-31 [2000] Plague Bearer
+	+ Killing Strike
+	+ Nowhere to hide
+	+ Double Tap
+	+ Assassin Strike

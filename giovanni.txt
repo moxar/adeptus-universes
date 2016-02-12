@@ -1,31 +1,35 @@
 name:   Giovanni Orsini
+race:	Human
 origin: Tilea
 career: Duellist, Noble
 tarot:  VII
 
-WS	35
-BS	38
-STR	36
-TOU	30
-AGI	35
-INT	38
-PER	25
-WIL	27
-FEL	36
+STR	31
+TOU	32
+AGI	38
+INT	32 
+PER	30
+WIL	25
+FEL	37
 
-2016-01-17 Reroll
-	+ [0] defence
-	+ [0] Fate +2
-	+ [0] Weapon Training: Pistols
-	+ [0] Weapon Training: Sword
-	* COR +2  
+# Migration to adeptus v3 gives an extra 1600XP
+2016-01-17 [1600] Reroll
+        + offence
+	+ Fate +2
+	* COR +6
+	* INS +2 
 	* AGI -2
-	
+	+ Weapon training: sword
+	+ Weapon training: pistol
+	+ Weapon Skill
+	+ Ballistic Skill
+	+ Acrobatics
+	+ Ambidextrous
+
 2016-01-17 [7250] First Class
 	+ charm
 	+ AGI +5
 	+ FEL +5
-	+ WS +5
 	+ parry
 	+ dodge
 	+ sound constitution
@@ -38,8 +42,6 @@ FEL	36
 	+ awareness
 	+ deceive
 	+ charm
-	+ BS +5
-	+ WS +5
 	+ TOU +5
 	+ AGI +5
 	+ charm
@@ -60,3 +62,25 @@ FEL	36
 	+ Scrutiny
 	+ Scholastic Lore
 	+ Inquiry
+
+2016-01-31 [2000] Plague Bearer
+	+ weapon skill
+	+ weapon skill
+	+ dodge
+	+ linguistics
+	+ Peer: Nobility
+	+ weapon skill
+	+ Ride
+	+ Stealth
+	+ Common Lore
+	+ Acrobatics
+	+ WIL +5
+	+ AGI +5
+	+ Deceive
+	+ Inquiry
+	* Fate -2
+	+ Sleight of hand
+	+ Command
+	+ Fate +1
+	* COR +2
+	* INS +3

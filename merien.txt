@@ -1,10 +1,9 @@
 name:   Merien
+race:	Human
 origin: Empire
-career: Mage, Grave Robber
+career: Mage, Explorator
 tarot:  III
 
-WS	29
-BS	28
 STR	31
 TOU	35
 AGI	33
@@ -13,11 +12,19 @@ PER	36
 WIL	32
 FEL	28
 
-2015-11-22 [4050] Reroll
-	+ [0] Finesse
-	+ [0] Fate +1
-	+ [0] Weapon Training: Crossbow
-	+ [0] Weapon Training: Sword
+# Migration to adeptus v3 gives an extra 1600XP
+2015-11-22 [5650] Reroll
+# +1 aptitude in:
+#     - "strength"
+#     - "toughness"
+#     - "agility"
+#     - "fellowship"
+#     - "offence"
+#     - "finesse"
+#     - "defence"
+#     - "knowledge"
+#     - "social"
+	+ Fate +2
 	+ INT +5
 	+ WIL +5
 	+ PER +5
@@ -43,6 +50,7 @@ FEL	28
 	* TOU -2
 
 2015-11-22 [1000] To kill a mocking bird
+	* Fate -1
 
 2015-11-29 [1000] Operation Hammerblow
 

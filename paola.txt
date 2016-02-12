@@ -1,25 +1,34 @@
-name: 		Paola Piazzini
-origin: 	Tilea
-career: 	Priest, Footman
-tarot: 		XVIII
+name: 	Paola Piazzini
+race:	Human
+origin: Tilea
+career: Guard, Officer
+tarot: 	XVIII
 
-WS 36
-BS 27
-STR 26
-TOU 38
-AGI 25
-INT 31
-PER 32
-WIL 35
-FEL 38
+STR	31
+TOU	38
+AGI	35
+INT	31
+PER	22
+WIL	35
+FEL	33
 
-2015/06/01 [650] Creation 
-	+ [0] Weapon Training: Spear
-	+ [0] Weapon Training: Thrown
-	+ [0] Fate +1
-	+ WS +5
+# Migration to adeptus v3 gives an extra 1600XP
+2015/06/01 [2250] Creation 
+    + agility
+    + willpower
+	+ Fate +2
 	+ STR +5
 	+ Sound Constitution
+	+ Weapon Training: Sword
+	+ Weapon Training: Spear
+	+ Peer: Imperial Cults
+	+ Weapon Skill
+	+ Dodge
+	+ Charm
+	+ Athletics
+	+ Linguistics
+	+ Command
+	
 
 # The Characters met in a village south of Nuln. Sephiam had been
 # imprisonned by villagers after killing beastmens in the country.
@@ -29,6 +38,7 @@ FEL 38
 	+ TOU +5
 	+ Sound Constitution
 	+ Fate +1
+	* Fate -1
 
 # Willin to tell the authories of the agitation in the south,
 # the characters travel to Nuln. The stop in a small town and meet
@@ -44,21 +54,20 @@ FEL 38
 # the defence of the city. She also has to find some trace of
 # the missing leaders.
 2015/07/01 [400] Travel to Leichberg 
-	+ Physical Resistance: Disease
+	+ Resistance: Disease
 	+ acrobatics
 	+ Fate +2
 
 # In Leichberg, no one takes the characters seriously. They decide to
 # Engage in the milicia and try to lead by example, without success.
 # Nobody respects a kid.
-2015/07/15 [300] Join the milicia 
-	+ WS +5
+2015/07/15 [300] Join the milicia
 
 # A magic pestilence starts in the city. Quarantine is declared. Grichka
 # finds the origin of the pestilence under the temple of Morr and kills
 # the necromancer responsible for it.
 2015/08/01 [550] Pestilence! 
-	+ intimidate
+	+ Intimidate
 	+ Takedown
 	+ FEL +5
 
@@ -67,7 +76,7 @@ FEL 38
 # destruction of it's magic origin, the pestilence grows in Leichberg.
 2015/08/29 [400] Escape Leichberg
 	+ Double Team
-	+ Mental Resistance: Fear
+	+ Resistance: Fear
 
 # Bonus 100XP awarded to Paola for killing a chaosborn
 2015/08/29 [100] Kill of a chaosborn
@@ -80,6 +89,7 @@ FEL 38
 2015/08/29 [800] The priestess, the vampire and the chaosborn 
 	+ Hardy
 	+ WIL +5
+	+ Weapon Skill
 	* INS +2
 
 # The last survivors of the village agree to flee. Two messengers are sent to
@@ -87,10 +97,10 @@ FEL 38
 # survivors unless Aldorf sends some resources. Beside, on of them appears
 # to be a sleeping sorcerer. He gets escorted to Aldorf.
 2015/11/14 [600] Exodus
-	+ deceive
-	+ interrogation
+	+ Deceive
+	+ Interrogation
 	+ Jaded
-	+ Peer: Imperial Cult
+	+ Peer: Imperial Cults
 	* Fate -1
 
 # In Aldorf, the characters receive the order to track and stop Anabella
@@ -100,11 +110,10 @@ FEL 38
 # the basements of the temple of Sigmar. He follows the order of a mysterious
 # beautiful blond young lady, calling herself "Countess"...
 2015/11/22 [1000] To kill a mocking bird
-	+ charm
-	+ command
+	+ Charm
+	+ Command
 	+ FEL +5
-	+ Fate +1
-	+ [100] Bonds of Brotherhood
+	+ Bonds of Brotherhood
 
 # The characters disguise themself to enter the Gentleman's club. Erica
 # happend to be a member of a vampire's sorority. They have influence
@@ -116,9 +125,8 @@ FEL 38
 	+ Sound Constitution
 	+ Killing Strike
 	+ TOU +5
-	+ WS +5
 	+ Parry
-	+ [200] Versatility
+	+ Versatility
 	* COR +4
 
 # Paola is accused by brother Gerard Thulmann of the order of the Silver
@@ -162,3 +170,28 @@ FEL 38
 	+ Medicae
 	+ STR +5
 	+ TOU +5
+
+# Thanks to the engeneering guild, the group explores the sewers with a map. They discover
+# that the acces toward the palace has been locked by a grid, but they beleive the grid not
+# tight enough to prevent skavens from going through. They also spot a brach in the sewers
+# in the other side of the grid. They plan to meld the grid with acid and go through to keep
+# tracking the skavens.
+# In the meantime, Griechka invites Paola and his friends to a trap. She asks Merien to get intel
+# about the demon, and he returns with this information: Griechka has turned into a demon
+# of disease. He is extremely dangerous and the city risks a deadly pandemia. The demon must 
+# be stopped at once. The party seek for Shallya's blessing, then run into the trap, a forsaken inn
+# in the docker district.
+# After a long and exhausting fight, the demon fades out. The whole party is lightly 
+# to grievly wounded, Jean is blinded, and Paola fears contamination. They need SHallya's mercy,
+# but don not want to take the risk that the disease spreads out in the temple.
+2016-01-31 [2000] Plague Bearer
+	+ Sound Constitution
+	+ Adamantium Faith
+	+ Challenge
+	+ Dodge
+	+ Weapon Skill
+	+ AGI +5
+	+ Fate +1
+	* COR +2
+	* INS +4
+	* Fate -1

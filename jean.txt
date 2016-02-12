@@ -1,33 +1,38 @@
-name: 		Jean
-origin: 	Empire
-career: 	Brute, Peasant
-tarot: 		XVI
+name: 	Jean
+race:	Human
+origin: Empire
+career: Brute, Peasant
+tarot: 	XVI
 
-WS 36
-BS 29
-STR 36
-TOU 35
-AGI 36
-INT 23
-PER 26
-WIL 36
-FEL 37
+STR 40
+TOU 38
+AGI 28
+INT 24
+PER 35
+WIL 34
+FEL 26
 
-# Gain of aptitude defence in compensation of strength aquired twice
-2015/06/01 [650] Creation 
-	+ [0] Weapon Training: Mace
-	+ [0] Weapon Training: Bow
-	+ [0] Fate +1
+# Migration to adeptus v3 gives an extra 1600XP
+2015/06/01 [2250] Creation
+	+ toughness
 	+ defence
+	+ Fate +2
 	+ parry
-	+ WS +5
 	+ STR +5
 	+ TOU +5
 	+ Sound Constitution
 	+ Fate +1
+	+ Weapon training: Hammer
+	+ Weapon training: Bow
+	+ weapon skill
+	+ athletics
+	+ intimidate
+	+ Die hard
+	+ Resistance: disease
 	
 2015/06/15 [400] Goblins! 
 	+ Combat Master
+	* Fate -1
 	
 2015/06/21 [400] Vampire! 
 	+ TOU +5
@@ -63,7 +68,6 @@ FEL 37
 	+ Fate +5
 	+ Medicae
 	+ STR +5
-	+ WS +5
 	+ Weapon Training: sword
 	+ Charm
 	* Fate -1
@@ -80,7 +84,7 @@ FEL 37
 	+ Fate +1
 	+ Fate +1
 	+ Acrobatics
-	* INS +12
+	* INS +10
 	* COR +2
 	* Fate -2
 
@@ -96,4 +100,16 @@ FEL 37
 	+ FEL +5
 	+ Brutal assault
 	+ Awareness
-	
+	+ Weapon skill
+
+2016-01-31 [2000] Plague Bearer
+	+ AGI +5
+	* Fate -4
+	+ Fate +4
+	+ Weapon Skill
+	+ Whirlwind of death
+	+ Stealth
+	+ TOU +5
+	* PER -5
+	* COR +2
+	* INS +1
