@@ -177,3 +177,10 @@ FEL 38
 # to grievly wounded, Jean is blinded, and Paola fears contamination. They need SHallya's mercy,
 # but don not want to take the risk that the disease spreads out in the temple.
 2016-01-31 [2000] Plague Bearer
+	+ Sound Constitution
+	+ Adamantium Faith
+	+ Challenge
+	+ Dodge
+	+ Weapon Skill
+	+ AGI +5
+	+ Fate +1
