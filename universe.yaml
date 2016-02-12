@@ -1,7 +1,5 @@
 ---
   aptitudes: 
-    - "weapon skill"
-    - "ballistic skill"
     - "strength"
     - "toughness"
     - "agility"
@@ -18,16 +16,6 @@
     - "social"
     - "general"
   characteristics: 
-    - 
-      name: "WS"
-      aptitudes: 
-        - "weapon skill"
-        - "offence"
-    - 
-      name: "BS"
-      aptitudes: 
-        - "ballistic skill"
-        - "finesse"
     - 
       name: "STR"
       aptitudes: 
@@ -100,6 +88,11 @@
       aptitudes: 
         - "perception"
         - "fieldcraft"
+    - 
+      name: "ballistic skill"
+      aptitudes: 
+        - "perception"
+        - "defence"
     - 
       name: "charm"
       aptitudes: 
@@ -183,7 +176,7 @@
     - 
       name: "parry"
       aptitudes: 
-        - "weapon skill"
+        - "strength"
         - "defence"
     - 
       name: "ride"
@@ -225,129 +218,143 @@
       aptitudes: 
         - "intelligence"
         - "general"
+    - 
+      name: "weapon skill"
+      aptitudes: 
+        - "agility"
+        - "offence"
   backgrounds: 
-    origin: 
-      - 
-        name: "Tilea"
-        upgrades: 
+    race:
+      -
+        name: "Human"
+        upgrades:
           - "general"
-          - "fellowship"
+      -
+        name: "Dwarf"
+        upgrades:
+          - "general"
+          - "AGI -10"
+          - "FEL -10"
+          - "STR +10"
+          - "TOU +10"
+      -
+        name: "Elve"
+        upgrades:
+          - "general"
+          - "AGI +10"
+          - "FEL -10"
+          - "INT +10"
+          - "TOU -10"
+    origin: 
       - 
         name: "Athel Loren"
         upgrades: 
-          - "general"
-          - "agility"
+          - "perception"
       - 
         name: "Empire"
         upgrades: 
-          - "general"
           - "willpower"
+      - 
+        name: "Karak"
+        upgrades: 
+          - "toughness"
       - 
         name: "Kislev"
         upgrades: 
-          - "general"
           - "toughness"
+      - 
+        name: "Naggaroth"
+        upgrades: 
+          - "willpower"
+      - 
+        name: "Tilea"
+        upgrades: 
+          - "fellowship"
+      - 
+        name: "Ulthuan"
+        upgrades: 
+          - "intelligence"
     career: 
       - 
-        name: "Priest"
+        name: "Assassin"
         upgrades: 
-          - "social"
-          - "toughness"
-          - "willpower"
-          - "Peer: Imperial Cult"
-          - "charm"
-          - "linguistics"
-          - "scrutiny"
-      - 
-        name: "Footman"
-        upgrades: 
-          - "weapon skill"
+          - "agility"
           - "offence"
-          - "defence"
-          - "Iron Jaw"
-          - "command"
-          - "athletics"
-          - "parry"
+      - 
+        name: "Bard"
+        upgrades: 
+          - "fellowship"
+          - "knowledge"
       - 
         name: "Brute"
         upgrades: 
           - "strength"
           - "offence"
-          - "weapon skill"
-          - "Die hard"
-          - "intimidate"
-          - "athletics"
-          - "dodge"
+      - 
+        name: "Commoner"
+        upgrades: 
+          - "fellowship"
+          - "social"
+      - 
+        name: "Duellist"
+        upgrades: 
+          - "agility"
+          - "defence"
+      - 
+        name: "Explorator"
+        upgrades: 
+          - "perception"
+          - "fieldcraft"
+      - 
+        name: "Guard"
+        upgrades: 
+          - "toughness"
+          - "defence"
+      - 
+        name: "Investigator"
+        upgrades: 
+          - "perception"
+          - "social"
+      - 
+        name: "Knight"
+        upgrades: 
+          - "willpower"
+          - "defence"
+      - 
+        name: "Mage"
+        upgrades: 
+          - "intelligence"
+          - "mystic"
+      - 
+        name: "Officer"
+        upgrades: 
+          - "fellowship"
+          - "offence"
       - 
         name: "Peasant"
         upgrades: 
           - "strength"
-          - "toughness"
           - "fieldcraft"
-          - "Physical Resistance: Disease"
-          - "survival"
-          - "athletics"
-          - "navigate"
+      - 
+        name: "Priest"
+        upgrades: 
+          - "willpower"
+          - "social"
       - 
         name: "Ranger"
         upgrades: 
-          - "ballistic skill"
-          - "offence"
-          - "fieldcraft"
-          - "Quick Draw"
-          - "stealth"
-          - "awareness"
-          - "navigate"
-      - 
-        name: "Duellist"
-        upgrades: 
-          - "weapon skill"
-          - "finesse"
-          - "agility"
-          - "Ambidextrous"
-          - "acrobatics"
-          - "parry"
-          - "dodge"
-      - 
-        name: "Mage"
-        upgrades: 
-          - "mystic"
-          - "willpower"
-          - "knowledge"
-          - "Sanctionned"
-          - "magic sense"
-          - "forbiden lore"
-          - "logic"
-          - "MR +1"
-      - 
-        name: "Smith"
-        upgrades: 
-          - "intelligence"
-          - "fieldcraft"
           - "strength"
-          - "Never Quit"
-          - "craft"
-          - "athletics"
-          - "logic"
-      - 
-        name: "Grave Robber"
-        upgrades: 
           - "fieldcraft"
-          - "perception"
-          - "intelligence"
-          - "scrutiny"
-          - "navigate"
-          - "linguistics"
-          - "keen intuition"
       - 
-        name: "Noble"
+        name: "Sage"
         upgrades: 
+          - "intelligence"
           - "knowledge"
-          - "weapon skill"
-          - "social"
-          - "command"
-          - "linguistics"
-          - "deceive"
+      - 
+        name: "Thief"
+        upgrades: 
+          - "agility"
+          - "finesse"
     tarot: 
       - 
         name: "I"
@@ -507,8 +514,8 @@
     - 
       name: "Ambidextrous"
       aptitudes: 
-        - "weapon skill"
-        - "ballistic skill"
+        - "agility"
+        - "finesse"
       description: "Reduce penalties for using two weapons."
       tier: 1
     - 
@@ -549,7 +556,7 @@
     - 
       name: "Disarm"
       aptitudes: 
-        - "weapon skill"
+        - "agility"
         - "defence"
       description: "Force opponent to drop weapon."
       tier: 1
@@ -677,7 +684,7 @@
     - 
       name: "Takedown"
       aptitudes: 
-        - "weapon skill"
+        - "strength"
         - "offence"
       description: "Make special attack to stun opponent."
       tier: 1
@@ -705,7 +712,7 @@
     - 
       name: "Combat Master"
       aptitudes: 
-        - "weapon skill"
+        - "strength"
         - "defence"
       description: "Opponents get no bonus for outnumbering the character."
       tier: 2
@@ -726,7 +733,7 @@
     - 
       name: "Counter Attack"
       aptitudes: 
-        - "weapon skill"
+        - "finesse"
         - "defence"
       description: "May attack after successful Parry."
       tier: 2
@@ -740,7 +747,7 @@
     - 
       name: "Devastating Assault"
       aptitudes: 
-        - "weapon skill"
+        - "strength"
         - "offence"
       description: "A successful All Out Attack grants a second attack."
       tier: 2
@@ -782,21 +789,21 @@
     - 
       name: "Hatred"
       aptitudes: 
-        - "weapon skill"
+        - "offence"
         - "social"
       description: "Gain +10 bonus to attack hated creatures."
       tier: 2
     - 
       name: "Hip Shooting"
       aptitudes: 
-        - "ballistic skill"
+        - "perception"
         - "finesse"
       description: "Characters may shoot when moving."
       tier: 2
     - 
       name: "Independent Targeting"
       aptitudes: 
-        - "ballistic skill"
+        - "perception"
         - "finesse"
       description: "Fire at multiple targets more than 10 metres apart."
       tier: 2
@@ -810,7 +817,7 @@
     - 
       name: "Marksman"
       aptitudes: 
-        - "ballistic skill"
+        - "perception"
         - "finesse"
       description: "No penalties for firing at long or extreme range."
       tier: 2
@@ -831,7 +838,7 @@
     - 
       name: "Swift Attack"
       aptitudes: 
-        - "weapon skill"
+        - "agility"
         - "finesse"
       description: "May make multiple melee attacks."
       tier: 2
@@ -852,7 +859,7 @@
     - 
       name: "Whirlwind of Death"
       aptitudes: 
-        - "weapon skill"
+        - "strength"
         - "finesse"
       description: "Make one attack for each melee opponent."
       tier: 2
@@ -866,7 +873,7 @@
     - 
       name: "Assassin Strike"
       aptitudes: 
-        - "weapon skill"
+        - "agility"
         - "fieldcraft"
       description: "After melee attack, test Acrobatics to move."
       tier: 3
@@ -880,14 +887,14 @@
     - 
       name: "Blademaster"
       aptitudes: 
-        - "weapon skill"
+        - "agility"
         - "finesse"
       description: "Reroll missed attack, once per round."
       tier: 3
     - 
       name: "Brutal assault"
       aptitudes: 
-        - "weapon skill"
+        - "strength"
         - "offence"
       description: "A successful All Out Attack grants additional attacks."
       tier: 3
@@ -908,7 +915,7 @@
     - 
       name: "Eye of Vengeance"
       aptitudes: 
-        - "ballistic skill"
+        - "perception"
         - "offence"
       description: "Spend 1 Fate point to increase damage and penetration."
       tier: 3
@@ -950,7 +957,7 @@
     - 
       name: "Lightning Attack"
       aptitudes: 
-        - "weapon skill"
+        - "agility"
         - "finesse"
       description: "Character may make many melee attacks with single roll."
       tier: 3
@@ -999,7 +1006,7 @@
     - 
       name: "Target Selection"
       aptitudes: 
-        - "ballistic skill"
+        - "perception"
         - "finesse"
       description: "May shoot into melee without penalty."
       tier: 3
@@ -1038,7 +1045,7 @@
     - 
       name: "Versatility"
       tier: 2
-      description: "Target gains a talent linked to at least one of these aptitudes: offence, defence, weapon skill, ballistic skill"
+      description: "Target gains a talent linked to at least one of these aptitudes: offence, defence, finesse"
       push: "Apply the normal effect to all friendly characters near the target. Myrmidia know who is designed as \"friendly\""
     - 
       name: "Challenge"

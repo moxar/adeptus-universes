@@ -1,7 +1,5 @@
 name: test
 
-WS	0
-BS	0
 STR	0
 TOU	0
 AGI	0
