@@ -84,3 +84,8 @@ FEL	37
 	+ Fate +1
 	* COR +2
 	* INS +3
+
+2016-02-21 [600] Outcasts
+	* AGI -1
+	* TOU -1
+	* WIL -3

@@ -207,3 +207,9 @@ WIL 32
 	+ Nowhere to hide
 	+ Double Tap
 	+ Assassin Strike
+
+2016-02-21 [600] Outcasts
+	* INT -5
+	* PER -1
+	* WIL -5
+

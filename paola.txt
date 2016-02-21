@@ -195,3 +195,5 @@ FEL	33
 	* COR +2
 	* INS +4
 	* Fate -1
+
+2016-02-21 [600] Outcasts

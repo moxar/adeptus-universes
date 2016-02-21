@@ -113,3 +113,5 @@ FEL 26
 	* PER -5
 	* COR +2
 	* INS +1
+
+2016-02-21 [600] Outcasts
