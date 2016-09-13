@@ -1,0 +1,17 @@
+---
+  aptitudes: 
+    - "strength"
+    - "toughness"
+    - "agility"
+    - "intelligence"
+    - "perception"
+    - "willpower"
+    - "fellowship"
+    - "offense"
+    - "finesse"
+    - "defense"
+    - "knowledge"
+    - "fieldcraft"
+    - "mystic"
+    - "social"
+    - "general"

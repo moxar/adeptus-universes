@@ -1,0 +1,147 @@
+---
+  backgrounds: 
+    career: 
+      - 
+        name: "Assassin"
+        upgrades: 
+          - "agility"
+          - "offense"
+          - "AGI +2"
+          - "PER +2"
+          - "STR -2"
+          - "TOU -2"
+      - 
+        name: "Bard"
+        upgrades: 
+          - "fellowship"
+          - "knowledge"
+          - "INT +2"
+          - "FEL +2"
+          - "STR -2"
+          - "WIL -2"
+      - 
+        name: "Brute"
+        upgrades: 
+          - "strength"
+          - "offense"
+          - "INT -2"
+          - "FEL -2"
+          - "STR +2"
+          - "TOU +2"
+      - 
+        name: "Commoner"
+        upgrades: 
+          - "fellowship"
+          - "social"
+          - "AGI -2"
+          - "FEL +2"
+          - "PER +2"
+          - "WIL -2"
+      - 
+        name: "Duellist"
+        upgrades: 
+          - "agility"
+          - "defense"
+          - "AGI +2"
+          - "PER +2"
+          - "TOU -2"
+          - "WIL -2"
+      - 
+        name: "Explorator"
+        upgrades: 
+          - "perception"
+          - "fieldcraft"
+          - "FEL -2"
+          - "INT +2"
+          - "PER +2"
+          - "STR -2"
+      - 
+        name: "Guard"
+        upgrades: 
+          - "toughness"
+          - "defense"
+          - "FEL -2"
+          - "INT -2"
+          - "PER +2"
+          - "TOU +2"
+      - 
+        name: "Investigator"
+        upgrades: 
+          - "perception"
+          - "social"
+          - "FEL +2"
+          - "INT +2"
+          - "STR -2"
+          - "TOU -2"
+      - 
+        name: "Knight"
+        upgrades: 
+          - "willpower"
+          - "defense"
+          - "AGI -2"
+          - "PER -2"
+          - "TOU +2"
+          - "WIL +2"
+      - 
+        name: "Mage"
+        upgrades: 
+          - "intelligence"
+          - "mystic"
+          - "INT +2"
+          - "PER -2"
+          - "TOU -2"
+          - "WIL +2"
+      - 
+        name: "Officer"
+        upgrades: 
+          - "fellowship"
+          - "offense"
+          - "FEL +2"
+          - "INT +2"
+          - "PER -2"
+          - "TOU -2"
+      - 
+        name: "Peasant"
+        upgrades: 
+          - "strength"
+          - "fieldcraft"
+          - "INT -2"
+          - "STR +2"
+          - "TOU +2"
+          - "WIL -2"
+      - 
+        name: "Priest"
+        upgrades: 
+          - "willpower"
+          - "social"
+          - "AGI -2"
+          - "FEL +2"
+          - "PER -2"
+          - "WIL +2"
+      - 
+        name: "Ranger"
+        upgrades: 
+          - "strength"
+          - "fieldcraft"
+          - "FEL -2"
+          - "INT -2"
+          - "PER +2"
+          - "STR +2"
+      - 
+        name: "Sage"
+        upgrades: 
+          - "intelligence"
+          - "knowledge"
+          - "INT +2"
+          - "TOU -2"
+          - "STR -2"
+          - "WIL +2"
+      - 
+        name: "Thief"
+        upgrades: 
+          - "agility"
+          - "finesse"
+          - "AGI +2"
+          - "PER +2"
+          - "TOU -2"
+          - "WIL -2"

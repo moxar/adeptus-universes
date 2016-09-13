@@ -1,0 +1,147 @@
+---
+  skills: 
+    - 
+      name: "acrobatics"
+      aptitudes: 
+        - "agility"
+        - "general"
+    - 
+      name: "athletics"
+      aptitudes: 
+        - "strength"
+        - "general"
+    - 
+      name: "awareness"
+      aptitudes: 
+        - "perception"
+        - "general"
+    - 
+      name: "ballistic skill"
+      aptitudes: 
+        - "perception"
+        - "offense"
+    - 
+      name: "charm"
+      aptitudes: 
+        - "fellowship"
+        - "general"
+    - 
+      name: "command"
+      aptitudes: 
+        - "fellowship"
+        - "social"
+    - 
+      name: "commerce"
+      aptitudes: 
+        - "fellowship"
+        - "social"
+    - 
+      name: "common lore"
+      aptitudes: 
+        - "fellowship"
+        - "knowledge"
+    - 
+      name: "craft"
+      aptitudes: 
+        - "intelligence"
+        - "finesse"
+    - 
+      name: "deceive"
+      aptitudes: 
+        - "fellowship"
+        - "social"
+    - 
+      name: "dodge"
+      aptitudes: 
+        - "agility"
+        - "defense"
+    - 
+      name: "forbidden lore"
+      aptitudes: 
+        - "willpower"
+        - "knowledge"
+    - 
+      name: "inquiry"
+      aptitudes: 
+        - "fellowship"
+        - "social"
+    - 
+      name: "interrogation"
+      aptitudes: 
+        - "willpower"
+        - "social"
+    - 
+      name: "intimidate"
+      aptitudes: 
+        - "strength"
+        - "social"
+    - 
+      name: "linguistics"
+      aptitudes: 
+        - "intelligence"
+        - "general"
+    - 
+      name: "logic"
+      aptitudes: 
+        - "intelligence"
+        - "knowledge"
+    - 
+      name: "magic sense"
+      aptitudes: 
+        - "perception"
+        - "mystic"
+    - 
+      name: "medicae"
+      aptitudes: 
+        - "intelligence"
+        - "fieldcraft"
+    - 
+      name: "navigate"
+      aptitudes: 
+        - "intelligence"
+        - "fieldcraft"
+    - 
+      name: "parry"
+      aptitudes: 
+        - "strength"
+        - "defense"
+    - 
+      name: "power"
+      aptitudes: 
+        - "willpower"
+        - "mystic"
+    - 
+      name: "ride"
+      aptitudes: 
+        - "agility"
+        - "fieldcraft"
+    - 
+      name: "scholastic lore"
+      aptitudes: 
+        - "intelligence"
+        - "knowledge"
+    - 
+      name: "scrutiny"
+      aptitudes: 
+        - "perception"
+        - "fieldcraft"
+    - 
+      name: "sleight of hand"
+      aptitudes: 
+        - "agility"
+        - "finesse"
+    - 
+      name: "stealth"
+      aptitudes: 
+        - "agility"
+        - "fieldcraft"
+    - 
+      name: "survival"
+      aptitudes: 
+        - "perception"
+        - "fieldcraft"
+    - 
+      name: "weapon skill"
+      aptitudes: 
+        - "agility"
+        - "offense"

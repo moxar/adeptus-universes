@@ -1,0 +1,37 @@
+---
+  characteristics: 
+    - 
+      name: "STR"
+      aptitudes: 
+        - "strength"
+        - "offense"
+    - 
+      name: "TOU"
+      aptitudes: 
+        - "toughness"
+        - "defense"
+    - 
+      name: "AGI"
+      aptitudes: 
+        - "agility"
+        - "finesse"
+    - 
+      name: "INT"
+      aptitudes: 
+        - "intelligence"
+        - "knowledge"
+    - 
+      name: "PER"
+      aptitudes: 
+        - "perception"
+        - "fieldcraft"
+    - 
+      name: "WIL"
+      aptitudes: 
+        - "willpower"
+        - "mystic"
+    - 
+      name: "FEL"
+      aptitudes: 
+        - "fellowship"
+        - "social"

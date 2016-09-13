@@ -1,0 +1,173 @@
+---
+  talents: 
+    - 
+      name: "Ambidextrous"
+      aptitudes: 
+        - "agility"
+        - "finesse"
+      description: "Negates the off-hand penalty."
+      tier: 1
+    - 
+      name: "Arcane Sense"
+      aptitudes: 
+        - "perception"
+        - "mystic"
+      description: "Can reroll failed magic sense roll, with a penalty of -10."
+      tier: 1
+    - 
+      name: "Catfall"
+      aptitudes: 
+        - "agility"
+        - "fieldcraft"
+      description: "Reduce falling damage by AGI bonus."
+      tier: 1
+    - 
+      name: "Clues from the Crowds"
+      aptitudes: 
+        - "general"
+        - "social"
+      description: "Can re-roll a test made to gather information from a group."
+      tier: 1
+    - 
+      name: "Coordinated Interrogation"
+      aptitudes: 
+        - "fellowship"
+        - "social"
+      description: "+10 bonus to all Interrogate tests, additional +5 for others who also have Coordinated Interrogation."
+      tier: 1
+    - 
+      name: "Disarm"
+      aptitudes: 
+        - "agility"
+        - "defense"
+      description: "Eliminates penalty for disarm attempt."
+      tier: 1
+    - 
+      name: "Enemy"
+      aptitudes: 
+        - "general"
+        - "social"
+      description: "Suffer -10 to all social interaction checks witht he organization."
+      tier: 1
+      stackable: true
+    -
+      name: "Fleet foot"
+      aptitudes: 
+        - "general"
+        - "agility"
+      description: "Improves move speed by 1."
+      tier: 1
+    -
+      name: "Improved Aim"
+      aptitudes:
+        - "finesse"
+        - "perception"
+      description: "Increases Aim bonus by +5."
+      tier: 1
+    -
+      name: "Improved Careful Attack"
+      aptitudes:
+        - "defense"
+        - "perception"
+      description: "Increases careful attack penality to enemies by 10."
+      tier: 1
+    -
+      name: "Improved Reckless Attack"
+      aptitudes:
+        - "offense"
+        - "strength"
+      description: "Increases Reckless attack bonus to hit by +10."
+      tier: 1
+    - 
+      name: "Jaded"
+      aptitudes: 
+        - "willpower"
+        - "defense"
+      description: "Ignore mundane horrors."
+      tier: 1
+    - 
+      name: "Keen Intuition"
+      aptitudes: 
+        - "perception"
+        - "social"
+      description: "Can retry Awareness test once with –10 modifier."
+      tier: 1
+    - 
+      name: "Leap Up"
+      aptitudes: 
+        - "agility"
+        - "general"
+      description: "Stand as a Free Action."
+      tier: 1
+    - 
+      name: "Never Quit"
+      aptitudes: 
+        - "toughness"
+        - "defense"
+      description: "The toughness bonus counts as two level higher for fatigue thresholds."
+      tier: 1
+    - 
+      name: "Nowhere to Hide"
+      aptitudes: 
+        - "perception"
+        - "offense"
+      description: "Add DoS to cover value with range attack."
+      tier: 1
+    - 
+      name: "Peer"
+      aptitudes: 
+        - "fellowship"
+        - "social"
+      description: "Gain +10 to all social interaction checks witht he organization."
+      tier: 1
+      stackable: true
+    - 
+      name: "Quick Draw"
+      aptitudes: 
+        - "agility"
+        - "fieldcraft"
+      description: "Draw one weapon per round as a Free Action."
+      tier: 1
+    - 
+      name: "Rapid Reload"
+      aptitudes: 
+        - "agility"
+        - "fieldcraft"
+      description: "Reduce reload time by one action."
+      tier: 1
+    - 
+      name: "Resistance"
+      aptitudes: 
+        - "general"
+        - "defense"
+      description: "Gain +10 bonus to particular resistance test."
+      tier: 1
+    - 
+      name: "Sound Constitution"
+      aptitudes: 
+        - "general"
+        - "defense"
+      description: "Gain two additional wounds in each location."
+      tier: 1
+      stackable: true
+    - 
+      name: "Specialist"
+      aptitudes: 
+        - "general"
+        - "knowledge"
+      description: "Can roll knowledge tests without penalties against the given domain."
+      tier: 1
+    - 
+      name: "Takedown"
+      aptitudes: 
+        - "strength"
+        - "offense"
+      description: "Remove penalty for trip and stun attempts."
+      tier: 1
+    - 
+      name: "Weapon Training"
+      aptitudes: 
+        - "general"
+        - "finesse"
+      description: "Use weapon group without penalty."
+      tier: 1

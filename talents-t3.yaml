@@ -1,0 +1,100 @@
+---
+  talents: 
+    - 
+      name: "Adamantium Faith"
+      aptitudes: 
+        - "willpower"
+        - "defense"
+      description: "Reduces DoF by WIL bonus from failed Pinning and Fear tests."
+      tier: 3
+    - 
+      name: "Battle rage"
+      aptitudes: 
+        - "strength"
+        - "defense"
+      description: "May parry while in frenzy. Can reroll failed willpower tests to snap out of frenezy."
+      tier: 3
+    - 
+      name: "Bastion of Iron Will"
+      aptitudes: 
+        - "willpower"
+        - "mystic"
+      description: "Gain +20 bonus for opposed tests against magic attacks."
+      tier: 3
+    - 
+      name: "Deathdealer"
+      aptitudes: 
+        - "perception"
+        - "finesse"
+      description: "Add PER bonus to damage for the definition of the effect."
+      tier: 3
+    - 
+      name: "Deny the Witch"
+      aptitudes: 
+        - "willpower"
+        - "defense"
+      description: "Can always test WIL to completely avoid any magical attack."
+      tier: 3
+    - 
+      name: "Eye of Vengeance"
+      aptitudes: 
+        - "perception"
+        - "offense"
+      description: "Spend one fatigue point to increase damage and penetration by 2."
+      tier: 3
+    - 
+      name: "Gang"
+      aptitudes: 
+        - "general"
+        - "offense"
+      description: "Give another +10 to outnumbering allies."
+      tier: 3
+    - 
+      name: "Greater Two Weapon Fighting"
+      aptitudes: 
+        - "agility"
+        - "offense"
+      description: "Reduce the two weapon penalty by another 10 (cumulative)."
+      tier: 3
+    - 
+      name: "Halo of Command"
+      aptitudes: 
+        - "fellowship"
+        - "social"
+      description: "Allies may use the character's willpower agains fear."
+      tier: 3
+    - 
+      name: "Improved Backstrike"
+      aptitudes: 
+        - "agility"
+        - "offense"
+      description: "Backstrike attacks are tearing."
+      tier: 3
+    - 
+      name: "Improved Lightning Attack"
+      aptitudes: 
+        - "agility"
+        - "finesse"
+      description: "Reduce the penalty for lightning attack by 20."
+      tier: 3
+    - 
+      name: "Infused Knowledge"
+      aptitudes: 
+        - "intelligence"
+        - "knowledge"
+      description: "Can reroll any failed knowledge test. Specialist gives an additionnal +10 on knowledge test."
+      tier: 3
+    - 
+      name: "Superior Chirurgeon"
+      aptitudes: 
+        - "intelligence"
+        - "fieldcraft"
+      description: "Treats wounds one degree lighter for medicae tests."
+      tier: 3
+    - 
+      name: "True Grit"
+      aptitudes: 
+        - "toughness"
+        - "defense"
+      description: "Reduce TOU bonus to damage for the definition of the effect."
+      tier: 3

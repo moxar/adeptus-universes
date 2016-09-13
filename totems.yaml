@@ -1,0 +1,51 @@
+---
+  backgrounds: 
+    totem: 
+      - 
+        name: "minotaure"
+        upgrades:
+          - "general"
+          - "strength"
+          - "AGI -2"
+          - "FEL +0"
+          - "INT -4"
+          - "PER +2"
+          - "STR +6"
+          - "TOU +4"
+          - "WIL +0"
+      - 
+        name: "lion"
+        upgrades: 
+          - "general"
+          - "fellowship"
+          - "AGI +2"
+          - "FEL +6"
+          - "INT +4"
+          - "PER -4"
+          - "STR +0"
+          - "TOU -4"
+          - "WIL +0"
+      - 
+        name: "dragon"
+        upgrades: 
+          - "general"
+          - "willpower"
+          - "AGI +4"
+          - "FEL -6"
+          - "INT +2"
+          - "PER +0"
+          - "STR +0"
+          - "TOU -2"
+          - "WIL +6"
+      - 
+        name: "griffon"
+        upgrades: 
+          - "general"
+          - "willpower"
+          - "AGI +0"
+          - "FEL -2"
+          - "INT -2"
+          - "PER +4"
+          - "STR -4"
+          - "TOU +4"
+          - "WIL +4"
