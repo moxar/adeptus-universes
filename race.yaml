@@ -1,0 +1,14 @@
+---
+  backgrounds:
+    race:
+      -
+        name: "goblin"
+        upgrades:
+          - "general"
+          - "agility"
+          - "STR -6"
+          - "TOU -4"
+          - "AGI +4"
+          - "INT +2"
+          - "WIL -2"
+          - "FEL +2"

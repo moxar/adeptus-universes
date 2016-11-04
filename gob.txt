@@ -1,0 +1,19 @@
+name: gobelin pirate
+career: ranger
+race: goblin
+
+AGI 30
+FEL 30
+INT 30
+PER 30
+STR 30
+TOU 30
+WIL 30
+
+2106-11-04 Base [1250]
+    + weapon training: sword
+    + weapon skill
+    + dodge
+    + AGI +5
+    + STR +5
+    + Fleet Foot

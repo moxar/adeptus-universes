@@ -1,0 +1,14 @@
+# JC
+name: Brutos 8000
+career: Brute, Ranger
+totem: Minotaure
+
+AGI 20
+FEL 20
+INT 20
+PER 20
+STR 20
+TOU 20
+WIL 20
+
+2016-11-04 Creation [4000]
