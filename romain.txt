@@ -1,0 +1,14 @@
+# Romain
+name: Gros
+career: Commoner, peasant
+totem: lion
+
+STR 20
+TOU 20
+AGI 20
+INT 20
+PER 20
+WIL 20
+FEL 20
+
+2016-11-04 Creation [4000]

@@ -100,13 +100,6 @@
       description: "Stand as a Free Action."
       tier: 1
     - 
-      name: "Never Quit"
-      aptitudes: 
-        - "toughness"
-        - "defense"
-      description: "The toughness bonus counts as two level higher for fatigue thresholds."
-      tier: 1
-    - 
       name: "Nowhere to Hide"
       aptitudes: 
         - "perception"
@@ -147,7 +140,7 @@
       aptitudes: 
         - "general"
         - "defense"
-      description: "Gain two additional wounds in each location."
+      description: "Gain two additional wounds in each location, and ignores additionnal 1 fatigue point."
       tier: 1
       stackable: true
     - 
@@ -156,6 +149,14 @@
         - "general"
         - "knowledge"
       description: "Can roll knowledge tests without penalties against the given domain."
+      tier: 1
+    - 
+      name: "Scribe Scroll"
+      aptitudes: 
+        - "intelligence"
+        - "mystic"
+      description: "Can store spell in scroll. To use a scroll, the character must speak the
+      proper language and pass a lingustics check."
       tier: 1
     - 
       name: "Takedown"
