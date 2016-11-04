@@ -49,3 +49,15 @@
           - "STR -4"
           - "TOU +4"
           - "WIL +4"
+      - 
+        name: "sanglier"
+        upgrades: 
+          - "general"
+          - "toughness"
+          - "AGI -4"
+          - "FEL -2"
+          - "INT +4"
+          - "PER +0"
+          - "STR +2"
+          - "TOU +6"
+          - "WIL +0"
