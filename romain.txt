@@ -1,14 +1,47 @@
 # Romain
-name: Gros
-career: Commoner, peasant
-totem: lion
+name: x
+career: Mage, Duellist
+totem: Scorpion
 
-STR 20
-TOU 20
-AGI 20
-INT 20
-PER 20
-WIL 20
-FEL 20
+AGI	33
+FEL	33
+INT	31
+PER	30
+STR	30
+TOU	31
+WIL	32
 
 2016-11-04 Creation [4000]
+	+ acrobatics
+	+ charm
+	+ dodge
+	+ linguistics
+	+ weapon training: swords
+	+ power
+	+ AGI +5
+	+ FEL +5
+	+ INT +5
+	+ TOU +5
+	+ WIL +5
+	+ athletics
+	+ awareness
+	+ command
+	+ deceive
+	+ common lore
+	+ logic
+	+ magic sense
+	+ scholastic lore
+	+ weapon skill
+	+ parry
+	+ sound constitution
+	+ STR +5
+	+ Influence
+	+ Celerity
+	
+# GEAR
+# 1 eternal darkness gem 	10 gc
+# 3 darkness gems			03 gc
+# 5 air gems				05 gc
+# rapier (short sword)		18 gc
+# dagger					05 gc
+#							04 gc
