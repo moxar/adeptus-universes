@@ -2,6 +2,18 @@
   backgrounds: 
     totem: 
       - 
+        name: "araignée"
+        upgrades:
+          - "general"
+          - "agility"
+          - "AGI +4"
+          - "FEL -2"
+          - "INT +2"
+          - "PER +4"
+          - "STR -2"
+          - "TOU -2"
+          - "WIL +2"
+      - 
         name: "minotaure"
         upgrades:
           - "general"

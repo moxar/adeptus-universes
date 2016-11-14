@@ -1,0 +1,50 @@
+# Bastien
+name: x
+career: Mage, Thief
+totem: Araignée
+
+AGI	33
+FEL	28
+INT	31
+PER	31
+STR	28
+TOU	34
+WIL	35
+
+# You have fled the forest of Ashinân and wondered in the Barhan realms. The closest
+# city is Laverne, and the shire of Cormaeryn is on the way.
+2016-11-04 Creation [4000]
+	+ perception
+	+ acrobatics
+	+ awareness
+	+ linguistics
+	+ magic sense
+	+ sleight of hand
+	+ craft
+	+ AGI +5
+	+ athletics
+	+ ballistic skill
+	+ weapon training: crossbow
+	+ dodge
+	+ power
+	+ scrutiny
+	+ stealth
+	+ fleet foot
+	+ leap up
+	+ TOU +5
+	+ Sound Constitution
+	+ STR +5
+	+ Rapid Reload
+	+ stealth
+	+ PER +5
+	+ Minor invisibility
+	+ Minor illusion
+	
+# GEAR
+# 1 poor quality crossbow   17gc 5sc
+# 1 eternal water gem		10gc
+# 2 queavers of bolt		02gc
+# backpack					00gc 6sc
+# travel food x3			00gc 3sc
+# 10 water gems				10gc
+#							04gc 9sc

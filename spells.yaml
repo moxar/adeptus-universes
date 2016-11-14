@@ -6,3 +6,10 @@
     -
       name: "Celerity"
       description: "RNG 6, COST *, Air. Target gains +10 AGI for one round per mana spent."
+    -
+      name: "Minor invisibility"
+      description: "RNG 6, COST *, Water. Target disapears for one round per mana spent. Any
+      action that influences the environment breaks the spell."
+    -
+      name: "Minor illusion"
+      description: "RNG 8, COST *, Water. Creates a moving illusion of the character. The illusion can follow a predefined script. Lasts one minute per mana spent."
