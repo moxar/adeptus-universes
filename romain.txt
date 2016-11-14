@@ -42,9 +42,9 @@ WIL	32
 	+ Celerity
 	
 # GEAR
-# 1 eternal darkness gem 	10 gc
-# 3 darkness gems			03 gc
-# 5 air gems				05 gc
-# rapier (short sword)		18 gc
-# dagger					05 gc
-#							04 gc
+# 1 eternal darkness gem
+# 3 darkness gems
+# 5 air gems
+# rapier (short sword)
+# dagger
+# 04 gc

@@ -41,10 +41,11 @@ WIL	35
 	+ Minor illusion
 	
 # GEAR
-# 1 poor quality crossbow   17gc 5sc
-# 1 eternal water gem		10gc
-# 2 queavers of bolt		02gc
-# backpack					00gc 6sc
-# travel food x3			00gc 3sc
-# 10 water gems				10gc
-#							04gc 9sc
+# 1 poor quality crossbow
+# 1 eternal water gem
+# 2 queavers of bolt
+# 10 water gems
+# handy bag (enc 7/14)
+# 3 travel food
+# small pouch (enc 5/10)
+# 04gc 9sc
