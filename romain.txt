@@ -11,6 +11,9 @@ STR	30
 TOU	31
 WIL	32
 
+# You have been sent by your patron to remind the Baron of Laverne or his steward
+# a scealed letter. The road to Laverne leads you to a village of 200 souls 
+# next to the castle of the Count of Cormaeryn.
 2016-11-04 Creation [4000]
 	+ acrobatics
 	+ charm

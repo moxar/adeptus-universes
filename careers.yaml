@@ -20,6 +20,15 @@
           - "STR -2"
           - "WIL -2"
       - 
+        name: "Bandit"
+        upgrades: 
+          - "perception"
+          - "offense"
+          - "STR +2"
+          - "PER +2"
+          - "WIL -2"
+          - "FEL -2"
+      - 
         name: "Brute"
         upgrades: 
           - "strength"

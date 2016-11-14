@@ -1,0 +1,64 @@
+# MOB
+name: bandit
+career: Bandit
+totem: Lion
+
+AGI	30
+FEL	30
+INT	30
+PER	30
+STR	30
+TOU	30
+WIL	30
+
+2016-11-04 Creation
+	+ weapon training: axes
+	+ weapon training: maces
+	+ weapon skill
+	+ parry
+	+ intimidate
+	+ perception
+	+ stealth
+	+ awareness
+	+ athletics
+	+ deceive
+	+ scrutiny
+	+ navigate
+	
+# GEAR
+# poor craftsmanship clothes
+# 
+# bandit 1:
+# poor craftsmanship mace (heavy club): 
+#   D10 + STR
+#   -5% weapon skill
+#   concussive: inflicts one fatigue if damage roll is 8+
+# damaged leather glothe
+# 08 silver pieces
+# 13 copper pieces
+# 
+# bandit 3:
+# poor craftsmanship mace (heavy club): 
+#   D10 + STR
+#   -5% weapon skill
+#   concussive: inflicts one fatigue if damage roll is 8+
+# damaged craftsmanship leather hoody
+# 06 silver pieces
+# 10 copper pieces
+# 
+# bandit 3:
+# poor craftsmanship axe: 
+#   D10 + STR
+#   -5% weapon skill
+#   pen 1
+# 15 silver pieces
+# 3 copper pieces
+#
+# bandit 4:
+# poor craftsmanship sword: 
+#   D10 + STR
+# damaged leather pants
+# 1 gold piece
+# 7 silver pieces
+# 8 copper pieces
+# this bandit also has command and Sound Constitution 2
