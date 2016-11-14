@@ -17,7 +17,6 @@ WIL	30
 	+ weapon skill
 	+ parry
 	+ intimidate
-	+ perception
 	+ stealth
 	+ awareness
 	+ athletics

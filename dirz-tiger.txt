@@ -1,0 +1,34 @@
+name: dirz tiger
+
+AGI	47
+FEL	12
+INT	17
+PER	36
+STR	53
+TOU	28
+WIL	42
+
+2016-11-13 Creation
+    + weapon training: claw (D10 + STR -3, slashing)
+    + weapon training: bite (D10 + STR, piercing)
+    + exclusive (cannot use claws and bite on the same turn)
+    + natural armor 1
+    + weapon skill
+    + dodge
+    + stealth
+    + awareness
+    + scrutiny
+    + navigate
+    + survival
+    + acrobatics
+    + athletics
+    + intimidate
+    + quadrupedic (SPD is doubled)
+    + ambidextrous
+    + improved two weapon fighting
+    + sound constitution
+    + sound constitution
+    + sound constitution
+    + sound constitution
+    + sound constitution
+    + sound constitution
