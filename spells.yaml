@@ -1,14 +1,5 @@
 ---
   spells: 
-    - 
-      name: "Sanction"
-      description: "Increases the DoF or damages taken by target as a reaction."
-    - 
-      name: "Primal fire burst"
-      description: "Deals minor fire damage to the target."
-    - 
-      name: "Fervor Wave"
-      description: "Daze targets nearby, or stuns them if they fail an opposed WIL test."
     -
       name: "Influence"
       description: "RNG 6, COST 2, Darkeness. Target must pass a WIL test opposed to the casting's test. If it fails, the caster forces the target to take one action of his choice. The target looses one action on his next turn. After that, the target is immune to influence for 10 secs (2 rounds)."
