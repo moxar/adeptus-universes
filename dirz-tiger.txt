@@ -1,17 +1,15 @@
 name: dirz tiger
 
-AGI	47
+AGI	52
 FEL	12
 INT	17
 PER	36
-STR	53
+STR	43
 TOU	28
 WIL	42
 
 2016-11-13 Creation
-    + weapon training: claw (D10 + STR -3, slashing)
-    + weapon training: bite (D10 + STR, piercing)
-    + exclusive (cannot use claws and bite on the same turn)
+    + weapon training: claw & bite (D10 + STR, slashing)
     + natural armor 1
     + weapon skill
     + dodge
@@ -30,5 +28,8 @@ WIL	42
     + sound constitution
     + sound constitution
     + sound constitution
-    + sound constitution
-    + sound constitution
+
+# All Out:     2x72  1D10+4 slashing (aim +, reckless +, single +, 2WW -)
+# Charge: 10'  2x62  1D10+4 slashing (reckless +, single +, 2WW -)
+# Attack:      2x62  1D10+4 slashing (aim +, single +, 2WW -)
+# Dodge:       3x52  DR 3
