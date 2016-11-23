@@ -1,5 +1,5 @@
 # Edwin
-name: x
+name: Marcus
 career: Bandit, Ranger
 totem: Griffon
 
@@ -38,6 +38,13 @@ WIL	30
 	+ acrobatics
 	+ STR +5
 	+ keen intuition
+	
+2016-11-23 Promenons nous dans les bois... [1250]
+	+ Sound constitution
+	+ TOU +5
+	+ survival
+	+ ride
+	+ parry
 	
 # GEAR
 #	+ 6 poor quality daggers

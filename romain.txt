@@ -1,5 +1,5 @@
 # Romain
-name: x
+name: Celia Sahir
 career: Mage, Duellist
 totem: Scorpion
 
@@ -38,8 +38,16 @@ WIL	32
 	+ parry
 	+ sound constitution
 	+ STR +5
-	+ Influence
-	+ Celerity
+	+ influence
+	+ celerity
+	
+2016-11-23 Promenons nous dans les bois... [1250]
+	+ parry
+	+ inquiry
+	+ ride
+	+ navigate
+	+ sound Constitution
+	+ survival
 	
 # GEAR
 # 1 eternal darkness gem

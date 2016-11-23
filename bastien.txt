@@ -40,6 +40,13 @@ WIL	35
 	+ Minor invisibility
 	+ Minor illusion
 	
+2016-11-23 Promenons nous dans les bois... [1250]
+	+ survival
+	+ ballistic skill
+	+ target selection
+	+ sound constitution
+
+	
 # GEAR
 # 1 poor quality crossbow
 # 1 eternal water gem
