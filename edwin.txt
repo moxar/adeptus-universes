@@ -1,0 +1,55 @@
+# Edwin
+name: x
+career: Bandit, Ranger
+totem: Griffon
+
+AGI	30
+FEL	30
+INT	34
+PER	33
+STR	31
+TOU	32
+WIL	30
+
+# You have been sentenced to galleas for the killing of an innocent man. A violent
+# storm shattered your boat and you merely survived, drifting on the Barhan shore.
+# You are now heading to Laverne to get back to your wife. The shire of Cormaeryn
+# is on the way.
+2016-11-04 Creation [4000]
+	+ weapon training: thrown
+	+ weapon training: maces
+	+ ballistic skill
+	+ awareness
+	+ athletics
+	+ scrutiny
+	+ survival
+	+ intimidate
+	+ navigate
+	+ medicae
+	+ stealth
+	+ weapon skill
+	+ dodge
+	+ PER +5
+	+ commerce
+	+ sleight of hand
+	+ takedown
+	+ Sound Constitution
+	+ Sound Constitution
+	+ acrobatics
+	+ STR +5
+	+ keen intuition
+	
+# GEAR
+#	+ 6 poor quality daggers
+#	+ poor quality leather chest
+#	+ poor quality leather hoody
+#	+ mace
+#	+ poor quality midikit tool
+# 	+ water skin
+# 	+ 3 travel food
+#   + rope (6m)
+#   + handy bag (enc 7/14)
+#   + 1g gc
+#	+ 20 sc
+#	+ 80 cc
+	

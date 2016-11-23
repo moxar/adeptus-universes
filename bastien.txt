@@ -1,5 +1,5 @@
 # Bastien
-name: x
+name: Ver Gris
 career: Mage, Thief
 totem: Araignée
 
