@@ -53,7 +53,7 @@
         name: "griffon"
         upgrades: 
           - "general"
-          - "willpower"
+          - "toughness"
           - "AGI +0"
           - "FEL -2"
           - "INT -2"
