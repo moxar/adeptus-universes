@@ -49,6 +49,8 @@ WIL	32
 	+ sound Constitution
 	+ survival
 	
+2016-12-05 Dans la gueule du loup [2000]
+	
 # GEAR
 # 1 eternal darkness gem
 # 3 darkness gems

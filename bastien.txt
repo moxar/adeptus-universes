@@ -45,6 +45,8 @@ WIL	35
 	+ ballistic skill
 	+ target selection
 	+ sound constitution
+	
+2016-12-05 Dans la gueule du loup [2000]
 
 	
 # GEAR

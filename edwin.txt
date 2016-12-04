@@ -46,6 +46,8 @@ WIL	30
 	+ ride
 	+ parry
 	
+2016-12-05 Dans la gueule du loup [2000]	
+	
 # GEAR
 #	+ 6 poor quality daggers
 #	+ poor quality leather chest
