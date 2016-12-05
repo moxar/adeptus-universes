@@ -5,7 +5,7 @@
       aptitudes: 
         - "willpower"
         - "defense"
-      description: "Reduces DoF by WIL bonus from failed Pinning and Fear tests."
+      description: "The character never looses control as result of fear (but still suffers the other penalties, or death)."
       tier: 3
     - 
       name: "Battle rage"
@@ -50,13 +50,6 @@
       description: "Give another +10 to outnumbering allies."
       tier: 3
     - 
-      name: "Greater Two Weapon Fighting"
-      aptitudes: 
-        - "agility"
-        - "offense"
-      description: "Reduce the two weapon penalty by another 10 (cumulative)."
-      tier: 3
-    - 
       name: "Halo of Command"
       aptitudes: 
         - "fellowship"
@@ -71,11 +64,11 @@
       description: "Backstrike attacks are tearing."
       tier: 3
     - 
-      name: "Improved Lightning Attack"
+      name: "Lightning Attack"
       aptitudes: 
         - "agility"
         - "finesse"
-      description: "Reduce the penalty for lightning attack by 20."
+      description: "The character can lightning attack (make two additional attacks but suffer -20 HIT penalty)."
       tier: 3
     - 
       name: "Infused Knowledge"

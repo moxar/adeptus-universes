@@ -1,11 +1,18 @@
 ---
   talents: 
     - 
+      name: "Brew potion"
+      aptitudes: 
+        - "intelligence"
+        - "mystic"
+      description: "The character can infuse magic in potions."
+      tier: 2
+    - 
       name: "Frenzy"
       aptitudes: 
         - "strength"
         - "offense"
-      description: "As a combat action, character enters frenezy (+10STR, +10 TOU, +10 WIL, -10 INT, -10 PER, -10 FEL), must attack each round if available. If no enemy is at combat reach, the character must attempt a charge. If no enemy can be found, the character must attack the nearest ally of its choice. The character may test WIL to snap out of frenezy. Each consecutive attempt gains a +10 bonus. A frenezied character cannot dodge.)"
+      description: "As a combat action, character enters frenezy (+10STR, +10 TOU, +10 WIL, -10 INT, -10 PER, -10 FEL), must attack each round if available. If no enemy is at combat reach, the character must attempt a charge. If no enemy can be found, the character must attack the nearest ally of its choice. The character may test WIL to snap out of frenezy. Each consecutive attempt gains a +10 bonus. A frenezied character cannot parry.)"
       tier: 2
     - 
       name: "Blind Fighting"
@@ -40,14 +47,14 @@
       aptitudes: 
         - "perception"
         - "defense"
-      description: "Can use Per or Int instead of Agi for Initiative rolls, and rolls two dice (picking higher) for the result."
+      description: "Can use PER, INT or AGI for Initiative rolls, and rolls two dice (picking higher) for the result."
       tier: 2
     - 
       name: "Counter Attack"
       aptitudes: 
         - "finesse"
         - "defense"
-      description: "May attempt a dodge or parry with -20 penalty. If the attack is completely avoided, a freestrike is awarded."
+      description: "May attempt a dodge or parry with -20 penalty. If the attack is completely avoided, the character can spend a reaction to make a frestrike."
       tier: 2
     - 
       name: "Die hard"
@@ -57,13 +64,6 @@
       description: "Test Willpower to avoid Fatigue from Blood Loss."
       tier: 2
     - 
-      name: "Double Tap"
-      aptitudes: 
-        - "finesse"
-        - "offense"
-      description: "If the character hits with a weapon, he gains a +10 bonus to hit with another weapon during the same round."
-      tier: 2
-    - 
       name: "Double Team"
       aptitudes: 
         - "general"
@@ -71,25 +71,11 @@
       description: "Gain additional +10 for outnumbering opponent."
       tier: 2
     - 
-      name: "Exotic Weapon Training"
-      aptitudes: 
-        - "intelligence"
-        - "finesse"
-      description: "Gain proficiency with one exotic weapon type."
-      tier: 2
-    - 
       name: "Face in a Crowd"
       aptitudes: 
         - "felloswhip"
         - "social"
-      description: "Can use Fellowship instead of Agility when Shadowing."
-      tier: 2
-    - 
-      name: "Greater Aim"
-      aptitudes:
-        - "finesse"
-        - "perception"
-      description: "Increases Aim bonus by another +5 (cumulative)."
+      description: "Can use FEL instead of AGI when Shadowing."
       tier: 2
     - 
       name: "Greater Careful Attack"
@@ -124,7 +110,7 @@
       aptitudes: 
         - "offense"
         - "social"
-      description: "Gain +10 bonus to attack hated creatures. Suffer -10 to any social roll. Must test willpower to disengage and break combat."
+      description: "Gain +10 bonus to HIT hated creatures. Suffer -10 to any social roll. Must test willpower to disengage and break combat."
       tier: 2
     - 
       name: "Improved Called Shot"
@@ -152,14 +138,14 @@
       aptitudes: 
         - "agility"
         - "offense"
-      description: "Reduce the two weapon penalty by 10."
+      description: "Negates two weapon fighting penalty."
       tier: 2
     - 
-      name: "Improved Swift Attack"
+      name: "Swift Attack"
       aptitudes: 
         - "agility"
         - "finesse"
-      description: "Reduce the swift attack penalty by 20."
+      description: "The character can swift attack (make one additional attack but suffer -10 HIT penalty)."
       tier: 2
     - 
       name: "Iron Jaw"
@@ -223,13 +209,6 @@
         - "strength"
         - "offense"
       description: "Add +10 (average medium armor) / +20 (average heavy armor) to overrun attempt."
-      tier: 2
-    - 
-      name: "Unarmed Specialist"
-      aptitudes: 
-        - "strength"
-        - "offense"
-      description: "Does not suffer penaly from unarmed combat. Natural weapons are POW -3 Vengeful(9) weapons."
       tier: 2
     - 
       name: "Whirlwind of Death"

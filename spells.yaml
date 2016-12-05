@@ -2,10 +2,10 @@
   spells: 
     -
       name: "Influence"
-      description: "RNG 6, COST 2, Darkeness. Target must pass a WIL test opposed to the casting's test. If it fails, the caster forces the target to take one action of his choice. The target looses one action on his next turn. After that, the target is immune to influence for 10 secs (2 rounds)."
+      description: "RNG 6, COST 1, Darkeness. Target must pass a WIL test opposed to the casting's test. If it fails, the caster forces the target to take one action of his choice. The target looses one action on his next turn. After that, the target is immune to influence for 10 secs (2 rounds)."
     -
       name: "Celerity"
-      description: "RNG 6, COST *, Air. Target gains +10 AGI for one round per mana spent."
+      description: "RNG 6, COST *, Air. Target gains +10 AGI for 10 round per mana spent."
     -
       name: "Minor invisibility"
       description: "RNG 6, COST *, Water. Target disapears for one round per mana spent. Any

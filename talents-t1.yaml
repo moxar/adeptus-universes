@@ -62,7 +62,7 @@
       aptitudes:
         - "finesse"
         - "perception"
-      description: "Increases Aim bonus by +5."
+      description: "When the character spends an action to aim, it counts as two."
       tier: 1
     -
       name: "Improved Careful Attack"
@@ -119,14 +119,14 @@
       aptitudes: 
         - "agility"
         - "fieldcraft"
-      description: "Draw one weapon per round as a Free Action."
+      description: "The character can draw one weapon as a free action at the beginning of the encounter. Additionaly, its initiative is increased by 2."
       tier: 1
     - 
       name: "Rapid Reload"
       aptitudes: 
         - "agility"
         - "fieldcraft"
-      description: "Reduce reload time by one action."
+      description: "The character gains one action per round, that can only be used to reload a weapon."
       tier: 1
     - 
       name: "Resistance"
@@ -139,7 +139,7 @@
       name: "Sound Constitution"
       aptitudes: 
         - "general"
-        - "defense"
+        - "toughness"
       description: "Gain two additional wounds in each location, and ignores additionnal 1 fatigue point."
       tier: 1
       stackable: true
