@@ -46,10 +46,19 @@ WIL	32
 	+ inquiry
 	+ ride
 	+ navigate
-	+ sound Constitution
+	+ sound constitution
 	+ survival
 	
 2016-12-05 Dans la gueule du loup [2000]
+	+ logic
+	+ improved careful attack
+	+ medicae
+	+ charm
+	+ dodge
+	+ ambidextrous
+	+ sound constitution
+	+ stealth
+
 	
 # GEAR
 # 1 eternal darkness gem
@@ -58,3 +67,8 @@ WIL	32
 # rapier (short sword)
 # dagger
 # 04 gc
+#
+# 1 eternal air gem
+# 150 gc
+# rapier (excellente qualité ++ avec enigme dessus)
+# 
