@@ -172,3 +172,10 @@
         - "finesse"
       description: "Use weapon group without penalty."
       tier: 1
+    - 
+      name: "Light Armor Training"
+      aptitudes:
+        - "defense"
+        - "strength"
+      description: "Doest not suffer armor penalty for combat action and stats while wearing light armor."
+      tier: 1

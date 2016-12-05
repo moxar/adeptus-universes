@@ -91,3 +91,10 @@
         - "defense"
       description: "Reduce TOU bonus to damage for the definition of the effect."
       tier: 3
+    - 
+      name: "Heavy Armor Training"
+      aptitudes:
+        - "defense"
+        - "strength"
+      description: "Doest not suffer armor penalty for combat action and stats while wearing heavy armor."
+      tier: 3

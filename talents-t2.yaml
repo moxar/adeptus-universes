@@ -217,3 +217,10 @@
         - "finesse"
       description: "Make one +0 attack to each threatened opponent one after the other. If an attack fails or get parried, the whirlwind stops. Dodge does not stop the whirlwind."
       tier: 2
+    - 
+      name: "Medium Armor Training"
+      aptitudes:
+        - "defense"
+        - "strength"
+      description: "Doest not suffer armor penalty for combat action and stats while wearing medium armor."
+      tier: 2
