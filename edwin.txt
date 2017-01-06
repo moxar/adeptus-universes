@@ -47,7 +47,15 @@ WIL	30
 	+ parry
 	
 2016-12-05 Dans la gueule du loup [2000]	
-	
+	+ STR +5
+	+ common lore	
+	+ survival
+	+ sound constitution
+	+ sound constitution
+	+ parry
+	+ light armor training
+	+ weapon training: shield
+	+ AGI +5
 # GEAR
 #	+ 6 poor quality daggers
 #	+ poor quality leather chest
