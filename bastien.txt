@@ -47,7 +47,14 @@ WIL	35
 	+ sound constitution
 	
 2016-12-05 Dans la gueule du loup [2000]
-
+	+ medicae
+	+ improved called shot
+	+ improved aim
+	+ awareness
+	+ dodge
+	+ AGI +5
+	+ light armor training
+	+ ride
 	
 # GEAR
 # 1 poor quality crossbow
