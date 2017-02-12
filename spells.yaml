@@ -3,13 +3,46 @@
     -
       name: "Influence"
       description: "RNG 6, COST 1, Darkeness. Target must pass a WIL test opposed to the casting's test. If it fails, the caster forces the target to take one action of his choice. The target looses one action on his next turn. After that, the target is immune to influence for 10 secs (2 rounds)."
+      cost: "25gp"
     -
       name: "Celerity"
       description: "RNG 6, COST *, Air. Target gains +10 AGI for 10 round per mana spent."
+      cost: "25gp"
     -
       name: "Minor invisibility"
       description: "RNG 6, COST *, Water. Target disapears for one round per mana spent. Any
       action that influences the environment breaks the spell."
+      cost: "25gp"
     -
       name: "Minor illusion"
       description: "RNG 8, COST *, Water. Creates a moving illusion of the character. The illusion can follow a predefined script. Lasts one minute per mana spent."
+      cost: "25gp"
+    -
+      name: "Shield of the righteous"
+      description: "RNG 6, COST *, Light. Target reduces incomming damage by 2. Penetration does not apply to this mitigation. Lasts one minute, or until the spell has affected a number of attacks equal to the mana spent."
+      cost: "25gp"
+    -
+      name: "Heal"
+      description: "RNG 0, COST *, Light. Target restores up to 2 HP per mana spent on a location and seals the wound.
+      Heal cannot be cast on a sealed wound. The amount of HP restored by heal cannot exceed the previous sealed value."
+      cost: "25gp"
+    -
+      name: "Primal fire burst"
+      description: "RNG 8, COST *, Fire. If the target cannot defends from the attack, it suffers a POW 2X, and the burning (X) condition, where X is the amount of mana spent."
+      cost: "25gp"
+    - 
+      name: "Inner fire"
+      description: "RNG 6, COST *, Fire. Target gains a cumulative +1 DMG per mana spent on melee attack, up to its WIL bonus.
+      Lasts one minute, or until target suffers one damage."
+      cost: "25gp"
+    - 
+      name: "Righteous retaliation"
+      description: "RNG 6, COST *, Fire. Whenever the target suffers damage, reduce this spell's stack by an amount equal to the damage taken. The creature that inflicted the damages suffers as much true damage as the number reduced from the stack.
+      Lasts one minute, or until the stack is empty. This spell's stack is 4 per mana spent, and can be refilled.
+      The stack is capped to WIL bonus of the target."
+      cost: "25gp"
+    -
+      name: "Wild fire"
+      description: "RNG 0, COST *, Fire. Creatures within 15 feet (3 tiles) that cannot defend from the attack suffer a POW 2X, and the burning (X) condition, where X is the amount of mana spent."
+      cost: "100gp"
+    

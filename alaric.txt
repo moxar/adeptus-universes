@@ -1,0 +1,59 @@
+name: Frère Alaric
+career: Mage, Explorator
+totem: Griffon
+
+AGI	32
+FEL	27
+INT	33
+PER	33
+STR	31
+TOU	29
+WIL	35
+
+2017-02-12 Creation [7250]
+	+ light armor training
+	+ linguistics
+	+ magic sense
+	+ medicae
+	+ scholastic lore
+	+ forbidden lore
+	+ ride
+	+ logic
+	+ arcane sense
+	+ awareness
+	+ awareness
+	+ navigate
+	+ navigate
+	+ scrutiny
+	+ scrutiny
+	+ survival
+	+ survival
+	+ dodge
+	+ sound constitution
+	+ sound constitution
+	+ sound constitution
+	+ sound constitution
+	+ specialist: syhar
+	+ INT +5
+	+ PER +5
+	+ TOU +5
+	+ TOU +5
+	+ WIL +5
+	+ WIL +5
+	+ AGI +5
+	+ power
+	+ power
+	+ chaos conduit
+	+ shield of the righteous
+	+ heal
+	+ righteous retaliation
+	+ primal fire burst
+	
+	
+# Gear:
+# - complete leather armor
+# - 5x eternal light gem
+# - 5x light gem
+# - 3x eternal fire gem
+# - 5x fire gem
+# - 60 gc
